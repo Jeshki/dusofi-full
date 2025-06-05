@@ -5,7 +5,7 @@ import IntroSection from "./IntroSection.jsx";
 import Filters from '../Filters.jsx';
 import PhilosopherCard from '../PhilosopherCard.jsx';
 import { useTranslation } from 'react-i18next';
-import SEO from '../components/SEO.jsx'; // Importuojame SEO komponentą
+import SEO from '../components/SEO.jsx';
 
 export default function HomePage({
   filteredPhilosophers,
@@ -25,9 +25,9 @@ export default function HomePage({
   return (
     <>
       <SEO
-        title={t('seo.home_page_title')}
-        description={t('seo.home_page_description')}
-      />
+  title={t('seo.home_page_title')} 
+  description={t('seo.home_page_description')} 
+/>
       <HeroSection />
       <IntroSection />
 
