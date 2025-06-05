@@ -1,0 +1,188 @@
+{
+  "header": {
+    "home": "Pradžia",
+    "philosophers": "Filosofai",
+    "ideologies": "Filosofijos",
+    "quotes": "Citatos",
+    "about": "Apie",
+    "open_menu": "Atidaryti meniu",
+    "close_menu": "Uždaryti meniu"
+  },
+  "footer": {
+    "all_rights_reserved": "Visos teisės saugomos.",
+    "privacy_policy": "Privatumo politika"
+  },
+  "hero_section": {
+    "title": "Atraskite citatas<br />iš įtakingiausių<br />filosofijos figūrų",
+    "subtitle": "Atskleiskite išmintį ir įkvėpimą"
+  },
+  "intro_section": {
+    "title": "Šios svetainės idėja",
+    "p1": "Ši svetainė sukurta siekiant pasidalinti nesenstančia išmintimi – žodžiais, kurie įkvepia, skatina apmąstymus ir siūlo naujas perspektyvas.",
+    "p2": "Šios kelionės širdyje – Sokratas, vienas didžiausių istorijos filosofų, kurio garsi citata „Žinau, kad nieko nežinau“ atspindi nuolankumo ir nuolatinio mokymosi esmę.",
+    "p3": "Ši platforma sujungia įtakingų mąstytojų, tiek praeities, tiek dabarties, balsus, siūlydama erdvę, kurioje jų įžvalgos gali įžiebti įkvėpimą ir vesti mus į priekį."
+  },
+  "home_page": {
+    "philosophers_title": "Filosofai",
+    "no_philosophers_found": "Filosofų, atitinkančių jūsų kriterijus, nerasta."
+  },
+  "philosophers_list_page": {
+    "title": "Naršyti filosofus",
+    "no_philosophers_found": "Filosofų, atitinkančių jūsų kriterijus, nerasta."
+  },
+  "philosopher_page": {
+    "philosopher_not_found": "Filosofas nerastas.",
+    "biography": "Biografija",
+    "short_story": "Trumpa istorija",
+    "quotes": "Citatos",
+    "no_detailed_biography_available": "Išsami biografija nepasiekiama.",
+    "no_short_story_available": "Trumpa istorija nepasiekiama.",
+    "no_quotes_available": "Citatos nepasiekiamos."
+  },
+  "quotes_page": {
+    "title": "Filosofinės citatos",
+    "subtitle": "Atraskite nesenstančią išmintį iš įtakingų mąstytojų per visą istoriją, arba suraskite atsitiktinį įkvėpimą.",
+    "search_placeholder": "Ieškoti citatų ar autorių...",
+    "show_random_quote": "Rodyti atsitiktinę citatą",
+    "clear_all_filters": "Išvalyti visus filtrus",
+    "no_quotes_found": "Citatų, atitinkančių jūsų kriterijus, nerasta.",
+    "page": "Puslapis",
+    "of": "iš",
+    "previous": "Ankstesnis",
+    "next": "Kitas",
+    "copied": "Nukopijuota!"
+  },
+  "filters": {
+    "ideological_group": "Ideologinė grupė",
+    "all_groups": "Visos grupės",
+    "geographical_region": "Geografinis regionas",
+    "all_regions": "Visi regionai",
+    "sort_by": "Rūšiuoti pagal",
+    "name_a_z": "Pavadinimas (A-Z)",
+    "oldest_first": "Seniausi pirmi (gimimo metai)",
+    "youngest_first": "Jauniausi pirmi (gimimo metai)",
+    "newest_by_death": "Naujausi pirmi (mirties metai)",
+    "chronological_order": "Chronologinė tvarka",
+    "all_periods": "Visi periodai",
+    "reset_all": "Atstatyti viską"
+  },
+  "ideologies_page": {
+    "title": "Filosofinės idėjos",
+    "view_philosophers_in_this_group": "Peržiūrėti filosofus šioje grupėje",
+    "page_description": "Šiame puslapyje pateikiamas pagrindinių filosofinių ideologijų aprašymas. Norėdami sužinoti daugiau apie konkrečius filosofus, susijusius su šiomis ideologijomis, naršykite filosofų sąrašo skyriuje.",
+    "back_to_top": "Grįžti į viršų"
+  },
+  "about_page": {
+    "title": "Mano portfelio svetainė",
+    "p1": "Prieš kurį laiką mano galvoje kilo idėja – sukurti asmeninę portfelio svetainę. Pradžia buvo kukli ir paprasta, tačiau palaipsniui ši vizija išaugo į daug reikšmingesnį projektą. Džiaugiuosi galėdamas pristatyti svetainę, sukurtą naudojant naujausias technologijas, kurioje, tikiuosi, rasite daug naudingos informacijos.",
+    "p2": "Čia rasite daugybę įkvepiančių citatų ir garsių asmenybių biografijų. Tikiu, kad lankytojai ras įžvalgų, kaip filosofija ir didžiųjų mąstytojų mintys veikia mūsų gyvenimą. Juk užaugome apsupti daugybės citatų, o dabar daugelio autorių idėjos tapo neatsiejama mūsų mąstymo dalimi.",
+    "p3": "Šis projektas gimė netikėtai – reabilitacijos sanatorijoje metu. Nusprendžiau laisvas minutes, kurios paprastai būtų skirtos poilsiui, panaudoti prasmingai ir įgyvendinti seną svajonę.",
+    "p4": "Nuoširdžiai noriu padėkoti brangiems žmonėms, be kurių šis projektas nebūtų išvydęs dienos šviesos. Pirmiausia, didelis AČIŪ mano antrajai pusei už neįkainojamą palaikymą, stiprybę, išmintį ir kūrybiškumą. Dėkoju sūnui už kasdienį įkvėpimą. Ir, žinoma, ačiū mamai ir močiutei už begalinę priežiūrą ir puoselėjimą.",
+    "p5": "Jei manote, kad mano darbas vertas įvertinimo ir norėtumėte prisidėti prie ateities projektų įgyvendinimo, būčiau nuoširdžiai dėkingas už jūsų paramą. Dar turiu daug idėjų ir planų, kuriuos nekantrauju paversti realybe!"
+  },
+  "philosopher_card": {
+    "view_details": "Peržiūrėti detales",
+    "no_quote_available": "(Citatų nėra)"
+  },
+  "geographical_regions": {
+    "GREECE": "Graikija",
+    "ROME": "Roma",
+    "GERMANY": "Vokietija",
+    "FRANCE": "Prancūzija",
+    "ITALY": "Italija",
+    "BRITISH_ISLES": "Britų salos",
+    "EUROPE": "Europa",
+    "NORTH_AMERICA": "Šiaurės Amerika",
+    "NORTH_AFRICA": "Afrika",
+    "INDIA": "Indija",
+    "EAST": "Rytai"
+  },
+  "chronological_periods": {
+    "ANCIENT": "Antika",
+    "CLASSICAL": "Klasika",
+    "MEDIEVAL": "Viduramžiai",
+    "RENAISSANCE": "Renesansas",
+    "EARLY_MODERN": "Ankstyvieji Naujieji laikai",
+    "MODERN": "Naujieji laikai",
+    "CONTEMPORARY": "Šiuolaikinė"
+  },
+  "ideological_groups_display": {
+    "Christian Philosophy": "Krikščioniškoji filosofija",
+    "Materialists": "Materialistai",
+    "Idealist": "Idealistai",
+    "Empiricism/Realism": "Empirizmas/Realizmas",
+    "Rationalism/Dualism": "Racionalizmas/Dualizmas",
+    "Critical/Existentialism/Phenomenology": "Kritinė filosofija/Egzistencializmas/Fenomenologija",
+    "Islamic Philosophy": "Islamo filosofija",
+    "Hinduism": "Hinduizmas",
+    "Buddhism": "Budizmas",
+    "Spirituality": "Dvasingumas",
+    "Ethics/Politics": "Etika/Politika",
+    "Stoics": "Stoikai"
+  },
+  "privacy_policy": {
+    "title": "Privatumo Politika",
+    "intro": "Ši Privatumo Politika aprašo, kaip jūsų asmens duomenys yra renkami, naudojami ir dalijami, kai lankotės ar naudojatės šia svetaine.",
+    "data_collection": {
+      "title": "Informacija, kurią renkame",
+      "p1": "Mes tiesiogiai nerenkame jokios asmenį identifikuojančios informacijos iš mūsų lankytojų. Ši svetainė yra skirta būti grynai informacinio pobūdžio ir neturi funkcijų, reikalaujančių asmens duomenų įvedimo (pvz., vartotojų paskyrų, kontaktinių formų, komentarų skilčių).",
+      "list1": "Mes nenaudojame analizės įrankių (pvz., Google Analytics), kurie seka jūsų elgesį.",
+      "list2": "Mes nerenkame jūsų IP adreso ar kitos identifikuojančios tinklo informacijos.",
+      "list3": "Mes nerenkame informacijos apie jūsų naršyklę, įrenginį ar operacinę sistemą.",
+      "p2": "Bet kokie duomenys, apdorojami trečiųjų šalių paslaugomis (jei tokios netiesiogiai naudojamos, pvz., svetainės prieglobos teikėjo žurnalai), yra už mūsų tiesioginės kontrolės ir nėra aktyviai renkami ar valdomi mūsų analizės ar rinkodaros tikslais."
+    },
+    "cookies": {
+      "title": "Slapukai (Cookies)",
+      "p1": "Ši svetainė naudoja tik būtinuosius slapukus pagrindinėms funkcijoms užtikrinti, konkrečiai – jūsų tamsiojo režimo nuostatoms ir jūsų slapukų sutikimo pasirinkimui valdyti.",
+      "p2": "Šie slapukai nerenka jokių asmens duomenų ir yra būtini, kad svetainė veiktų taip, kaip tikimasi. Mes nenaudojame trečiųjų šalių reklamos ar sekimo slapukų.",
+      "p3": "Toliau naudodamiesi šia svetaine, jūs sutinkate su šių būtinųjų slapukų naudojimu. Jūsų tamsiojo režimo nuostata išsaugoma jūsų įrenginyje patogumo dėlei."
+    },
+    "data_security": {
+      "title": "Duomenų saugumas",
+      "p1": "Atsižvelgiant į tai, kad mes nerenkame asmens duomenų, duomenų pažeidimų rizika yra sumažinta iki minimumo. Mes stengiamės palaikyti savo svetainės saugumą ir apsaugoti ją nuo neteisėtos prieigos."
+    },
+    "your_rights": {
+      "title": "Jūsų teisės",
+      "p1": "Pagal BDAR (Bendrąjį duomenų apsaugos reglamentą) jūs turite tam tikras teises, susijusias su jūsų asmens duomenimis. Kadangi mes nerenkame asmens duomenų, dauguma šių teisių nėra taikomos. Tačiau mes užtikriname skaidrumą dėl duomenų tvarkymo:",
+      "list1": "Teisė į informaciją: Jūs turite teisę žinoti, kokius duomenis mes renkame (mūsų atveju – jokių).",
+      "list2": "Teisė į ištrynimą („teisė būti pamirštam“): Kadangi mes nesaugome jūsų asmens duomenų, nėra jokių duomenų, kuriuos reikėtų ištrinti.",
+      "list3": "Teisė prieštarauti: Jūs galite prieštarauti slapukų naudojimui per savo naršyklės nustatymus arba atsisakydami mūsų slapukų sutikimo.",
+      "list4": "Teisė susipažinti: Galite peržiūrėti mūsų atvirojo kodo kodą, kad patikrintumėte mūsų duomenų tvarkymo praktiką.",
+      "p2": "Jei turite kokių nors susirūpinimą dėl privatumo, galite koreguoti savo naršyklės nustatymus arba tiesiog nustoti naudotis svetaine."
+    },
+    "changes": {
+      "title": "Šios Privatumo Politikos pakeitimai",
+      "p1": "Mes galime retkarčiais atnaujinti šią Privatumo Politiką, kad atspindėtume mūsų praktikos pokyčius arba dėl kitų operacinių, teisinių ar reguliavimo priežasčių. Bet kokie pakeitimai bus paskelbti šiame puslapyje."
+    },
+    "contact": {
+      "title": "Susisiekite su mumis",
+      "p1": "Jei turite klausimų dėl šios Privatumo Politikos ar jūsų duomenų, susisiekite su mumis el. paštu.",
+      "p2": "El. paštas: karoliscibiras@gmail.com"
+    },
+    "back_to_home": "Grįžti į pradžią"
+  },
+  "cookie_consent": {
+    "text": "Mes naudojame būtinuosius slapukus, siekdami užtikrinti pagrindinę svetainės funkcionalumą. Asmens duomenys nerenkami. Spausdami „Priimti“ arba toliau naršydami svetainėje, sutinkate su šių slapukų naudojimu. Skaitykite mūsų",
+    "privacy_policy": "Privatumo politiką",
+    "accept": "Priimti",
+    "decline": "Atsisakyti"
+  },
+  "seo": {
+    "home_page_title": "Atraskite filosofijos citatas | DuSofi",
+    "home_page_description": "Tyrinėkite nesenstančią išmintį ir įkvepiančias citatas iš įtakingiausių filosofų per visą istoriją DuSofi svetainėje.",
+    "philosophers_page_title": "Tyrinėkite filosofus | DuSofi",
+    "philosophers_page_description": "Atraskite išsamų filosofų sąrašą, jų biografijas ir pagrindines idėjas DuSofi svetainėje.",
+    "philosopher_page_title_dynamic": "{philosopherName} | Filosofo profilis | DuSofi",
+    "philosopher_page_description_dynamic": "Sužinokite apie {philosopherName} ({years}) gyvenimą, filosofiją ir citatas DuSofi svetainėje.",
+    "quotes_page_title": "Filosofinės citatos | DuSofi",
+    "quotes_page_description": "Raskite įkvepiančias filosofines citatas iš garsių mąstytojų. Ieškokite, filtruokite ir atraskite nesenstančią išmintį DuSofi svetainėje.",
+    "ideologies_page_title": "Filosofinės ideologijos | DuSofi",
+    "ideologies_page_description": "Tyrinėkite pagrindines filosofines ideologijas, jų koncepcijas ir susijusius mąstytojus DuSofi svetainėje.",
+    "about_page_title": "Apie DuSofi | Mano Portfolio Svetainė",
+    "about_page_description": "Sužinokite apie DuSofi kūrimą ir tikslą – asmeninį portfolio projektą, pristatantį filosofiją ir išmintį.",
+    "privacy_policy_title": "Privatumo politika | DuSofi",
+    "privacy_policy_description": "Perskaitykite mūsų Privatumo politiką, kad suprastumėte, kaip DuSofi tvarko jūsų duomenis ir slapukų nuostatas. Mes pirmenybę teikiame jūsų privatumui.",
+    "philosopher_not_found_title": "Filosofas nerastas | DuSofi",
+    "philosopher_not_found_description": "Prašomas filosofas nerastas. Naršykite mūsų turimų filosofų sąrašą DuSofi svetainėje."
+  }
+}

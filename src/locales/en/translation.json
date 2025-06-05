@@ -1,0 +1,188 @@
+{
+  "header": {
+    "home": "Home",
+    "philosophers": "Philosophers",
+    "ideologies": "Philosophies",
+    "quotes": "Quotes",
+    "about": "About",
+    "open_menu": "Open menu",
+    "close_menu": "Close menu"
+  },
+  "footer": {
+    "all_rights_reserved": "All rights reserved.",
+    "privacy_policy": "Privacy Policy"
+  },
+  "hero_section": {
+    "title": "Discover Quotes<br />From Philosophy's<br />Influential Figures",
+    "subtitle": "Unlock Wisdom and Inspiration"
+  },
+  "intro_section": {
+    "title": "Idea of this website",
+    "p1": "This website was created from a desire to share timeless wisdom — words that inspire, encourage reflection, and offer new perspectives.",
+    "p2": "At the heart of this journey is Socrates, one of history’s greatest philosophers, whose famous quote, “I know that I know nothing,” captures the essence of humility and lifelong learning.",
+    "p3": "This platform brings together the voices of influential thinkers, past and present, offering a space where their insights can spark inspiration and guide us forward."
+  },
+  "home_page": {
+    "philosophers_title": "Philosophers",
+    "no_philosophers_found": "No philosophers found matching your criteria."
+  },
+  "philosophers_list_page": {
+    "title": "Explore Philosophers",
+    "no_philosophers_found": "No philosophers found matching your criteria."
+  },
+  "philosopher_page": {
+    "philosopher_not_found": "Philosopher not found.",
+    "biography": "Biography",
+    "short_story": "Short Story",
+    "quotes": "Quotes",
+    "no_detailed_biography_available": "No detailed biography available.",
+    "no_short_story_available": "No short story available.",
+    "no_quotes_available": "No quotes available."
+  },
+  "quotes_page": {
+    "title": "Philosophical Quotes",
+    "subtitle": "Explore timeless wisdom from influential thinkers throughout history, or find a random inspiration.",
+    "search_placeholder": "Search quotes or authors...",
+    "show_random_quote": "Show Random Quote",
+    "clear_all_filters": "Clear All Filters",
+    "no_quotes_found": "No quotes found matching your criteria.",
+    "page": "Page",
+    "of": "of",
+    "previous": "Previous",
+    "next": "Next",
+    "copied": "Copied!"
+  },
+  "filters": {
+    "ideological_group": "Ideological Group",
+    "all_groups": "All Groups",
+    "geographical_region": "Geographical Region",
+    "all_regions": "All Regions",
+    "sort_by": "Sort By",
+    "name_a_z": "Name (A-Z)",
+    "oldest_first": "Oldest First (Birth Year)",
+    "youngest_first": "Youngest First (Birth Year)",
+    "newest_by_death": "Newest First (Death Year)",
+    "chronological_order": "Chronological Order",
+    "all_periods": "All Periods",
+    "reset_all": "Reset All"
+  },
+  "ideologies_page": {
+    "title": "Philosophical Ideologies",
+    "view_philosophers_in_this_group": "View Philosophers in this group",
+    "page_description": "This page provides a description of major philosophical ideologies. To learn more about specific philosophers associated with these ideologies, please explore the philosophers list section.",
+    "back_to_top": "Back to top"
+  },
+  "about_page": {
+    "title": "My Portfolio Website",
+    "p1": "A while ago, an idea sparked in my mind – to create a personal portfolio website. The beginning was humble and simple, but gradually, this vision grew into a much more substantial project. I'm delighted to present a website built using the latest technologies, where I hope you'll find a lot of useful information.",
+    "p2": "Here, you'll discover a wealth of inspiring quotes and biographies of famous personalities. I believe visitors will find insights into how philosophy and the thoughts of great thinkers influence our lives. After all, we grew up surrounded by countless quotes, and now the ideas of many authors have become an integral part of our thinking.",
+    "p3": "This project was born unexpectedly – during rehabilitation at a sanatorium. I decided to use the free moments, which would normally be for rest, meaningfully and realize an old dream.",
+    "p4": "I sincerely want to thank the dear people without whom this project would not have seen the light of day. First and foremost, a big THANK YOU to my significant other for their invaluable support, strength, wisdom, and creativity. Thank you to my son for daily inspiration. And, of course, thank you to my mother and grandmother for their endless care and nurture.",
+    "p5": "If you believe my work is worthy of appreciation and would like to contribute to the realization of future projects, I would be sincerely grateful for your support. I still have many ideas and plans that I can't wait to turn into reality!"
+  },
+  "philosopher_card": {
+    "view_details": "View Details",
+    "no_quote_available": "(No quote available)"
+  },
+  "geographical_regions": {
+    "GREECE": "Greece",
+    "ROME": "Rome",
+    "GERMANY": "Germany",
+    "FRANCE": "France",
+    "ITALY": "Italy",
+    "BRITISH_ISLES": "British Isles",
+    "EUROPE": "Europe",
+    "NORTH_AMERICA": "North America",
+    "NORTH_AFRICA": "Africa",
+    "INDIA": "India",
+    "EAST": "East"
+  },
+  "chronological_periods": {
+    "ANCIENT": "Ancient",
+    "CLASSICAL": "Classical",
+    "MEDIEVAL": "Medieval",
+    "RENAISSANCE": "Renaissance",
+    "EARLY_MODERN": "Early Modern",
+    "MODERN": "Modern",
+    "CONTEMPORARY": "Contemporary"
+  },
+  "ideological_groups_display": {
+    "Christian Philosophy": "Christian Philosophy",
+    "Materialists": "Materialists",
+    "Idealist": "Idealist",
+    "Empiricism/Realism": "Empiricism/Realism",
+    "Rationalism/Dualism": "Rationalism/Dualism",
+    "Critical/Existentialism/Phenomenology": "Critical Philosophy/Existentialism/Phenomenology",
+    "Islamic Philosophy": "Islamic Philosophy",
+    "Hinduism": "Hinduism",
+    "Buddhism": "Buddhism",
+    "Spirituality": "Spirituality",
+    "Ethics/Politics": "Ethics/Politics",
+    "Stoics": "Stoics"
+  },
+  "privacy_policy": {
+    "title": "Privacy Policy",
+    "intro": "This Privacy Policy describes how your personal data is collected, used, and shared when you visit or use this website.",
+    "data_collection": {
+      "title": "Information We Collect",
+      "p1": "We do not directly collect any personally identifiable information from our visitors. This website is designed to be purely informative and does not have features that require personal data input (e.g., user accounts, contact forms, comment sections).",
+      "list1": "We do not use analytics tools (like Google Analytics) that track your behavior.",
+      "list2": "We do not collect your IP address or any other identifying network information.",
+      "list3": "We do not collect information about your browser, device, or operating system.",
+      "p2": "Any data processed by third-party services (if any are implicitly used, such as hosting provider logs) is outside our direct control and is not actively collected or managed by us for analytical or marketing purposes."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "p1": "This website uses only essential cookies for its basic functionality, specifically for managing your dark mode preference and your cookie consent choice.",
+      "p2": "These cookies do not collect any personal data and are necessary for the website to function as expected. We do not use third-party advertising or tracking cookies.",
+      "p3": "By continuing to use this website, you consent to the use of these essential cookies. Your dark mode preference is stored locally on your device for your convenience."
+    },
+    "data_security": {
+      "title": "Data Security",
+      "p1": "Given that we do not collect personal data, the risk of data breaches is minimized. We strive to maintain the security of our website and protect it from unauthorized access."
+    },
+    "your_rights": {
+      "title": "Your Rights",
+      "p1": "Under the GDPR (General Data Protection Regulation), you have certain rights regarding your personal data. Since we do not collect personal data, most of these rights are not applicable. However, we ensure transparency regarding data processing:",
+      "list1": "Right to information: You have the right to know what data we collect (which, in our case, is none).",
+      "list2": "Right to erasure ('right to be forgotten'): Since we do not store your personal data, there is no data to erase.",
+      "list3": "Right to object: You can object to the use of cookies through your browser settings or by declining our cookie consent.",
+      "list4": "Right to access: You can review our open-source code to verify our data practices.",
+      "p2": "For any concerns related to privacy, you can adjust your browser settings or simply stop using the website."
+    },
+    "changes": {
+      "title": "Changes to This Privacy Policy",
+      "p1": "We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. Any changes will be posted on this page."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "p1": "If you have any questions about this Privacy Policy or your data, please contact us via email.",
+      "p2": "Email: karoliscibiras@gmail.com"
+    },
+    "back_to_home": "Back to Home"
+  },
+  "cookie_consent": {
+    "text": "We use essential cookies to ensure the basic functionality of the website. No personal data is collected. By clicking 'Accept' or continuing to use the site, you agree to our use of these cookies. Read our",
+    "privacy_policy": "Privacy Policy",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "seo": {
+    "home_page_title": "Discover Philosophy Quotes | DuSofi",
+    "home_page_description": "Explore timeless wisdom and inspiring quotes from influential philosophers throughout history on DuSofi.",
+    "philosophers_page_title": "Explore Philosophers | DuSofi",
+    "philosophers_page_description": "Discover a comprehensive list of philosophers, their biographies, and core ideas on DuSofi.",
+    "philosopher_page_title_dynamic": "{philosopherName} | Philosopher Profile | DuSofi",
+    "philosopher_page_description_dynamic": "Learn about the life, philosophy, and quotes of {philosopherName} ({years}) on DuSofi.",
+    "quotes_page_title": "Philosophical Quotes | DuSofi",
+    "quotes_page_description": "Find inspiring philosophical quotes by famous thinkers. Search, filter, and discover timeless wisdom on DuSofi.",
+    "ideologies_page_title": "Philosophical Ideologies | DuSofi",
+    "ideologies_page_description": "Explore major philosophical ideologies, their concepts, and associated thinkers on DuSofi.",
+    "about_page_title": "About DuSofi | My Portfolio Website",
+    "about_page_description": "Learn about the creation and purpose of DuSofi, a personal portfolio project showcasing philosophy and wisdom.",
+    "privacy_policy_title": "Privacy Policy | DuSofi",
+    "privacy_policy_description": "Read our Privacy Policy to understand how DuSofi handles your data and cookie preferences. We prioritize your privacy.",
+    "philosopher_not_found_title": "Philosopher Not Found | DuSofi",
+    "philosopher_not_found_description": "The requested philosopher could not be found. Explore our list of available philosophers on DuSofi."
+  }
+}
