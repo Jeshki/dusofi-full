@@ -55,8 +55,8 @@ export default function PhilosopherCard({ philosopher, onClick, linkToDetail = f
         {!linkToDetail && onClick && (
           <div className="flex flex-col gap-2 mt-4 mt-auto">
             <div className="grid grid-cols-2 gap-2">
-              {/* Mygtukas "Biography" */}
-              {(philosopher.biography || philosopher.bio || philosopher.about) && (
+              {/* Mygtukas "Biography" - rodomas tik jei yra pilna biografija */}
+              {philosopher.biography && (
                 <button onClick={() => onClick(philosopher, 'biography')} className={secondaryButtonStyle} aria-label={`Biography of ${philosopher.name}`} title={`Show biography of ${philosopher.name}`}>{t('philosopher_page.biography')}</button>
               )}
               {/* Mygtukas "Short Story" */}

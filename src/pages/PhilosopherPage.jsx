@@ -5,6 +5,16 @@ import { philosophers } from "../data";
 import { useTranslation } from 'react-i18next';
 import SEO from '../components/SEO.jsx';
 
+// Helper component to render content with paragraphs
+const RenderContentWithFallback = ({ content, fallbackMessage }) => {
+  if (!content) {
+    return <p>{fallbackMessage}</p>;
+  }
+  return content.split('\n').map((paragraph, index) => (
+    paragraph.trim() && <p key={index}>{paragraph.trim()}</p>
+  ));
+};
+
 export default function PhilosopherPage() {
   const { t, i18n } = useTranslation();
   const { id } = useParams();
@@ -97,19 +107,17 @@ export default function PhilosopherPage() {
 
       <div className="text-lg leading-relaxed text-gray-800 dark:text-gray-300 space-y-4 prose dark:prose-invert max-w-none">
         {activeTab === 'biography' && (
-          getBiographyContent() ?
-          getBiographyContent().split('\n').map((paragraph, index) => (
-            paragraph.trim() && <p key={index}>{paragraph.trim()}</p>
-          )) :
-          <p>{t('philosopher_page.no_detailed_biography_available')}</p>
+          <RenderContentWithFallback
+            content={getBiographyContent()}
+            fallbackMessage={t('philosopher_page.no_detailed_biography_available')}
+          />
         )}
 
         {activeTab === 'shortStory' && (
-          getShortStoryContent() ?
-          getShortStoryContent().split('\n').map((paragraph, index) => (
-            paragraph.trim() && <p key={index}>{paragraph.trim()}</p>
-          )) :
-          <p>{t('philosopher_page.no_short_story_available')}</p>
+          <RenderContentWithFallback
+            content={getShortStoryContent()}
+            fallbackMessage={t('philosopher_page.no_short_story_available')}
+          />
         )}
 
         {activeTab === 'quotes' && getQuotesContent() && getQuotesContent().length > 0 ? (

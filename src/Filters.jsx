@@ -92,11 +92,8 @@ export default function Filters({
           onChange={(e) => setSortBy(e.target.value)}
           className="p-2 rounded-xl border border-gray-300 focus:outline-none focus:ring focus:ring-purple-300 dark:bg-gray-800 dark:border-gray-600 dark:text-white h-[42px]"
         >
-          <option value="default">{t('filters.name_a_z')}</option>
           <option value="oldest_first">{t('filters.oldest_first')}</option>
           <option value="youngest_first">{t('filters.youngest_first')}</option>
-          <option value="newest_by_death">{t('filters.newest_by_death')}</option>
-          <option value="chronological">{t('filters.chronological_order')}</option>
         </select>
       </div>
     </div>

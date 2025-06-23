@@ -92,7 +92,10 @@ export const IdeologicalGroups = {
 
   "Stoics": [
     'Stoicism',
-  ]
+  ],
+  "Pessimism": [ // Nauja grupė Schopenhaueriui
+    'Pessimism'
+  ],
 };
 
 // Enum for chronological order filtering

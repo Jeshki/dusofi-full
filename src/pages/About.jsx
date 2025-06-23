@@ -1,6 +1,7 @@
 // src/pages/About.jsx
 import React from "react";
-import { FaQuoteLeft, FaFeatherAlt, FaRegLightbulb } from "react-icons/fa";
+// Importuokite reikiamas piktogramas iš Heroicons
+import { SparklesIcon, ChatBubbleLeftRightIcon, BookOpenIcon } from "@heroicons/react/24/solid"; // Galite naudoti „outline“ piktogramas, jei pageidaujate
 import { useTranslation } from 'react-i18next';
 import SEO from '../components/SEO.jsx'; // Importuojame SEO komponentą
 
@@ -18,15 +19,15 @@ export default function About() {
       </h2>
       <div className="max-w-4xl mx-auto space-y-8 text-lg leading-relaxed font-serif">
         <p className="flex items-start gap-4">
-          <FaRegLightbulb className="mt-1 text-rose-900 dark:text-rose-700 text-xl shrink-0" />
+          <SparklesIcon className="mt-1 text-rose-900 dark:text-rose-700 text-xl shrink-0 h-6 w-6" /> {/* Pakeista FaRegLightbulb */}
           {t('about_page.p1')}
         </p>
         <p className="flex items-start gap-4">
-          <FaQuoteLeft className="mt-1 text-rose-900 dark:text-rose-700 text-xl shrink-0" />
+          <ChatBubbleLeftRightIcon className="mt-1 text-rose-900 dark:text-rose-700 text-xl shrink-0 h-6 w-6" /> {/* Pakeista FaQuoteLeft */}
           {t('about_page.p2')}
         </p>
         <p className="flex items-start gap-4">
-          <FaFeatherAlt className="mt-1 text-rose-900 dark:text-rose-700 text-xl shrink-0" />
+          <BookOpenIcon className="mt-1 text-rose-900 dark:text-rose-700 text-xl shrink-0 h-6 w-6" /> {/* Pakeista FaFeatherAlt */}
           {t('about_page.p3')}
         </p>
 

@@ -1,5 +1,6 @@
+// src/pages/BackToTopButton.jsx
 import React, { useState, useEffect } from 'react';
-import { FaArrowUp } from 'react-icons/fa'; // Importuojame rodyklės ikoną
+import { ArrowUpIcon } from '@heroicons/react/24/solid'; // Importuojame rodyklės ikoną iš Heroicons
 
 export default function BackToTopButton() {
   const [isVisible, setIsVisible] = useState(false);
@@ -38,7 +39,7 @@ export default function BackToTopButton() {
           aria-label="Grįžti į viršų"
           title="Grįžti į viršų"
         >
-          <FaArrowUp className="text-xl" />
+          <ArrowUpIcon className="h-6 w-6" /> {/* Pakeista FaArrowUp */}
         </button>
       )}
     </div>

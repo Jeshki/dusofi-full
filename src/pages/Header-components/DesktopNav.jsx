@@ -1,7 +1,8 @@
 // src/pages/Header-components/DesktopNav.jsx
 import React from "react";
 import { NavLink } from "react-router-dom";
-import { BsSunFill, BsMoonStarsFill } from "react-icons/bs";
+// Importuokite reikiamas piktogramas iš Heroicons
+import { SunIcon, MoonIcon } from "@heroicons/react/24/solid";
 import { useTranslation } from 'react-i18next';
 
 export default function DesktopNav({ darkMode, setDarkMode }) {
@@ -27,7 +28,7 @@ export default function DesktopNav({ darkMode, setDarkMode }) {
           aria-label="Toggle dark mode"
         >
           <div className={`transform transition-transform duration-300 ${darkMode ? "translate-x-6" : "translate-x-0"}`}>
-            {darkMode ? <BsSunFill className="text-white" /> : <BsMoonStarsFill className="text-gray-800" />}
+            {darkMode ? <SunIcon className="text-white h-5 w-5" /> : <MoonIcon className="text-gray-800 h-5 w-5" />} {/* Pakeista BsSunFill ir BsMoonStarsFill */}
           </div>
         </button>
       </li>

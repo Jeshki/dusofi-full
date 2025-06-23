@@ -58,11 +58,8 @@
     "geographical_region": "Geografinis regionas",
     "all_regions": "Visi regionai",
     "sort_by": "Rūšiuoti pagal",
-    "name_a_z": "Pavadinimas (A-Z)",
     "oldest_first": "Seniausi pirmi (gimimo metai)",
     "youngest_first": "Jauniausi pirmi (gimimo metai)",
-    "newest_by_death": "Naujausi pirmi (mirties metai)",
-    "chronological_order": "Chronologinė tvarka",
     "all_periods": "Visi periodai",
     "reset_all": "Atstatyti viską"
   },
@@ -77,7 +74,7 @@
     "p1": "Prieš kurį laiką mano galvoje kilo idėja – sukurti asmeninę portfelio svetainę. Pradžia buvo kukli ir paprasta, tačiau palaipsniui ši vizija išaugo į daug reikšmingesnį projektą. Džiaugiuosi galėdamas pristatyti svetainę, sukurtą naudojant naujausias technologijas, kurioje, tikiuosi, rasite daug naudingos informacijos.",
     "p2": "Čia rasite daugybę įkvepiančių citatų ir garsių asmenybių biografijų. Tikiu, kad lankytojai ras įžvalgų, kaip filosofija ir didžiųjų mąstytojų mintys veikia mūsų gyvenimą. Juk užaugome apsupti daugybės citatų, o dabar daugelio autorių idėjos tapo neatsiejama mūsų mąstymo dalimi.",
     "p3": "Šis projektas gimė netikėtai – reabilitacijos sanatorijoje metu. Nusprendžiau laisvas minutes, kurios paprastai būtų skirtos poilsiui, panaudoti prasmingai ir įgyvendinti seną svajonę.",
-    "p4": "Nuoširdžiai noriu padėkoti brangiems žmonėms, be kurių šis projektas nebūtų išvydęs dienos šviesos. Pirmiausia, didelis AČIŪ mano antrajai pusei už neįkainojamą palaikymą, stiprybę, išmintį ir kūrybiškumą. Dėkoju sūnui už kasdienį įkvėpimą. Ir, žinoma, ačiū mamai ir močiutei už begalinę priežiūrą ir puoselėjimą.",
+    "p4": "Nuoširdžiai noriu padėkoti brangiems žmonėms, be kurių šis projektas nebūtų išvydęs dienos šviesos. Pirmiausia, didelis AČIŪ mano antrajai pusei už neįkainojamą palaikymą, stiprybę, išmintį. Dėkoju sūnui už kasdienį įkvėpimą, jo smalsumą ir kūrybiškumą. Ir, žinoma, ačiū mamai ir močiutei už rūpestingumą.",
     "p5": "Jei manote, kad mano darbas vertas įvertinimo ir norėtumėte prisidėti prie ateities projektų įgyvendinimo, būčiau nuoširdžiai dėkingas už jūsų paramą. Dar turiu daug idėjų ir planų, kuriuos nekantrauju paversti realybe!"
   },
   "philosopher_card": {
@@ -118,7 +115,8 @@
     "Buddhism": "Budizmas",
     "Spirituality": "Dvasingumas",
     "Ethics/Politics": "Etika/Politika",
-    "Stoics": "Stoikai"
+    "Stoics": "Stoikai",
+    "Pessimism": "Pesimizmas"
   },
   "privacy_policy": {
     "title": "Privatumo Politika",

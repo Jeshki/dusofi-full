@@ -57,7 +57,9 @@ export default function BioModal({ philosopher, contentType, onClose }) {
           {philosopher.name}
         </h3>
         <p className="text-lg font-semibold text-indigo-600 dark:text-indigo-400 mb-4 capitalize">
-          {contentType === 'biography' ? t('philosopher_page.biography') : t(`philosopher_page.${contentType}`)} {/* Naudojame lokalizuotus raktus */}
+          {contentType === 'biography' ? t('philosopher_page.biography') :
+           contentType === 'shortStory' ? t('philosopher_page.short_story') : // Pataisyta, kad naudotų teisingą vertimo raktą
+           t(`philosopher_page.${contentType}`)} {/* Naudojame lokalizuotus raktus, pvz., quotes */}
         </p>
         {philosopher.years && (
           <p className="text-sm text-gray-500 dark:text-gray-400 mb-6">
@@ -82,13 +84,6 @@ export default function BioModal({ philosopher, contentType, onClose }) {
             </ul>
           ) : (
             contentType === 'quotes' && <p>{t('philosopher_page.no_quotes_available')}</p> // Naudojame lokalizuotą tekstą
-          )}
-           {/* Pranešimas, jei pasirinktam skirtukui trūksta turinio */}
-           {(contentType === 'biography' && !getLocalizedContent('biography')) && (
-            <p>{t('philosopher_page.no_detailed_biography_available')}</p> // Naudojame lokalizuotą tekstą
-          )}
-           {(contentType === 'shortStory' && !getLocalizedContent('shortStory')) && (
-            <p>{t('philosopher_page.no_short_story_available')}</p> // Naudojame lokalizuotą tekstą
           )}
         </div>
       </div>

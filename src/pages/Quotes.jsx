@@ -88,18 +88,6 @@ export default function QuotesPage() {
       });
   }, []);
 
-  const handleShareQuote = useCallback((quoteText, quoteAuthor, quoteId) => {
-    const fullQuote = `"${quoteText}" — ${quoteAuthor}\n\nRead more philosophical quotes at ${window.location.origin}/quotes`; // Pridėtas domeno adresas
-    navigator.clipboard.writeText(fullQuote)
-      .then(() => {
-        setCopyFeedback(quoteId);
-        setTimeout(() => setCopyFeedback(null), 2000);
-      })
-      .catch(err => {
-        console.error('Failed to share quote: ', err);
-      });
-  }, []);
-
   const getFilteredAndSortedQuotes = useMemo(() => {
     let result = [...allQuotes];
 
@@ -276,14 +264,6 @@ export default function QuotesPage() {
                       title="Copy quote"
                     >
                       <FaCopy />
-                    </button>
-                    <button
-                      onClick={() => handleShareQuote(item.quote, item.author, item.id)}
-                      className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-rose-900 focus:ring-offset-2 dark:focus:ring-offset-stone-800"
-                      aria-label="Share quote"
-                      title="Share quote"
-                    >
-                      <FaShareAlt />
                     </button>
                     {copyFeedback === item.id && (
                       <span className="ml-2 text-sm text-rose-700 animate-fadeIn flex items-center">{t('quotes_page.copied')}</span>

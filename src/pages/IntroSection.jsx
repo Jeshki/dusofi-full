@@ -1,6 +1,7 @@
 // src/pages/IntroSection.jsx
 import React from "react";
-import { FaQuoteLeft, FaFeatherAlt, FaRegLightbulb } from "react-icons/fa";
+// Importuokite reikiamas piktogramas iš Heroicons
+import { ChatBubbleLeftRightIcon, PencilSquareIcon, LightBulbIcon } from "@heroicons/react/24/solid"; // Galite naudoti „outline“ piktogramas, jei pageidaujate
 import { useTranslation } from 'react-i18next'; // <--- Importuokite useTranslation
 
 export default function IntroSection() {
@@ -14,15 +15,15 @@ export default function IntroSection() {
       </h2>
       <div className="max-w-4xl mx-auto space-y-8 text-lg leading-relaxed font-serif">
         <p className="flex items-start gap-4">
-          <FaQuoteLeft className="mt-1 text-rose-900 dark:text-rose-700 text-xl shrink-0" />
+          <ChatBubbleLeftRightIcon className="mt-1 text-rose-900 dark:text-rose-700 text-xl shrink-0 h-6 w-6" /> {/* Pakeista FaQuoteLeft */}
           {t('intro_section.p1')} {/* <--- Naudokite t() funkciją */}
         </p>
         <p className="flex items-start gap-4">
-          <FaFeatherAlt className="mt-1 text-rose-900 dark:text-rose-700 text-xl shrink-0" />
+          <PencilSquareIcon className="mt-1 text-rose-900 dark:text-rose-700 text-xl shrink-0 h-6 w-6" /> {/* Pakeista FaFeatherAlt */}
           {t('intro_section.p2')} {/* <--- Naudokite t() funkciją */}
         </p>
         <p className="flex items-start gap-4">
-          <FaRegLightbulb className="mt-1 text-rose-900 dark:text-rose-700 text-xl shrink-0" />
+          <LightBulbIcon className="mt-1 text-rose-900 dark:text-rose-700 text-xl shrink-0 h-6 w-6" /> {/* Pakeista FaRegLightbulb */}
           {t('intro_section.p3')} {/* <--- Naudokite t() funkciją */}
         </p>
       </div>

@@ -212,7 +212,6 @@ export const philosophers = [
       "There is only one good, knowledge, and one evil, ignorance.",
       "True knowledge exists in knowing that you know nothing.",
       "Beware the barrenness of a busy life.",
-      "False words are not only evil in themselves, but they infect the soul with evil.",
       "I am the Athenian 'gadfly' which God has attached to the state, and all day long and in all places am always fastening upon you, arousing, persuading and reproaching all of you.",
       "Virtue does not come from money, but from virtue comes money and every other good thing to man, both public and private.",
       "The highest way to live with honor in this world is to be what we pretend to be.",
@@ -275,7 +274,6 @@ export const philosophers = [
         "Tiesa yra kiekvieno gėrio dievams ir kiekvieno gėrio žmogui pradžia.",
         "Žinojimas be teisingumo turėtų būti vadinamas gudrumu, o ne išmintimi.",
         "Mąstymas – sielos kalbėjimas su savimi.",
-        "Mes lengvai atleidžiame vaikui, kuris bijo tamsos; tikra gyvenimo tragedija yra, kai žmonės bijo šviesos.",
         "Aš žinau, kad esu protingas, nes žinau, kad nieko nežinau.",
         "Tėra viena, ką žinau: nieko nežinau.",
         "Išmintis prasideda nuo nuostabos.",
@@ -284,7 +282,6 @@ export const philosophers = [
         "Yra tik vienas gėris – žinojimas, ir vienas blogis – nežinojimas.",
         "Tikrosios žinios – tai žinoti savo nežinojimo ribas.",
         "Saugokitės judraus gyvenimo bergždumo.",
-        "Melagingi žodžiai yra ne tik patys savaime blogi, bet jie apkrėčia sielą blogiu.",
         "Aš esu atėniečių gylys, dievo pastūmėtas veikti, ir aš niekada nenustoju jūsų visų geliančiai žadinti, įkalbinėti ir priekaištauti visą dieną.",
         "Dorybė kyla ne iš pinigų, bet iš dorybės kyla pinigai ir kiekvienas kitas gėris žmogui, tiek viešasis, tiek privatus.",
         "Didžiausias būdas gyventi garbingai šiame pasaulyje – būti tuo, kuo apsimetame.",
@@ -365,34 +362,7 @@ Later Life and Death
 Plato continued teaching and writing into his old age. He may have returned to Sicily to try to implement his political ideas, but these efforts were largely unsuccessful. Died: Around 347 BCE in Athens Buried: Likely in the grounds of the Academy
 Legacy 
 Plato’s impact is vast and lasting:His Academy was a model for future schools and universities.His dialogue style shaped philosophical writing.His ideas influenced Christian thought, Islamic philosophy, Renaissance thinkers, and countless modern philosophers.He is considered one of the most important philosophers of all time, and his work continues to be studied worldwide. `,
-    // LIETUVIŠKA IŠSAMI BIOGRAFIJA
-    biography_lt: `Apžvalga
-Platonas buvo klasikinis graikų filosofas, įkūręs Akademiją Atėnuose – pirmąją aukštojo mokslo instituciją Vakarų pasaulyje. Jis buvo Sokrato mokinys ir Aristotelio mokytojas, sudarydamas trijulę mąstytojų, kurie suformavo Vakarų filosofijos pagrindus.
-Platono raštai – daugiausia dialogų forma – nagrinėja beveik visas žmogaus žinojimo sritis, įskaitant etiką, politiką, metafiziką, epistemologiją, estetiką ir švietimą. Jo idėjos iki šiol išlieka svarbios filosofinei minčiai.
-Ankstyvasis gyvenimas
-Gimė: Apie 427 m. pr. Kr. Atėnuose, Graikijoje. Šeima: Turtinga ir aristokratiška. Tėvas: Aristonas (sakoma, kad kilęs iš Atėnų karalių). Motina: Periktionė (susijusi su Solonu, garsiu Atėnų įstatymų leidėju).
-Platonas tikriausiai gavo elitinį išsilavinimą tokiose srityse kaip poezija, muzika, gimnastika ir filosofija. Anksti rašė pjeses ir buvo linkęs į politiką, tačiau susitikimas su Sokratu amžinai pakeitė jo kelią. Sokratas ir persilaužimas
-Jaunas Platonas tapo atsidavusiu Sokrato pasekėju, kurio klausinėjimo stilius ir gilus etinis dėmesys jam padarė didelį įspūdį. Jis dalyvavo Sokrato teisme ir egzekucijoje, kas paliko ilgalaikį pėdsaką Platono gyvenime.
-Nusivylęs Atėnų politika po Sokrato mirties, Platonas visiškai atsidėjo filosofijai ir išvyko iš Atėnų keliauti.
-Kelionės ir mokymasis Po Sokrato mirties 399 m. pr. Kr., Platonas keliavo apie 12 metų, studijuodamas tokiose vietose kaip:
-Egiptas, kur jis mokėsi matematikos ir galbūt kunigystės tradicijų.
-Italija ir Sicilija, kur susidūrė su Pitagoro idėjomis apie skaičius ir harmoniją.
-Šios kelionės suformavo jo vėlesnes mintis apie tikrovės prigimtį, sielą ir idealią visuomenę. Akademija
-Apie 387 m. pr. Kr. Platonas grįžo į Atėnus ir įkūrė Akademiją, dažnai laikomą pirmuoju universitetu Vakarų pasaulyje. Ji veikė daugiau nei 900 metų.
-Čia jis dėstė matematiką, astronomiją, filosofiją ir žinių teoriją. Vienas garsiausių jo studentų buvo Aristotelis.
-Pagrindinės filosofinės idėjos
-1. Formų (Idėjų) teorija Platonas tikėjo, kad pasaulis, kurį matome, yra tik gilesnės tikrovės šešėlis. Tikrąjį pasaulį sudaro tobulos, amžinos Formos – tokios kaip Grožio Forma, Teisingumo Forma ir t.t. Viskas materialiajame pasaulyje yra netobula šių Formų kopija.
-2. Siela Platonas sielą laikė amžina ir dieviška. Jis tikėjo, kad ji turi tris dalis:
-Protas (mąstytojas) Dvasia (kovotojas) Geismas (trokštantis) Teisingas žmogus ir teisinga visuomenė šias dalis subalansuotų, valdomos proto.
-3. Ideali valstybė Savo garsiausioje knygoje „Valstybė“ Platonas aprašo tobulą visuomenę, vadovaujamą filosofų-karalių – išmintingų valdovų, kurie supranta Formas, ypač Gėrio Formą. Jis skirsto visuomenę į: Valdovus (išmintis) Saugotojus (drąsa) Darbininkus (geismas)
-4. Švietimas ir olos alegorija Olos alegorijoje Platonas aiškina, kad dauguma žmonių gyvena tamsoje, matydami tik tikrovės šešėlius. Filosofai yra tie, kurie išsivaduoja, pamato tiesą ir grįžta padėti kitiems.
-Pagrindiniai kūriniai Platonas parašė daugiau nei 30 dialogų, įskaitant:
-„Valstybė“ – teisingumas, politika, ideali visuomenė. „Faidonas“ – sielos nemirtingumas. „Puota“ – meilė ir grožis. „Apoligija“ – Sokrato gynybos kalba.
-„Menonas“ – žinios ir mokymasis. „Timajas“ – kosmologija ir visatos prigimtis. Jo kūriniuose Sokratas dažnai yra pagrindinis kalbėtojas.
-Vėlesnis gyvenimas ir mirtis
-Platonas tęsė dėstymą ir rašymą iki gilaus amžiaus. Jis galėjo grįžti į Siciliją, kad pabandytų įgyvendinti savo politines idėjas, tačiau šios pastangos buvo iš esmės nesėkmingos. Mirė: Apie 347 m. pr. Kr. Atėnuose. Palaidotas: Tikriausiai Akademijos teritorijoje.
-Palikimas
-Platono įtaka yra didžiulė ir ilgalaikė: Jo Akademija buvo pavyzdys būsimoms mokykloms ir universitetams. Jo dialogų stilius suformavo filosofinį rašymą. Jo idėjos paveikė krikščionių mintį, islamo filosofiją, Renesanso mąstytojus ir daugybę šiuolaikinių filosofų. Jis laikomas vienu svarbiausių visų laikų filosofų, o jo darbai tebetiriami visame pasaulyje.`,
+   
     shortStory: `The Story of Plato
 The Boy Who Followed the Thinker
 A long time ago in Athens, a baby named Plato was born into a rich and noble family. He had everything: good food, good clothes, and a path to power in politics. People expected him to become a leader, maybe even a ruler.
@@ -405,17 +375,7 @@ When he came home, Plato started something amazing: The Academy—a school where
 Plato wrote stories called dialogues, where characters—especially Socrates—talked about love, justice, the soul, and the stars. In one story, he described people in a cave, seeing only shadows. He said, “Most people live in the dark, but the wise can find the light.”
 Plato dreamed of a world where philosopher-kings would rule with wisdom, not greed. He imagined a city built on fairness, knowledge, and balance. He knew it was a dream—but to him, a beautiful dream was worth chasing. He died around 80 years old, still thinking, still writing, still asking questions.And even now, thousands of years later, Plato’s questions are still with us. Because he believed truth wasn’t just for the rich or the strong—but for everyone willing to ask, “Why?”`,
     // LIETUVIŠKA TRUMPA ISTORIJA
-    shortStory_lt: `Platono istorija
-Berniukas, kuris sekė mąstytoją
-Seniai seniai, Atėnuose, turtingoje ir kilmingoje šeimoje gimė kūdikis, vardu Platonas. Jis turėjo viską: gerą maistą, gerus drabužius ir kelią į politinę galią. Žmonės tikėjosi, kad jis taps lyderiu, galbūt net valdovu.
-Bet jaunasis Platonas nenorėjo galios.
-Vieną dieną jis sutiko seną, basą vyrą, vardu Sokratas, kuris uždavinėjo keistus klausimus, tokius kaip: „Kas yra teisingumas?“ ir „Ar kas nors gali būti tikrai išmintingas?“ Šie klausimai privertė Platono protą atgyti. Niekada anksčiau jis nebuvo taip giliai mąstęs. Nuo tos akimirkos Platonas sekė Sokratą visur, mokydamasis ne tik atsakyti, bet ir klausti.
-Tada nutiko kažkas baisaus.
-Sokratas buvo patrauktas teismui ir nuteistas mirties bausme. Platonas stebėjo, kaip jo mokytojas geria nuodus, ramus ir nebijantis. Tai sudaužė jam širdį – bet taip pat uždegė jame ugnį. Jis prisiekė išlaikyti Sokrato idėjas gyvas.
-Taigi Platonas paliko Atėnus. Jis toli keliavo – į Egiptą, Italiją, Siciliją – mokėsi iš skirtingų žmonių: kunigų, mokslininkų ir matematikos mėgėjų. Visą laiką jis rašė ir mąstė apie didžiuosius klausimus: Kas yra tikra? Kas yra gera? Kaip turėtume gyventi?
-Kai grįžo namo, Platonas pradėjo kažką nuostabaus: Akademiją – mokyklą, kurioje žmonės galėjo laisvai mąstyti, uždavinėti klausimus ir ieškoti tiesos. Jis netgi mokė berniuką, vardu Aristotelis, kuris vėliau taip pat taps puikiu mąstytoju.
-Platonas rašė istorijas, vadinamas dialogais, kuriose veikėjai – ypač Sokratas – kalbėjo apie meilę, teisingumą, sielą ir žvaigždes. Vienoje istorijoje jis aprašė žmones oloje, matančius tik šešėlius. Jis sakė: „Dauguma žmonių gyvena tamsoje, bet išmintingi gali rasti šviesą.“
-Platonas svajojo apie pasaulį, kuriame filosofai-karaliai valdytų su išmintimi, o ne godumu. Jis įsivaizdavo miestą, pastatytą ant teisingumo, žinių ir pusiausvyros. Jis žinojo, kad tai buvo svajonė – bet jam graži svajonė buvo verta siekimo. Jis mirė būdamas maždaug 80 metų, vis dar mąstydamas, vis dar rašydamas, vis dar užduodamas klausimus. Ir net dabar, po tūkstančių metų, Platono klausimai vis dar su mumis. Nes jis tikėjo, kad tiesa skirta ne tik turtingiesiems ar stipriesiems – bet kiekvienam, norinčiam paklausti: „Kodėl?“`,
+  
     quotes: [
       "The unexamined life is not worth living.",
       "He knows nothing, and thinks that he knows I neither know nor think that I know.",
@@ -464,8 +424,8 @@ Platonas svajojo apie pasaulį, kuriame filosofai-karaliai valdytų su išmintim
     ],
 
   
-  quote_lt: "Išmintingi žmonės kalba, nes turi ką pasakyti.",
-  bio_lt: "Sokrato mokinys Platonas mintį pavertė dialogu. Gimęs 428 m. pr. Kr., jis įkūrė Akademiją – galbūt pirmąjį universitetą. Jo raštai tyrinėjo teisingumą, meilę ir idealią visuomenę. Atėnų šešėliuose jis svajojo apie pasaulį, kuriame valdo filosofai-karaliai, vadovaujami ne galios, o proto.",
+  
+  
 
   biography_lt: `## Apžvalga
 Platonas buvo klasikinis graikų filosofas, įkūręs Akademiją Atėnuose, pirmąją aukštojo mokslo instituciją Vakarų pasaulyje. Jis buvo Sokrato mokinys ir Aristotelio mokytojas, suformuodamas mąstytojų trejetą, kuris padėjo Vakarų filosofijos pamatus.
@@ -821,7 +781,6 @@ Tačiau laikai pasikeitė. Po jo mokinio Aleksandro mirties Atėnų gyventojai n
     "Vyriškosios respublikos užleidžia vietą moteriškoms demokratijoms, o moteriškosios demokratijos užleidžia vietą tironijai.",
     "Mokslo šaknys karčios, bet vaisiai saldūs.",
     "Visi žmonės iš prigimties trokšta žinoti.",
-    "Meno tikslas – atspindėti ne išorinę daiktų išvaizdą, o jų vidinę prasmę.",
     "Proto energija yra gyvenimo esmė.",
     "Visuma yra didesnė už jos dalių sumą.",
     "Įstatymas yra protas, laisvas nuo aistros.",
@@ -830,8 +789,6 @@ Tačiau laikai pasikeitė. Po jo mokinio Aleksandro mirties Atėnų gyventojai n
     "Išsilavinę skiriasi nuo neišsilavinusių tiek pat, kiek gyvi nuo mirusiųjų.",
     "Tas, kas nugalėjo savo baimes, tikrai bus laisvas.",
     "Laimė yra gyvenimo prasmė ir tikslas, visas žmogaus egzistencijos tikslas ir pabaiga.",
-    "Kuo daugiau žinai, tuo labiau supranti, kad nieko nežinai.",
-    "Mes esame tai, ką nuolat darome. Meistriškumas, vadinasi, yra ne veiksmas, o įprotis.",
     "Išsilavinusio proto bruožas yra gebėjimas svarstyti mintį jos nepriimant.",
     "Meilė susideda iš vienos sielos, gyvenančios dviejuose kūnuose.",
     "Visuose gamtos dalykuose yra kažkas nuostabaus.",
@@ -840,8 +797,6 @@ Tačiau laikai pasikeitė. Po jo mokinio Aleksandro mirties Atėnų gyventojai n
     "Galutinė gyvenimo vertė priklauso nuo sąmoningumo ir apmąstymų galios, o ne nuo paprasto išgyvenimo.",
     "Kokybė nėra veiksmas, tai yra įprotis.",
     "Meno tikslas – atspindėti ne išorinę daiktų išvaizdą, o jų vidinę prasmę.",
-    "Tas, kas nugalėjo savo baimes, tikrai bus laisvas.",
-    "Noras būti draugais – greitas darbas, bet draugystė – lėtai bręstantis vaisius.",
   ],
  },
 {
@@ -1065,10 +1020,6 @@ Ir Seneka, ramus kaip visada, pakluso. Jis surinko savo draugus, davė jiems pas
     "Likimas veda norintį ir tempiasi nenorintį.",
     "Non scholae, sed vitae discimus.", // Palikta lotynų kalba, kaip nurodyta
     "Mes mokomės ne mokyklai, o gyvenimui.",
-    "Daug dažniau kenčiame vaizduotėje nei tikrovėje.",
-    "Sunkumai stiprina protą, kaip darbas – kūną.",
-    "Ne tas, kuris turi per mažai, bet tas, kuris trokšta daugiau, yra vargšas.",
-    "Pradėkite gyventi iš karto ir skaičiuokite kiekvieną atskirą dieną kaip atskirą gyvenimą.",
     "Daugiau nei būtina kenčia tas, kuris kenčia anksčiau nei būtina.",
     "Kaip pasakojimas, taip ir gyvenimas: svarbu ne koks jis ilgas, o koks geras.",
     "Jei žmogus nežino, į kokį uostą plaukia, joks vėjas nėra palankus.",
@@ -1275,14 +1226,10 @@ Vėliau gyvenime Šelingas buvo pakviestas į Berlyną, kur studentai, tokie kai
     "Ar kūrinys apskritai turi galutinį tikslą, ir jei taip, kodėl jis nepasiekiamas iš karto, kodėl tobulumas neegzistuoja nuo pat pradžių?",
     "Tik tas, kas pažįsta Dievą, yra tikrai dorovingas.",
     "Žmogaus smegenys yra aukščiausias visos organinės žemės metamorfozės žiedas.",
-    "Architektūra apskritai yra užšaldyta muzika.",
     "Visos studijų taisyklės apibendrintos šia viena: mokykis tik tam, kad kurtum.",
     "Meistriškumas atsiskleidžia apribojimuose.",
     "Niekas taip nesukrečia filosofinio proto, kaip išgirsti, kad nuo šiol visa filosofija turi būti įkalinta vienos sistemos pančiuose.",
     "Kaip objektyvus pasaulis prisitaiko prie mūsų pristatymų, o mūsų pristatymai – prie objektyvaus pasaulio, yra nesuprantama, nebent tarp dviejų pasaulių, idealiojo ir realiojo, egzistuoja iš anksto nustatyta harmonija.",
-    "Gamta yra matoma Dvasia; Dvasia yra nematoma Gamta.",
-    "Architektūra apskritai yra užšaldyta muzika.",
-    "Visos studijų taisyklės apibendrintos šia viena: mokykis tik tam, kad kurtum.",
     "Žmogaus smegenys yra aukščiausias visos organinės žemės metamorfozės žiedas.",
     "Kiekviename žmoguje yra tam tikras jausmas, kad jis buvo toks, koks yra, nuo amžinybės ir jokiu būdu netapo tokiu laike.",
     "Praeitis yra žinoma, dabartis yra atpažįstama, ateitis yra nuspėjama.",
@@ -1370,7 +1317,6 @@ Once upon a time, in a quiet German town called Leipzig, a baby named Leibniz wa
       "The means of obtaining as much variety as possible, but with the greatest possible order... is the means of obtaining as much perfection as possible.",
       "For all bodies are in perpetual flux like rivers, and parts are passing in and out of them continually.",
       "It is true that as the empty voids and the dismal wilderness belong to zero, so the spirit of God and His light belong to the all-powerful One.",
-      "Everything that is possible demands to exist.",
       "The present is saturated with the past and pregnant with the future.",
       "He who hasn't tasted bitter things hasn't earned sweet things.",
       "Take what you need, do what you should, you will get what you want.",
@@ -1497,7 +1443,6 @@ Tačiau jo idėjos gyvavo toliau. Ilgai po jo mirties žmonės suprato, kad Leib
     "Kiekvienas jausmas yra tiesos suvokimas.",
     "Jei galėtumėte padidinti smegenis iki malūno dydžio ir vaikščioti viduje, nerastumėte sąmonės.",
     "Gyvenimo didybę galima įvertinti tik pagal jo veiksmų gausą. Neturėtume skaičiuoti metų; mūsų veiksmai sudaro mūsų gyvenimą.",
-    "Viskas, kas įmanoma, reikalauja egzistuoti.",
     "Dabartis yra prisotinta praeities ir nėščia ateities.",
     "Mylėti reiškia rasti malonumą kitų laimėje.",
     "Be matematikos negalima suprasti filosofijos pagrindų. Be filosofijos negalime pasiekti matematikos pagrindo.",
@@ -1510,17 +1455,13 @@ Tačiau jo idėjos gyvavo toliau. Ilgai po jo mirties žmonės suprato, kad Leib
     "Priemonės, leidžiančios gauti kuo daugiau įvairovės, bet su didžiausia įmanoma tvarka... yra priemonės, leidžiančios pasiekti kuo daugiau tobulumo.",
     "Nes visi kūnai nuolat keičiasi kaip upės, o dalys nuolat į juos patenka ir iš jų išeina.",
     "Tiesa, kad kaip tuščios tuštumos ir niūri dykuma priklauso nuliui, taip Dievo dvasia ir Jo šviesa priklauso visagaliui.",
-    "Viskas, kas įmanoma, reikalauja egzistuoti.",
     "Dabartis yra prisotinta praeities ir nėščia ateities.",
     "Kas neragavo karčių dalykų, tas neužsidirbo saldžių dalykų.",
     "Imk, ko reikia, daryk, ką privalai, gausi, ko nori.",
     "Dorybė yra išminties pagrindu veikiančio elgesio įprotis.",
     "Pasaulis nėra mašina. Viskas jame yra jėga, gyvybė, mintis.",
     "Muzika yra paslėptas aritmetinis sielos pratimas, kuri nežino, kad skaičiuoja.",
-    "Dabartis yra prisotinta praeities ir nėščia ateities.",
     "Dorybė yra išminties pagrindu veikiančio elgesio įprotis.",
-    "Mylėti reiškia rasti malonumą kitų laimėje.",
-    "Kas neragavo karčių dalykų, tas neužsidirbo saldžių dalykų.",
     "Filosofija dažniausiai susideda iš to, kad prisikeliama daug dulkių, o po to skundžiamasi, kad nieko nematyti.",
     "Pasaulis nėra mašina. Viskas jame yra jėga, gyvybė, mintis.",
     "Lengviau būti originaliam ir kvailam, nei originaliam ir išmintingam.",
@@ -1744,7 +1685,6 @@ Augustinas grįžo į Afriką ir tapo vyskupu, tada Bažnyčios balsu, pamokslau
     "Kantrybė yra išminties palydovė.",
     "Dievas visada stengiasi duoti mums gerų dalykų, bet mūsų rankos per pilnos, kad juos priimtume.",
     "Pasaulis yra knyga, o tie, kurie niekada neišvyksta iš namų, perskaito tik vieną puslapį.",
-    "Tu mus sukūrei sau, o Viešpatie, ir mūsų širdis nerimsta, kol neatranda atilsio Tavyje.",
     "Įsimylėti Dievą yra didžiausia romantika; Jo ieškoti – didžiausias nuotykis; Jį rasti – didžiausias žmogaus pasiekimas.",
     "Teisingumas yra teisingas, net jei niekas jo nedaro; blogis yra blogas, net jei visi jį daro.",
     "Viltis turi dvi gražias dukras; jų vardai yra Pyktis ir Drąsa. Pyktis dėl to, kaip yra, ir Drąsa, kad taip neliktų.",
@@ -1998,7 +1938,6 @@ Tiems, kurie nori suprasti, ką reiškia būti sąmoningam, jausti, žinoti, tik
 
   quotes_lt: [
     "Visa sąmonė yra sąmonė apie kažką.",
-    "Patirtis savaime nėra mokslas.",
     "Natūralius objektus, pavyzdžiui, reikia patirti, kol apie juos galima teoriškai samprotauti.",
     "Pradžiai iškeliame teiginį: grynoji fenomenologija yra grynosios sąmonės mokslas.",
     "Filosofai, esant dabartinei padėčiai, pernelyg linkę siūlyti kritiką iš viršaus, užuot studijavę ir supratę dalykus iš vidaus.",
@@ -2025,8 +1964,6 @@ Tiems, kurie nori suprasti, ką reiškia būti sąmoningam, jausti, žinoti, tik
     "Negaliu gyventi, patirti, mąstyti, vertinti ir veikti jokiam pasaulyje, kuris tam tikra prasme nėra manyje ir savo prasmę bei tiesą negauna iš manęs.",
     "Naujas fundamentalus mokslas, grynoji fenomenologija, išsivystė filosofijoje: Tai yra visiškai naujo tipo ir beribės apimties mokslas. Metodologiniu griežtumu jis nenusileidžia jokiems moderniems mokslams. Visos filosofinės disciplinos yra įsišaknijusios grynojoje fenomenologijoje, per kurios vystymąsi, ir tik per jį, jos įgyja savo tinkamą formą.",
     "Prieš bet kokią teoriją, pasaulis yra duotas. Visos nuomonės, pagrįstos ar ne, populiarios, prietaringos ir mokslinės – visos jos remiasi jau iš anksto duotu pasauliu.",
-    "Pradžiai iškeliame teiginį: grynoji fenomenologija yra grynosios sąmonės mokslas.",
-    "Natūralius objektus, pavyzdžiui, reikia patirti, kol apie juos galima teoriškai samprotauti.",
     "Patirtis savaime nėra mokslas.",
     "Filosofai, esant dabartinei padėčiai, pernelyg linkę siūlyti kritiką iš viršaus, užuot studijavę ir supratę dalykus iš vidaus.",
     "Būtume tikrai baisioje padėtyje, jei empirinis mokslas būtų vienintelė įmanoma mokslo rūšis.",
@@ -2146,7 +2083,6 @@ Because he believed that a good life begins with a good heart—and that one kin
       "Learning without thought is labor lost; thought without learning is perilous.",
       "Study the past, if you would divine the future.",
       "The expectations of life depend upon diligence; the mechanic that would perfect his work must first sharpen his tools.",
-      "It does not matter how slowly you go as long as you do not stop.",
       "Life is really simple, but we insist on making it complicated.",
       "Everything has beauty, but not everyone sees it.",
       "Wherever you go, go with all your heart.",
@@ -2308,10 +2244,8 @@ Nes jis tikėjo, kad geras gyvenimas prasideda nuo geros širdies – ir kad vie
     "Didis žmogus veikia prieš kalbėdamas, o vėliau kalba pagal savo veiksmus.",
     "Trimis būdais galime išmokti išminties: Pirma, apmąstant, kas yra kilniausia; Antra, imituojant, kas yra lengviausia; ir trečia, per patirtį, kuri yra kartiausia.",
     "Žinoti, ką žinai ir ko nežinai, yra tikrosios žinios.",
-    "Mokymasis be mąstymo yra prarastas darbas; mąstymas be mokymosi yra pavojingas.",
     "Studijuokite praeitį, jei norite nuspėti ateitį.",
     "Gyvenimo lūkesčiai priklauso nuo stropumo; mechanikas, norintis tobulai atlikti savo darbą, pirmiausia turi pagaląsti savo įrankius.",
-    "Nesvarbu, kaip lėtai eini, svarbu, kad nesustotum.",
     "Gyvenimas iš tiesų paprastas, bet mes primygtinai jį komplikuojame.",
     "Viskas turi grožį, bet ne kiekvienas jį mato.",
     "Kad ir kur eitumėte, eikite visa širdimi.",
@@ -2339,7 +2273,6 @@ Nes jis tikėjo, kad geras gyvenimas prasideda nuo geros širdies – ir kad vie
     "Trimis būdais galime išmokti išminties: Pirma, apmąstant, kas yra kilniausia; Antra, imituojant, kas yra lengviausia; ir trečia, per patirtį, kuri yra kartiausia.",
     "Žinoti, ką žinai ir ko nežinai, yra tikrosios žinios.",
     "Mokymasis be mąstymo yra prarastas darbas; mąstymas be mokymosi yra pavojingas.",
-    "Studijuokite praeitį, jei norite nuspėti ateitį.",
     "Gyvenimo lūkesčiai priklauso nuo stropumo; mechanikas, norintis tobulai atlikti savo darbą, pirmiausia turi pagaląsti savo įrankius.",
     "Nesvarbu, kaip lėtai einate, svarbu, kad nesustotumėte.",
     "Gyvenimas iš tiesų paprastas, bet mes primygtinai jį komplikuojame.",
@@ -2879,7 +2812,7 @@ Dignaga visą gyvenimą rašė, mokė ir mąstė. Jo darbai keliavo toli – po 
 },
   {
     name: "Gaudapada",
-    years: "(6th century)",
+    years: "(600)",
     quote: "The self is unborn, eternal, and beyond time.",
     about:
       "A quiet mystic of 6th-century India, Gaudapada meditated on reality and came to a startling conclusion: the self is eternal, untouched by time or change. His philosophy—early Advaita Vedanta—claimed that the world is illusion and only the Self (Brahman) is real. Peace, he taught, comes from realizing this unity.",
@@ -4814,7 +4747,6 @@ And today, his voice still echoes, whispering:
       "A man's body and the needs of his body are now everywhere treated with a tender indulgence... Is the thinking mind then, to be the only thing that is never to obtain the slightest measure of consideration or protection?",
       "Old age is a gradual withdrawal from life.",
       "After your death, you will be what you were before your birth.",
-      "Life swings like a pendulum backward and forward between pain and boredom.",
       "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
       "A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free.",
       "All truth passes through three stages: First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident.",
@@ -4975,7 +4907,6 @@ Ir šiandien, jo balsas vis dar aidi, šnabždėdamas:
     "Žmogaus kūnas ir jo kūno poreikiai dabar visur traktuojami su švelniu atlaidumu... Ar mąstantis protas tada turi būti vienintelis dalykas, kuris niekada negaus nė menkiausio dėmesio ar apsaugos?",
     "Senatvė yra laipsniškas atsitraukimas iš gyvenimo.",
     "Po mirties būsite tuo, kuo buvote prieš gimimą.",
-    "Gyvenimas siūbuoja tarsi švytuoklė pirmyn ir atgal tarp skausmo ir nuobodulio.",
     "Mes esame tai, ką nuolat darome. Todėl meistriškumas yra ne veiksmas, o įprotis.",
     "Žmogus gali būti savimi tik tol, kol yra vienas; ir jei jis nemyli vienatvės, jis nemylės laisvės; nes tik būdamas vienas jis yra tikrai laisvas.",
     "Visa tiesa pereina per tris etapus: Pirma, ji išjuokiama. Antra, jai smarkiai priešinamasi. Trečia, ji priimama kaip savaime suprantama.",
@@ -6977,7 +6908,7 @@ Pitagoras paveikė ištisas mąstytojų kartas tiek moksle, tiek dvasingume:
 * „Viskas yra skaičius.“
 * „Nesakykite mažai daug žodžių, o daug – keliais.“
 * „Kol žmogus bus negailestingas žemesniųjų gyvybių naikintojas, jis niekada nežinos nei sveikatos, nei ramybės. Nes kol žmonės žudys gyvūnus, jie žudys vienas kitą. Iš tiesų, kas sėja žudymo ir skausmo sėklas, tas negali nuimti džiaugsmo ir meilės derliaus.“`,
-  shortStor_lt: `## Pitagoro istorija
+  shortStory_lt: `## Pitagoro istorija
 **Skaičių ir žvaigždžių filosofas**
 Seniai, Samo saloje, berniukas vardu Pitagoras sėdėdavo po žvaigždėmis, ne tik tam, kad jomis grožėtųsi, bet kad klausytųsi. Jis tikėjo, kad žvaigždės dainuoja, kad visa visata dūzgia matematiška muzika, jei tik galėtume ją girdėti.
 
@@ -7588,7 +7519,7 @@ Ir su plunksna Karlas Marksas jį pakeitė amžinai.`,
   },
   {
     name: "Laozi",
-    years: "(BC 6th century)",
+    years: "(BC 600 )",
     quote: "A journey of a thousand miles begins with a single step.",
     about:
       "Legend says Laozi was born old and wise, sometime in the 6th century BC in China. He rode a water buffalo westward and wrote the Tao Te Ching before vanishing into the mountains. He taught that nature flows effortlessly, and so should we. Let go. Flow like water. That was his message.",
@@ -9900,152 +9831,81 @@ They became the foundation of Catholic thought, studied by scholars, priests, an
       "There can be no true joy except in true love.",
     ],
     
-  quote_lt: "Vienas gramas veiksmo yra vertas tonos teorijos.",
-  biography_lt: `## Apžvalga
-Frydrichas Engelsas (Friedrich Engels) buvo vokiečių filosofas ir socialinis teoretikas, kuris kartu su Karlu Marksu sukūrė marksistinės teorijos pagrindus. Engelsas intelektualiai ir finansiškai prisidėjo prie Markso darbo, bendraautoris svarbių tekstų, tokių kaip **„Komunistų manifestas“**, ir rėmė Marksą jo dešimtmečius trukusio skurdo tremtyje metu.
-Engelsas taip pat savarankiškai parašė įtakingų darbų apie kapitalizmą, šeimos struktūrą, karo teoriją ir dialektiką, padėdamas suformuoti mokslinio socializmo ideologiją. Po Markso mirties Engelsas tapo pagrindiniu Markso nebaigtų darbų, įskaitant „Kapitalo“ II ir III tomus, redaktoriumi ir interpretatoriumi.
-
----
-
-## Ankstyvasis gyvenimas ir išsilavinimas
-**Gimė:** 1820 m. lapkričio 28 d. Barmene, Prūsijoje (dabar Vupertalio dalis, Vokietija).
-**Šeima:** Turtingi, konservatyvūs, protestantų pramonininkai tekstilės versle.
-Gavo gerą išsilavinimą, įskaitant filosofijos, kalbų ir karinių reikalų studijas, nors niekada nelankė universiteto.
-Nepaisant savo privilegijuotos kilmės, Engelsas radikalizavosi dėl skurdo ir išnaudojimo, kurį matė pramoninėje visuomenėje.
-
----
-
-## Ankstyvasis radikalėjimas
-Dirbdamas savo šeimos versle, Engelsas pradėjo rašyti straipsnius radikaliems laikraščiams slapyvardžiais. Jam ypač didelę įtaką padarė:
-* Hegelio filosofija, kuri mokė, kad istorija vystosi per konfliktus ir prieštaravimus.
-* Vokiečių jaunieji hegelininkai, kairiųjų intelektualų grupė.
-* Socialistiniai judėjimai Prancūzijoje ir Didžiojoje Britanijoje.
-
-### Mančesterio metai ir „Darbo klasės padėtis“
-1842 m. Engelsas buvo išsiųstas į Mančesterį, Angliją, dirbti savo tėvo tekstilės įmonės filiale. Ten jis matė siaubingas sąlygas gamyklose ir darbininkų kvartaluose.
-Jis parašė:
-**„Darbo klasės padėtis Anglijoje“ (The Condition of the Working Class in England, 1845)**
-Aistringas ir detalus aprašymas:
-* Skurdo, vaikų darbo, taršos ir ligų pramoniniuose miestuose.
-* Moralinis ir socialinis nuosmukis, sukeltas nekontroliuojamo kapitalizmo.
-* Darbo klasės solidarumo ir revoliucinių pokyčių poreikis.
-Ši knyga pelnė jam reputaciją kaip vienam iš pirmųjų mąstytojų, aprašiusių kapitalistinę visuomenę iš darbininko perspektyvos.
-
----
-
-## Partnerystė su Karlu Marksu
-1844 m. Engelsas susitiko su Karlu Marksu Paryžiuje. Jiedu iš karto susijungė – intelektualiai, politiškai ir asmeniškai. Prasidėjo jų visą gyvenimą trunkanti draugystė ir bendradarbiavimas.
-Kartu jie parašė:
-**„Komunistų manifestas“ (The Communist Manifesto, 1848)**
-* Komunistų lygos užsakymu.
-* Paskelbė, kad **„Visos iki šiol egzistavusios visuomenės istorija yra klasių kovų istorija.“**
-* Numatė neišvengiamą kapitalizmo nuvertimą proletariato.
-* Raginome panaikinti privatinę nuosavybę, klasių skirtumus ir išnaudojimą.
-Engelsas tapo artimiausiu Markso bendradarbiu ir teikė finansinę paramą, leisdamas Marksui sutelkti dėmesį į savo tyrimus ir rašymą.
-
----
-
-## Vėlesni darbai ir raštai
-Be bendradarbiavimo su Marksu, Engelsas parašė keletą svarbių savo darbų:
-1.  **„Anti-Dühringas“ (Anti-Dühring, 1878):**
-    * Sisteminė marksistinės filosofijos gynyba.
-    * Kritikuojamos eklektiškos Eugeno Dühringo idėjos.
-    * Daugelis supažindinti su dialektiniu materializmu, marksistiniu požiūriu į pokyčius ir prieštaravimus visuomenėje.
-2.  **„Socializmas: utopinis ir mokslinis“ (Socialism: Utopian and Scientific, 1880):**
-    * Atskyrė mokslinį socializmą (marksistinį istorinį materializmą) nuo utopinio socializmo.
-    * Paaiškino, kaip socializmas kyla ne iš idealizmo, o iš materialinių socialinių jėgų.
-3.  **„Šeimos, privatinės nuosavybės ir valstybės kilmė“ (The Origin of the Family, Private Property and the State, 1884):**
-    * Teigė, kad šeima, privati nuosavybė ir valstybė atsirado kartu klasinėje visuomenėje.
-    * Išanalizavo patriarchato ir nelygybės istorinį vystymąsi.
-    * Įtakingas feministinėje ir antropologinėje mintyje.
-Engelsas taip pat plačiai rašė apie karinę strategiją, dialektiką ir mokslą.
-
----
-
-## Markso mirtis ir Engelso palikimas
-Po Markso mirties 1883 m. Engelsas tapo pagrindiniu Markso palikimo interpretatoriumi ir saugotoju.
-Jis:
-* Redagavo ir paskelbė „Kapitalo“ II ir III tomus iš Markso užrašų.
-* Susirašinėjo su socialistų aktyvistais visoje Europoje ir Jungtinėse Valstijose.
-* Padėjo suformuoti Antrąjį Internacionalą – pagrindinę socialistinių partijų organizaciją.
-
----
-
-## Mirtis
-**Mirė:** 1895 m. rugpjūčio 5 d. Londone, būdamas 74 metų.
-Jo pelenai buvo išbarstyti prie Bičy Hedo (Beachy Head) – skardžio pietų Anglijoje, kaip jis pageidavo.
-
----
-
-## Palikimas
-Frydrichas Engelsas pripažįstamas kaip:
-* Marksistinės teorijos ir mokslinio socializmo bendraįkūrėjas.
-* Puikus rašytojas ir Markso idėjų sintezatorius.
-* Visą gyvenimą rėmęs darbininkų klasę, nepaisant savo privilegijuotos kilmės.
-* Socialistinio feminizmo, istorinio materializmo ir darbo kritikos pradininkas.
-Jo darbas paveikė:
-* Komunistinius ir socialistinius judėjimus visame pasaulyje.
-* Feminizmą, antropologiją ir socialinę teoriją.
-* Tokius mąstytojus kaip Leninas, Roza Liuksemburg ir Antonio Gramsci.
-Nors dažnai nustelbiamas Markso, Engelsas buvo esminis marksistinės minties kūrimui, plitimui ir išlikimui.
-
-**Garsios citatos:**
-* „Vienas gramas veiksmo yra vertas tonos teorijos.“
-* „Valstybė nėra panaikinama, ji nyksta.“
-* „Laisvė yra būtinybės atpažinimas.“`,
-  shortStory_lt: `## Frydricho Engelso istorija
-**Turtingas maištininkas, pasirinkęs darbininkų pusę**
-Kadaise, turtingame Vokietijos mieste, išmargintame fabrikais ir bažnyčiomis, 1820 metais gimė berniukas vardu Frydrichas Engelsas. Jo šeima turėjo medvilnės fabrikus ir tikėjo Dievu, disciplina ir verslu.
-Tačiau jaunasis Frydrichas buvo kitoks.
-Jis skaitė uždraustas knygas, klausėsi darbininkų ir uždavinėjo pavojingus klausimus:
-* „Kodėl vieni kenčia, o kiti pelnosi?“
-* „O kas, jei pasaulis galėtų būti teisingas?“
-
-Jo tėvas išsiuntė jį į Angliją, tikėdamasis, kad jis taps tinkamu verslininku. Bet vietoj to, Engelsas vaikščiojo Mančesterio lūšnynais, matė vaikus, dirbančius dūminiuose fabrikuose, ir šeimas, badaujančias šalia turtų krūvų.
-Jis nenusisuko. Jis rašė.
-Knygoje **„Darbo klasės padėtis Anglijoje“** jis parodė pasauliui pramoninio kapitalizmo tiesą – ne skaičiais, o žmogaus gyvenimais.
-Tada jis susitiko mąstytoją vardu Karlas Marksas. Jie tapo broliais protu ir širdimi, suvienytais vienos svajonės:
-Pasaulio, kuriame niekas neturi šeimininko, niekas nėra vargšas, o darbas teikia orumą – ne grandines.
-Kartu jie parašė **„Komunistų manifestą“**, kviesdami darbininkus visur sukilti ir pakeisti istoriją.
-
-Kol Marksas kovojo žodžiais ir popieriumi, Engelsas apmokėjo sąskaitas, organizavo judėjimą ir niekada nenustojo tikėti.
-Net po Markso mirties Engelsas tęsė. Jis redagavo nebaigtas knygas, mokė revoliucionierius ir priminė pasauliui, kad pokyčiai yra įmanomi – bet tik tuo atveju, jei suprantame sistemą ir išdrįstame ją sulaužyti.
-
-Kai jis mirė 1895 metais, jis nebuvo palaidotas aukse ar paminkluose. Jo pelenai buvo išbarstyti virš jūros – laisvi, kaip ir pasaulis, apie kurį jis svajojo.
-Nes Frydrichas Engelsas, turtingas berniukas, tapęs maištininku, įrodė, kad gimimas neapibrėžia tavo lojalumo, ir kad net turėdamas privilegijų, gali kovoti už teisingumą.`,
+ 
+  quote_lt: "Tam, kuris turi tikėjimą, nereikia jokio paaiškinimo. Tam, kuris neturi tikėjimo, joks paaiškinimas nėra įmanomas.",
+  biography_lt: "Filosofas, teologas, dominikonų vienuolis ir Bažnyčios daktaras\nApžvalga\nŠv. Tomas Akvinietis buvo XIII amžiaus italų katalikų filosofas ir teologas, plačiai laikomas svarbiausia viduramžių scholastikos figūra. Jis siekė suderinti tikėjimą su protu, daug rėmėsi Aristotelio darbais, kad sukurtų racionalų, sistemingą krikščioniškosios teologijos pagrindą.\nJo opus magnum, „Summa Theologiae“, išlieka pagrindiniu katalikų švietimo ir filosofijos tekstu. Akvinietės įtaka apima katalikų doktriną, prigimtinę teisę, metafiziką ir etiką, pelnydama jam „Doctor Angelicus“ (Angeliškojo daktaro) titulą.\nAnkstyvasis gyvenimas ir išsilavinimas\nGimė: apie 1225 m. Rokašekoje, netoli Neapolio, Italija\nŠeima: kilminga giminė; jo tėvas buvo grafas, tarnaujantis Sicilijos karaliui.\nBūdamas 5 metų, Tomas buvo išsiųstas mokytis į Monte Kasino benediktinų vienuolyną, siekiant, kad taptų abatu.\nBūdamas 14 metų, persikėlė į Neapolio universitetą, kur susidūrė su Aristotelio filosofija ir susidomėjo moksline veikla.\nTen jis priėmė svarbų sprendimą: priešingai savo šeimos norams, jis prisijungė prie naujai įkurto dominikonų ordino – elgetaujančios pamokslavimo bendruomenės, orientuotos į skurdą, studijas ir mokymą.\nKonfliktas ir įsipareigojimas\nJo šeima buvo pasipiktinusi jo pasirinkimu tapti dominikonų vienuoliu.\nJį pagrobė broliai ir daugiau nei metus kalino šeimos pilyje, tikėdamiesi, kad jis pakeis nuomonę.\nNelaisvėje jis liko ištikimas savo pašaukimui – slapta studijavo ir priešinosi pagundoms, kurias jo šeima surengė, kad sulaužytų jo skaistybės įžadą.\nGalų gale, jo šeima nusileido, ir Tomas tęsė studijas.\nAkademinis darbas ir mokymas\nTomas studijavo pas Albertą Didįjį, puikų dominikonų mokslininką, Kelne ir Paryžiuje. Jis tapo žinomas dėl:\nIšskirtinės atminties\nGilios nuolankumo\nRamos, metodiško požiūrio į sudėtingus klausimus\nJis įgijo daktaro laipsnį ir dėstė Paryžiuje, Neapolyje, Romoje ir kituose miestuose, nuolat rašydamas, skaitydamas paskaitas ir konsultuodamas dvasininkus bei karališkąją šeimą.\nPagrindiniai darbai\n1. „Summa Theologiae“ (1265–1273)\nJo garsiausias ir ambicingiausias darbas – sisteminga krikščioniškosios teologijos ir filosofijos santrauka.\nPaskirstyta į tris pagrindines dalis:\nDievas (egzistencija, savybės, kūrimas)\nŽmonija (moralė, dorybės, įstatymas, malonė)\nKristus ir sakramentai\n„Summa“ pateikia klausimus, prieštaravimus, atsakymus ir atsakymus – metodišką stilių, žinomą kaip scholastika.\n2. „Summa Contra Gentiles“\nKrikščioniškosios tikybos gynyba, skirta nekrikščioniškiems filosofams, ypač musulmonams ir žydams.\nKiti darbai\nKomentarai apie Aristotelį ir Bibliją\nŠimtai straipsnių, laiškų ir pamokslų\nFilosofiniai ir teologiniai indėliai\n1. Tikėjimas ir protas\nAkvinietis teigė, kad:\nProtas ir apreiškimas yra harmoningi.\nTiesa yra viena, ar ją atrastų mokslas, ar ją apreikštų Dievas.\nFilosofija gali vesti prie Dievo, bet tikėjimas užbaigia kelionę.\n2. Penki būdai įrodyti Dievo egzistavimą\nŽinomi kaip „Quinque Viae“, Akvinietis pasiūlė penkis racionalius argumentus Dievo egzistavimui, įskaitant:\nNepajudinamas judintojas\nPirmasis šaltinis\nBūtina būtybė\nDidžiausia būtybė\nProtingas dizaineris\n3. Prigimtinės teisės teorija\nAkvinietis tikėjo, kad moralės įstatymas yra įrašytas į žmogaus prigimtį, prieinamas protu ir atspindi amžinąjį Dievo įstatymą.\nŠis požiūris paveikė šimtmečių teisės, etikos ir politikos teoriją.\n4. Dorovinė etika\nJis sujungė krikščioniškąją teologiją su Aristotelio etika, daugiausia dėmesio skirdamas:\nPagrindinėms dorybėms (išmintis, teisingumas, tvirtumas, saikingumas)\nTeologinėms dorybėms (tikėjimas, viltis, meilė)\nPaskutiniai metai ir mirtis\n1273 m., švęsdamas Mišias, Akvinietis patyrė gilų mistinę viziją. Po to jis nustojo rašyti, sakydamas:\n„Visa, ką parašiau, atrodo kaip šiaudai, palyginti su tuo, ką mačiau.“\nPo kelių mėnesių, 1274 m. kovo 7 d., jis mirė būdamas 49 metų, pakeliui į bažnyčios tarybą Lione, Prancūzijoje.\nKanonizacija ir palikimas\nKanonizuotas: 1323 m. popiežiaus Jono XXII\nPaskelbtas Bažnyčios daktaru: 1567 m.\nŠventės diena: sausio 28 d. (Romos katalikų kalendorius)\nAkvinietės darbas tapo katalikų teologijos ir tomizmo, minties srovės, kuri tęsiasi iki šiol, kertiniu akmeniu.\nJo įtaka apima:\nTeologiją (katalikų doktrina, scholastikos metodas)\nFilosofiją (etika, metafizika, epistemologija)\nTeisę ir politiką (prigimtinė teisė, teisingojo karo teorija)\nŠvietimą (seminarijų ir katalikų universitetų mokymo programas)\nGarsios citatos\n„Tam, kuris turi tikėjimą, nereikia jokio paaiškinimo. Tam, kuris neturi tikėjimo, joks paaiškinimas nėra įmanomas.“\n„Tai, ką mylime, pasako, kas esame.“\n„Nuostaba yra žinių troškimas.“\n„Laimė pasiekiama per dorybę; tai gėris, pasiektas paties žmogaus valia.",
+  shortStory_lt: "Šv. Tomo Akviniečio istorija\nŠlovingasis Mąstytojas, Apšvietęs Bažnyčios Protą\nXIII amžiaus Italijoje, akmeninėje pilyje, kilminga moteris pagimdė tylų, mąslų berniuką. Jo vardas buvo Tomas, ir nuo pat pradžių jis buvo švelnus, smalsus ir kitoks.\nKol kiti berniukai vijosi kardus ir dainas, Tomas sėdėjo tyloje, žvelgdamas į dangų, stebėdamasis:\n„Kas yra Dievas?“\n„Kas yra tiesa?“\nBūdamas vos penkerių metų, jis buvo išsiųstas mokytis pas vienuolius Monte Kasine, kur jo klausimai tik aštrėjo. Keturiolikos metų jis studijavo Neapolyje, kur atrado Aristotelio raštus – pagoniškojo mąstytojo, kurio logika vieną dieną padės Tomui paaiškinti patį tikėjimą.\nDidžiam savo šeimos siaubui, Tomas pasirinko prisijungti prie dominikonų ordino – skurdo, studijų ir pamokslavimo gyvenimo. Jie bandė jį sustabdyti. Jo broliai jį pagrobė. Jie uždarė jį bokšte. Bet Tomas atsisakė apleisti savo pašaukimo.\nGalų gale jis buvo išlaisvintas ir išsiųstas į Paryžių bei Kelną, kur studijavo pas didįjį Albertą Didįjį ir pradėjo rašyti.\nTačiau Tomas rašė kitaip nei kiti. Jis nesiginčijo garsiai ir nerašė iš pasididžiavimo. Jis klausė klausimų, priėmė prieštaravimus ir atsakė aiškiai, maloniai ir logiškai.\nJis rašė knygas – ne norėdamas pasipuikuoti, o tarnauti. Jo didžiausias darbas, „Summa Theologiae“, buvo visų žmogaus žinių apie Dievą, gamtą, moralę ir sielą žemėlapis.\nJis mokė, kad protas ir tikėjimas nėra priešai, o du sparnai, keliantys mus link tiesos.\nVėlesniais metais Tomas tapo garsus – bet niekada neišdidus. Jis išliko nuolankus, visada ieškantis. Vieną dieną, Mišių metu, jis patyrė tokią pribloškiančią mistinę viziją, kad amžinai nustojo rašyti. Jis šnabždėjo:\n„Visa, ką parašiau, atrodo kaip šiaudai, palyginti su tuo, ką mačiau.“\nNetrukus po to jis mirė, būdamas vos 49 metų, pakeliui dar kartą tarnauti Bažnyčiai.\nTačiau jo žodžiai niekada nemirė.\nJie tapo katalikų minties pagrindu, šimtmečius studijuojami mokslininkų, kunigų ir ieškotojų. Ir berniukas, kuris kadaise sėdėjo tyloje, tapo žinomas kaip „Doctor Angelicus“ – Angeliškasis Daktaras – nes jis mokė pasaulį mąstyti tiek protu, tiek širdimi.\n",
   quotes_lt: [
-    "Vienas gramas veiksmo yra vertas tonos teorijos.",
-    "Žodžiu „materializmas“ didžioji dauguma filosofinių rašytojų Vokietijoje supranta ne ką kita, kaip tą, ką turėjo galvoje vulgarūs materialistai, tokie kaip Büchneris, Vogtas ir Moleschottas: teiginį, kad materija yra vienintelė realybė, ir kad todėl protas ir dvasia tėra tik tam tikros materijos veikimo formos.",
-    "Tačiau istoriją kuria žmonės, kurie kuria savo istoriją, kad ir kiek jie tai darytų tam tikroje sistemoje, nustatytoje jų bendrų istorinių prielaidų ir sąlygų.",
-    "Laisvė susideda ne iš sapnuojamos nepriklausomybės nuo gamtos dėsnių, o iš šių dėsnių pažinimo ir galimybės, kurią tai suteikia, sistemingai juos naudoti tam tikriems tikslams pasiekti.",
-    "Jei nebūtų būtinybės, nebūtų ir atsitiktinumo.",
-    "Labai išsivysčiusioje šalyje, be tikrųjų turto gamintojų, egzistuoja parazitų klasė, akcijų brokeriai, kurie savo socialiai visiškai nereikalingomis operacijomis iš tikrųjų susižeria didžiąją dalį dividendų ir taip turtėja iš tikrųjų gamintojų griūties.",
-    "Keistas faktas, kad su kiekvienu dideliu revoliuciniu judėjimu į pirmą planą iškyla „laisvos meilės“ klausimas.",
-    "Tik per mašinas žmogaus darbas tapo vis produktyvesnis.",
-    "Įstatymas, moralė, religija jam yra daugybė buržuazinių prietarų, už kurių slepiasi tiek pat buržuazinių interesų.",
-    "Gyvenimas yra baltymų veikimo būdas.",
-    "Modernusis socializmas savo esme yra tiesioginis klasinių antagonizmų, vyraujančių šiandieninėje visuomenėje tarp savininkų ir neturtingųjų, tarp kapitalistų ir samdomų darbuotojų, ir, kita vertus, anarchijos, vyraujančios gamyboje, pripažinimo produktas.",
-    "Privatinės nuosavybės panaikinimas todėl yra viso judėjimo apibendrinimas.",
-    "Buržuazija negali egzistuoti be nuolat revoliucionuojant gamybos priemones, ir tuo pačiu gamybos santykius, ir kartu su jais visus visuomenės santykius.",
-    "Pirmasis aktas, kuriuo valstybė iš tiesų tampa visos visuomenės atstovu – gamybos priemonių užvaldymas visuomenės vardu – tuo pačiu metu yra jos paskutinis nepriklausomas aktas kaip valstybei.",
-    "Visos iki šiol egzistavusios visuomenės istorija yra klasių kovų istorija.",
-    "Kuo labiau gamta valdoma aklos atsitiktinumo, tuo tobuliau rezultatai atitinka mūsų išankstines idėjas.",
-    "Valstybė nėra „panaikinama“, ji nyksta.",
-    "Valstybė yra ne kas kita, kaip mašina vienos klasės priespaudai kitai.",
-    "Visada buvo turtingųjų ir vargšų; ir vargšai visada buvo išnaudojami.",
-    "Tiems, kurie nieko nežino apie istoriją, istorija yra pilna stebuklų.",
-    "Mes susiduriame su dviem didelėmis klasėmis, tiesiogiai stovinčiomis viena priešais kitą: buržuazija ir proletariatu.",
-    "Kai visuomenė organizuoja gamybą laisvų ir lygių gamintojų asociacijos pagrindu, ji visą valstybės mechanizmą pastato ten, kur jis tada priklausys: į senienų muziejų, šalia verpimo rato ir bronzinio kirvio.",
-    "Moterų emancipacija bus įmanoma tik tada, kai moterys galės dideliu mastu dalyvauti socialinėje gamyboje, o namų ruošos darbai nebereikalaus nieko, išskyrus nereikšmingą jos laiko dalį.",
-    "Proletarai neturi ko prarasti, išskyrus savo grandines. Jie turi laimėti pasaulį. Visų šalių darbininkai, vienykitės!",
-    "Mokslas progresuoja proporcingai jo užduodamiems klausimams.",
-    "Per didelio naudingų daiktų gamyba lemia per daug nenaudingų žmonių.",
-    "Proletariato vystymasis eina koja kojon su kapitalo vystymusi.",
-    "Pirmasis darbo pasidalijimas yra tarp vyro ir moters vaikų dauginimui.",
-    "Galutinės priežastys yra ne kas kita, kaip vyrų fantazijos.",
-    "Santuoka pagal sutartį išlieka išimtimi, kaip buvo iš pradžių, ir, kaip matėme, ji išsivystė iš pirkimo. Santuoka pagal meilės pasirinkimą, šiuolaikine prasme, iš pradžių buvo tam tikrų socialinių sluoksnių privilegija.",
-  ],
-  },
+    "Galutinis žmogaus veiksmų tikslas yra Dievo šlovė.",
+    "Tai, ką mylime, pasako, kas esame.",
+    "Nėra nieko šioje žemėje vertingesnio už tikrą draugystę.",
+    "Dievo pažinimas yra daiktų priežastis.",
+    "Mylėti reiškia norėti kito gėrio.",
+    "Tikėjimas susijęs su nematomais dalykais, o viltis – su nedideliais dalykais.",
+    "Didžiausias gerumas, kurį galima padaryti bet kuriam žmogui, yra vesti jį iš klaidos į tiesą.",
+    "Filosofijos studijos nėra skirtos tam, kad žinotume, ką galvojo žmonės, o tam, kad žinotume, kas yra daiktų tiesa.",
+    "Siela yra substancija ta prasme, kad ji egzistuoja pati savyje.",
+    "Žmogaus įstatymas yra įstatymas tik tiek, kiek jis atitinka teisingą protą; ir taip akivaizdu, kad įstatymas kyla iš proto.",
+    "Žmogaus ketinimas leidžiant įstatymus yra, kad jie būtų laikomasi.",
+    "Žmogus turi laisvą pasirinkimą tiek, kiek jis yra racionalus.",
+    "Dievo egzistavimas gali būti įrodytas penkiais būdais.",
+    "Malonė negriauna prigimties, bet ją tobulina.",
+    "Puikybės nuodėmę galima apibrėžti kaip nepasitenkinimą Dievo susitarimais.",
+    "Meilė seka pažinimą.",
+    "Teisingumo dorybė yra saikingumas, nes teisingumas reikalauja tam tikros vidutinės vertės.",
+    "Meilė yra visų dorybių forma.",
+    "Bendras gėris yra dieviškesnis už vieno gėrį.",
+    "Proto šviesa yra įdėta į kiekvieną žmogų prigimties [ir taip pat Dievo], kad jį vestų jo veiksmuose.",
+    "Pagrindinis drąsos veiksmas yra ištverti ir atlaikyti pavojus atkakliai, o ne pulti.",
+    "Nuostaba yra žinių troškimas.",
+    "Žmogaus intelektas tobulinamas tiesa.",
+    "Kiekvienas sąžinės sprendimas, ar jis būtų teisingas, ar klaidingas, ar apie blogus dalykus, ar moraliai indiferentiškus, yra privalomas.",
+    "Proto atsipalaidavimui būtina retkarčiais pasinaudoti žaismingais veiksmais ir juokeliais.",
+    "Aukščiausias gyvenimo pasireiškimas yra tas, kad būtybė nukreipia savo griaunantį polinkį prieš save.",
+    "Galutinė žmogaus laimė slypi tiesos apmąstyme.",
+    "Negalime turėti tikro kantrybės be atkaklumo.",
+    "Saugokis žmogaus, perskaičiusio tik vieną knygą.",
+    "Daiktai yra tvarkingi dėl proto.",
+    "Tiesos studijoms reikalingas ramus ir taikus protas.",
+    "Blogio egzistavimas nepanaikina Dievo tobulumo.",
+    "Rajumo nuodėmė yra ne maisto esmė, o saikingumo trūkumas jo vartojime.",
+    "Viltis yra pasitikintis ateities gėrio lūkestis.",
+    "Įstatymas yra skirtas bendrai gerovei.",
+    "Žmogaus intelektualinis gyvenimas daugiausia susideda iš intelekto, ieškančio tiesos.",
+    "Visų mūsų veiksmų tikslas turėtų būti laimė.",
+    "Norėdami ką nors atversti, eikite, paimkite juos už rankos ir veskite.",
+    "Teisingumas yra nuolatinė ir amžina valia atiduoti kiekvienam tai, kas jam priklauso.",
+    "Žmogaus siela yra nemirtinga.",
+    "Sielvartą gali palengvinti geras miegas, vonia ir pasivaikščiojimas.",
+    "Didžiausia meilė yra tiesos meilė.",
+    "Galutinis mokymosi tikslas yra pažinti Dievą ir Jį mylėti.",
+    "Dievo pažinimas vyksta ne tik tvirtinimo būdu, bet ir neigimo būdu.",
+    "Gėris yra tai, ko ieško visi daiktai.",
+    "Išmintingo įstatymų leidėjo ketinimas yra vesti žmones į dorybę.",
+    "Aistros yra žmogaus valios judintojos.",
+    "Intelekto gebėjimas judinti valią priklauso nuo to, kiek intelektas suvokia gėrį ar blogį.",
+    "Pagrindinė nuodėmės priežastis yra valioje, o ne intelekte.",
+    "Malonės dovanos didėja mažėjant kliūtims.",
+    "Įstatymas turėtų būti suformuluotas atsižvelgiant į daugumos naudą.",
+    "Tikėjimo tikrumas priklauso nuo apreiškiančio Dievo autoriteto.",
+    "Filosofijos studijos yra tarsi antrasis buriavimas tiems, kurie prarado pirmąjį laivo sudužime.",
+    "Mūsų tikėjimo tiesa tampa pašieklų objektu tarp netikinčiųjų, jei koks nors katalikas, neturintis reikiamos mokslo, aptaria šiuos dalykus apsimetant katalikų tikėjimu.",
+    "Tai, kad pasaulį valdo dieviškoji apvaizda, yra visų žmonių bendras įsitikinimas.",
+    "Didžiausia laimė slypi Dievo apmąstyme.",
+    "Geriau apšviesti, nei tiesiog šviesti, perduoti kitiems apmąstytas tiesas, nei tiesiog apmąstyti.",
+    "Ploniausios žinios, kurias galima įgyti apie aukščiausius dalykus, yra labiau pageidautinos nei tikriausios žinios, įgytos apie žemiausius dalykus.",
+    "Filosofijos studijos yra skirtos žmogui kaip priemonė Dievo pažinimui.",
+    "Tiesos niekada nepakenks sąžiningumas.",
+    "Nuostaba yra išminties pradžia.",
+    "Nėra pavojaus, jei mūsų malda yra be žodžių ar apmąstymų, nes geras troškimas yra malda.",
+    "Trys dalykai yra būtini žmogaus išganymui: žinoti, kuo jis turi tikėti, žinoti, ko jis turi trokšti, ir žinoti, ką jis turi daryti.",
+    "Galutinė gyvenimo vertė priklauso nuo sąmoningumo ir apmąstymo galios, o ne nuo paprasto išgyvenimo.",
+    "Norėdami ką nors atversti, eikite, paimkite juos už rankos ir veskite.",
+    "Dalykai, kurie mylimi savaime, o ne dėl ko nors kito; tai yra dalykai, kurie sudaro mūsų laimės turinį.",
+    "Teologas daro išvadą iš autoriteto, o ne iš proto. Filosofas daro išvadą iš proto, o ne iš autoriteto.",
+    "Tikros meilės be tikro džiaugsmo būti negali."
+  ]
+},
   {
     name: "Ashvaghosha",
     years: "(80–150)", // Patikslinta
@@ -13512,7 +13372,6 @@ Ir kiekvienas mūsų užduotas klausimas yra degtukas, laukiantis, kol bus užde
     "Atleidimas yra kilnios ir dorybingos sielos ženklas.",
     "Svarbu rasti pusiausvyrą visais gyvenimo aspektais.",
     "Galutinis žmogaus gyvenimo tikslas yra realizuoti visą savo intelektualinį ir dvasinį potencialą.",
-    "Gyvenimas siūbuoja tarsi švytuoklė pirmyn ir atgal tarp skausmo ir nuobodulio.",
     "Mes esame tai, ką nuolat darome. Todėl meistriškumas yra ne veiksmas, o įprotis.",
     "Žmogus gali būti savimi tik tol, kol yra vienas; ir jei jis nemyli vienatvės, jis nemylės laisvės; nes tik būdamas vienas jis yra tikrai laisvas.",
     "Užuojauta yra moralės pagrindas.",
@@ -14696,9 +14555,8 @@ kad ir mes galėtume rasti kelią atgal į dieviškumą savyje.`,
   },
   {
     name: "Patanjali",
-    years: "(2nd century)", // Patikslinta
-    quote:
-      "When you are inspired by some great purpose, some extraordinary project, all your thoughts break their bonds.",
+    years: "(200)", // Patikslinta
+    quote: "When you are inspired by some great purpose, some extraordinary project, all your thoughts break their bonds.",
     about:
       "Patanjali is believed to have compiled the Yoga Sutras, a foundational text on yoga philosophy and practice. His work outlines the eight limbs of yoga, providing a systematic approach to spiritual development and self-realization. Patanjali's teachings have had a profound and lasting impact on the practice of yoga worldwide.",
     img: patanjaliImg,
@@ -19306,7 +19164,7 @@ Nuo audringo įžado iki ugningo pasipriešinimo tiesai, Martynas Liuteris tapo 
   },
   {
     name: "Shantideva",
-    years: "(8th century)",
+    years: "(80)",
     quote:
      "May I never do anything that would cause harm to any living being.",
     about:
@@ -20689,254 +20547,192 @@ Because Anselm believed that faith is not the end of thinking—it is the beginn
     
     ],
 
-  
-  quote_lt: "Visoje likimo nelaimėje pati nelaimingiausia nelaimė yra būti buvusiam laimingam.",
-  biography_lt: `## Apžvalga
-Anicijus Manlijus Severinas Boecijus (Anicius Manlius Severinus Boethius) buvo romėnų mokslininkas ir filosofas, gimęs paskutiniais Vakarų Romos imperijos metais. Jis labiausiai garsėja savo darbu **„Filosofijos paguoda“ (The Consolation of Philosophy)**, parašytu jam esant kalėjime ir laukiant egzekucijos.
-Krikščionis tikėjimu ir romėnas išsilavinimu, Boecijus siekė išsaugoti graikų filosofijos, ypač Platono ir Aristotelio, išmintį ir suderinti ją su krikščioniška teologija. Jo raštai paveikė viduramžių scholastiką, Renesanso humanizmą ir krikščioniškosios metafizikos vystymąsi.
-
----
-
-## Ankstyvasis gyvenimas ir aplinka
-**Gimė:** apie 480 m. po Kr. Romoje, į kilmingą Anicių šeimą, kuri tarnavo Imperijai daugelį kartų.
-Boecijus vaikystėje neteko tėvo ir buvo auginamas turtingoje ir kultūringoje aplinkoje.
-Puikiai išsilavinęs graikų ir lotynų kalbomis, jis giliai išmanė logiką, matematiką, muziką, astronomiją ir filosofiją.
-Tikriausiai studijavo Atėnuose arba jį mokė graikų mokslininkai Italijoje.
-
----
-
-## Polotinė karjera
-Boecijus tarnavo pas ostrogotų karalių Teodoriką Didįjį (Theodoric the Great), kuris valdė Italiją po Vakarų Romos imperijos žlugimo.
-510 m. po Kr. jis tapo konsulu, o vėliau – Raštų magistru (Magister officiorum), vienu aukščiausių administracinių postų karalystėje.
-Jis buvo mokymosi rėmėjas, skatino švietimą ir vertimus bei bandė atgaivinti klasikinius romėnų idealus gotikiniame dvare.
-Tačiau politinė įtampa tarp arijonų gotų (kaip Teodorikas) ir katalikų romėnų (kaip Boecijus) augo, ir jis netrukus atsidūrė kryžminėje ugnyje.
-
----
-
-## Įkalinimas ir egzekucija
-523 m. po Kr. Boecijus buvo apkaltintas išdavyste, tariamai už tai, kad gynė kolegą senatorių. Jis buvo areštuotas, įkalintas Pavijoje ir galiausiai nubaustas mirties bausme 524 arba 525 m. po Kr., tikriausiai sumušant ar nukertant galvą.
-Būdamas kalėjime, jis parašė savo didžiausią ir labiausiai išliekantį darbą:
-**„Filosofijos paguoda“ (The Consolation of Philosophy)**
-Parašytas lotynų kalba, „Filosofijos paguoda“ yra dialogas tarp Boecijaus ir **Panelės Filosofijos**. Jame derinami proza ir eilės, ir nagrinėjami nesenstantys klausimai:
-
-### Pagrindinės temos
-* Likimo ir nelaimės prigimtis.
-* Likimo ir pasaulietinės sėkmės nepastovumas.
-* Nepajudinama dorybės, proto ir išminties galia.
-* Laisvos valios ir dieviškosios apvaizdos suderinamumas.
-* Idėja, kad tikra laimė kyla iš vidaus, per susiderinimą su Gėriu (Dievu).
-Pastebėtina, kad Boecijus knygoje tiesiogiai nemini krikščionybės, nors jos idėjos giliai suderinamos su krikščioniška mintimi. Vietoj to, ji remiasi stoicizmu, platonizmu ir neoplatonizmu, parodydama gydomąją filosofijos galią nevilties laikais.
-
----
-
-## Kiti darbai
-Boecijus taip pat reikšmingai prisidėjo prie graikų filosofijos perdavimo Lotynų Vakarams.
-1.  **Logika ir laisvieji menai:**
-    * Vertė ir komentavo Aristotelio ir Porfirijaus darbus.
-    * Jo loginiai darbai buvo naudojami kaip standartiniai vadovėliai visais viduramžiais.
-    * Pristatė ir suformavo *Trivium* ir *Quadrivium*, viduramžių švietimo pagrindą.
-2.  **Teologija:**
-    * Rašė krikščioniškus teologinius traktatus, tokius kaip **„Apie Trejybę“ (De Trinitate)** ir **„Prieš Eutichą“ (Contra Eutychen)**, bandydamas naudoti logiką paaiškinti krikščioniškas doktrinas, tokias kaip Trejybė ir Kristaus dvejopa prigimtis.
-3.  **Muzika ir matematika:**
-    * Knygoje **„Apie muziką“ (De Institutione Musica)** Boecijus nagrinėjo muzikos teoriją kaip harmoningos kosminės tvarkos dalį, paveiktą Pitagoro minties.
-
----
-
-## Įtaka ir palikimas
-Boecijus tapo žinomas kaip „paskutinis romėnų ir pirmasis scholastikų“. Jo palikimas apima:
-* Fundamentalią įtaką viduramžių krikščioniškai filosofijai.
-* Jį gerbė tokie mąstytojai kaip Tomas Akvinietis, Dantė, Anzelmas ir Čoseris.
-* Jo idėjos padėjo suformuoti scholastiką, ypač logikos, metafizikos ir etikos atžvilgiu.
-**„Filosofijos paguoda“ buvo:**
-* Viena iš labiausiai kopijuotų ir skaitomų knygų viduramžiais.
-* Į senąją anglų kalbą išvertė karalius Alfredas (King Alfred), į viduriniąją anglų kalbą – Čoseris (Chaucer), ir į daugelį kitų kalbų.
-* Moralinis kompasas kaliniams, karaliams ir mąstytojams.
-
----
-
-## Mirtis
-**Nubaustas mirties bausme:** 524/525 m. po Kr., tikriausiai Pavijoje, šiaurės Italijoje, įtariant išdavyste.
-Vėliau kai kuriose tradicijose laikomas krikščionių kankiniu ir šventuoju (šventės diena: spalio 23 d.).
-
-**Garsios citatos:**
-* „Niekas niekada negali būti saugus, kol jo neapleido Fortūna.“
-* „Laimė randama ne galioje ar malonume, o išminties ir dorybės turėjime.“
-* „Niekas nėra apgailėtina, nebent taip manote.“
-* „Visoje likimo nelaimėje pati nelaimingiausia nelaimė yra būti buvusiam laimingam.“`,
-  shortStory_lt: `## Boecijaus istorija
-**Filosofas, kuris rado laisvę kalėjimo kameroje**
-Kadaise, Romos imperijos griūvančiame šešėlyje, gyveno žmogus vardu Boecijus – kilmingas pagal gimimą, genialus protu ir ištikimas širdimi. Jis tarnavo karaliams, skaitė senovės raštus ir tikėjo teisingumu, net kai kiti jį pamiršdavo.
-
-Jis iškilo aukštai gotų dvare, juo pasitikėjo ir jį gerbė. Tačiau tiesa, drąsiai ištarta, dažnai sukuria priešų.
-Vieną dieną, gindamas draugą, Boecijus buvo apkaltintas išdavyste. Netekęs garbės, jis buvo įmestas į šaltą kamerą Pavijoje, laukdamas egzekucijos. Jo turtas dingo, reputacija sutepta, gyvenimas beveik baigėsi – ką jis padarė?
-Jis pradėjo rašyti.
-
-Kalėjimo tyloje į jo mintis atėjo figūra – **Panelė Filosofija**, apsirengusi šviesa, jos akys kupinos atjautos ir proto.
-„Ar manai, kad Fortūna tave išdavė?“ – paklausė ji.
-**„Ji niekada nebuvo tavo nuo pat pradžių.“**
-Kartu jie kalbėjo apie likimą, laisvę, dorybę ir Dievą. Boecijus klausė, kodėl klesti nedorėliai, kodėl kenčia geri žmonės, kodėl pasaulis sukasi taip žiauriai.
-Panelė Filosofija švelniai atsakė:
-**„Tikra laimė slypi ne galioje ar turte, o sielos ramybėje, pasukusiai į išmintį.“**
-Ir ten, požemio tamsoje, Boecijus rado tiesos šviesą – ne pabėgime, o supratime.
-
-Netrukus po to, jis buvo nubaustas mirties bausme.
-Tačiau jo knyga **„Filosofijos paguoda“** gyvavo toliau. Ji keliavo nuo vienuolio iki karaliaus, nuo mokslininko iki poeto, šnabždėdama savo tiesas per šimtmečius:
-**„Niekas nėra apgailėtina, nebent taip manote.“**
-**„Likimo ratas sukasi – bet išmintingi jam nepririšti.“**
-Ir taip, Boecijus, kuris prarado viską, davė pasauliui kažką didingesnio:
-Priminimą, kad net neviltyje išmintis gali paguosti,
-Ir net mirtyje tiesa išlieka.`,
+  quote_lt: "Tikėjimas, ieškantis supratimo (Fides quaerens intellectum).",
+  biography_lt: `Filosofas, teologas, arkivyskupas ir Bažnyčios daktaras
+Apžvalga
+Kenterberio Anzelmas buvo Italijoje gimęs benediktinų vienuolis, scholastikas filosofas ir Kenterberio arkivyskupas, tapęs vienu įtakingiausių Aukštųjų viduramžių mąstytojų. Jis dažnai vadinamas scholastikos tėvu – tradicijos, kuri naudojo protą ir logiką tikėjimui tyrinėti.
+Jo garsusis šūkis „fides quaerens intellectum“ (tikėjimas, ieškantis supratimo) apibūdina visą jo požiūrį: tikėjimas yra pirmiausia, tačiau natūralu ir garbinga ieškoti racionalaus to tikėjimo supratimo.
+Ankstyvasis gyvenimas ir išsilavinimas
+Gimė: apie 1033 m. e. m. Aostoje, Burgundijos karalystės mieste (dabar Italijoje)
+Augo kilmingoje šeimoje; motina buvo dievobaiminga, tėvas – griežtas.
+Jaunystėje jis norėjo įstoti į vienuolyną, tačiau tėvas neleido.
+Po motinos mirties jis išėjo iš namų, keliavo po Prancūziją ieškodamas vienuolyninio gyvenimo.
+Panašiai jis įstojo į Beko benediktinų abatiją Normandijoje, kur studijavo pas filosofą-teologą Lanfrancą, o vėliau tapo prioriumi ir abatu.
+Karjera ir iškilimas Bažnyčioje
+Anzelmas išgarsėjo savo gilumu dievobaimingumu, filosofinėmis įžvalgomis ir mokytojo įgūdžiais.
+1093 m. jis buvo paskirtas Kenterberio arkivyskupu, pakeisdamas Lanfrancą.
+Jo kadencija pasižymėjo konfliktais su Anglijos karaliais (Viljamu II ir Henriku I) dėl bažnytinės valdžios ir investitūros.
+Jis buvo du kartus ištremtas, atsisakydamas kompromituoti Bažnyčios nepriklausomybę nuo karališkosios valdžios.
+Nepaisant politinių kovų, jis išliko švelnus, tvirtas ir ištikimas, ir prieš mirtį galiausiai susitaikė su karaliumi.
+Filosofinis ir teologinis indėlis
+Anzelmo raštuose derinama logika, metafizika ir teologija, visa tai grindžiama jo įsitikinimu, kad protas stiprina tikėjimą.
+1. Ontologinis argumentas (Proslogion)
+Savo „Proslogion“ (parašytame 1077–78 m.) Anzelmas pateikia savo garsųjį argumentą Dievo egzistencijai:
+„Dievas yra tai, už ką negalima sugalvoti nieko didesnio.
+O tai, kas egzistuoja tikrovėje, yra didesnis už tai, kas egzistuoja tik prote.
+Todėl Dievas turi egzistuoti tikrovėje.“
+Šis a priori argumentas sukėlė šimtmečius diskusijų, paveikdamas tokius mąstytojus kaip Dekartas, Leibnicą, Kantas ir šiuolaikiniai filosofai.
+2. Monologionas
+Meditacija apie Dievo prigimtį, vienybę ir gerumą, naudojant racionalų mąstymą ir vengiant Šventojo Rašto.
+Teigia, kad Dievas yra būtybė, kuri yra būtina ir didžiausia, visų vertybių šaltinis.
+3. Cur Deus Homo („Kodėl Dievas tapo žmogumi“)
+Pamatinis krikščioniškosios atpirkimo teorijos tekstas.
+Pasiūlo atpirkimo pasitenkinimo teoriją: žmogaus nuodėmė įžeidžia Dievą, ir tik Dievas-žmogus (Kristus) galėjo atkurti pusiausvyrą savanoriška auka.
+Ši teorija šimtmečius formavo Vakarų krikščioniškąją teologiją, ypač katalikų ir protestantų tradicijose.
+Pavelas ir įtaka
+Anzelmo požiūris padėjo pamatus scholastikai, dominuojančiam viduramžių krikščioniškosios minties metodui.
+Paveikė vėlesnius teologus, tokius kaip Tomas Akvinietis, Petras Abelardas, Jonas Dunsas Scotus ir Dekartas.
+Laikomas tiltu tarp Augustino ir Akviniečio – sujungiančiu tikėjimą su protu.
+Jis buvo paskelbtas Bažnyčios daktaru 1720 m. ir išlieka vienu didžiausių krikščionių filosofų ir teologų visų laikų.
+Mirtis
+Mirė: 1109 m. balandžio 21 d. Kenterberyje, Anglijoje.
+Palaidotas Kenterberio katedroje, kur jis vis dar gerbiamas.
+Šventės diena: balandžio 21 d.
+Garsios citatos
+„Niekada nesiekiu suprasti tam, kad tikėčiau, bet tikiu tam, kad suprasčiau.“
+„Dievas yra tai, už ką nieko didesnio negalima sugalvoti.“
+„Valia yra laisvesnė, kai nenusideda, nes nuodėmė pavergia.“`,
+  shortStory_lt: `Anzelmo istorija
+Vienuolis, kuris paklausė, kodėl Dievas tapo žmogumi
+Aostos žaliojoje slėniuose jaunas berniukas, vardu Anzelmas, kartą sapnavo, kad užkopė į dangaus teismus. Sapnas liko su juo – ne kaip puikybė, bet kaip tylus pašaukimas.
+Jam augant, augo ir jo klausimai.
+Kodėl mes tikime?
+Ar tikėjimą galima suprasti?
+Ar Dievas pažįstamas tik širdimi – ar ir protu?
+Anzelmas nukeliavo į Normandiją, kur įstojo į Beko abatiją ir pradėjo maldos, studijų ir tylos gyvenimą. Tačiau toje tyloje jo mintys virto argumentais, ne galios, bet nuostabos.
+Vieną naktį, vaikščiodamas vienas, jis parašė:
+„Dievas yra tai, už ką negalima sugalvoti nieko didesnio.“
+Jis samprotavo, kad Dievas turi egzistuoti ne tik prote, bet ir realybėje – nes tai, kas realu, yra didesnis už tai, kas įsivaizduojama. Taip gimė Ontologinis argumentas – tokia drąsi idėja, kuri atgimė po tūkstančio metų.
+Tačiau Anzelmas nebuvo atsiskyręs mąstytojas. Jis buvo paskirtas Kenterberio arkivyskupu, nors niekada nesiekė titulų. Du kartus karaliai jį ištrėmė, atsisakydami pasiduoti pasaulietinei valdžiai sielos reikaluose.
+Tačiau kur tik jis ėjo, jis rašė – ne ugnimi, o šviesa.
+„Tikiu tam, kad suprasčiau“, – sakė jis.
+„Ir aš klausiu ne tam, kad mesčiau iššūkį Dievui – bet kad priartėčiau.“
+Paskutiniaisiais savo gyvenimo metais jis parašė „Kodėl Dievas tapo žmogumi“, bandydamas suprasti meilės paslaptį, kuri buvo tokia didžiulė, kad įgavo kūną ir kentėjo.
+Kai jis mirė 1109 m., jį palaidojo Kenterberio katedroje. Tačiau jo žodžiai gyvavo – tarp vienuolių ir mokslininkų, tarp ieškančiųjų ir abejojančiųjų.
+Nes Anzelmas tikėjo, kad tikėjimas nėra mąstymo pabaiga – tai pradžia.`,
   quotes_lt: [
-    "Niekas nėra apgailėtina, nebent taip manote; ir, kita vertus, niekas neteikia laimės, nebent esate patenkinti tuo.",
-    "Visoje likimo nelaimėje pati baisiausia nelaimė yra būti buvusiam laimingam.",
-    "Gėris yra tikslas, į kurį viskas linksta.",
-    "Kas duotų įstatymą įsimylėjusiems? Meilė pati sau yra aukštesnis įstatymas.",
-    "Jei yra Dievas, iš kur kyla tiek daug blogybių? Jei nėra Dievo, iš kur kyla koks nors gėris?",
-    "Muzika yra taip natūraliai susijusi su mumis, kad negalime nuo jos būti laisvi – net jei to trokštame.",
-    "Žmogaus dorybė yra viskas, ką jis iš tiesų turi, nes jos nekelia grėsmės likimo permainos.",
-    "Tad nusausinkite ašaras. Fortūna dar nenukreipė savo neapykantos prieš visas jūsų palaimas.",
-    "Visiškai vienu metu ir tobulai turėti neribotą gyvenimą vienu momentu.",
-    "Visas likimas yra geras likimas; nes jis arba apdovanoja, disciplinuoja, pataiso, arba baudžia, ir taip yra arba naudingas, arba teisingas.",
-    "Draugas, kurį atneša sėkmė, nelaimės metu tampa tavo priešu.",
-    "Tas, kurio širdis nepastovi, nėra savo paties šeimininkas.",
-    "Apmąstykite dangaus mastą ir stabilumą, ir tada pagaliau nustokite žavėtis beverčiais dalykais.",
-    "Kitose gyvose būtybėse savęs nežinojimas yra gamta; žmoguje – tai yda.",
-    "Kiekvienas žmogus turi būti patenkintas ta šlove, kurią jis gali turėti namuose.",
-    "Geri laikai praeina, bet tada ir blogi.",
-    "Kintamumas yra mūsų tragedija, bet tai ir mūsų viltis.",
-    "Blogiausi laikai, kaip ir geriausi, visada praeina.",
-    "Dabar aš žinau… pagrindinę tavo ligos priežastį: tu pamiršai savo tikrąją prigimtį.",
-    "Niekas niekada negali būti tikrai saugus, kol jo neapleido fortūna.",
-    "Žmogus, patenkintas eiti į dangų vienas, niekada neis į dangų.",
-    "Meilė taip pat sieja žmones santuokos šventaisiais saitais, kur susitinka tyri įsimylėjėliai, o draugai sustiprina savo pasitikėjimą ir draugystę.",
-    "Kaip laiminga žmonija, jei meilė, kuri tvarko žvaigždes viršuje, valdo ir jūsų širdyse.",
-    "Tarp išmintingų žmonių nebelieka jokios vietos neapykantai.",
-    "Kaip silpnumas yra kūno liga, taip nedorybė yra proto liga.",
-    "Žmogaus sielos yra laisvesnės, kai jos atkakliai apmąsto Dievo protą, mažiau laisvos, kai nusileidžia į kūną, ir dar mažiau laisvos, kai visiškai įkalintos žemiškoje kūne ir kraujyje.",
-    "Vargšai žmonės dreba prieš tironus, kurie neturi galios, savo nereikšmingų vilčių ir baimių aukos.",
-    "Jie nesuvokia, kad pyktis yra beviltiškas, baimė beprasmė, o troškimas – tik iliuzija.",
-    "Žmonės, kurie atsisako bendro visų egzistuojančių dalykų tikslo, tuo pačiu nustoja egzistuoti patys.",
-    "Tai yra visų gerų dalykų tobulumas ir savyje talpina viską, kas gera.",
-    "Nes tikro gėrio troškimas gamtos pasėtas žmonių protuose, tik klaida veda juos klystkeliu link netikro gėrio.",
-    "Negalite nieko primesti laisvam protui.",
-    "Negalite pajudinti iš vidinės ramybės būsenos proto, kuris yra ramus ir tvirtai pagrįstas protu.",
-    "Kas didžiuojasi savo protėviais, tas giria kito darbus.",
-    "Protas yra jo paties vieta, ir jame pats gali pragaro padaryti dangų, dangaus – pragarą.",
-    "Jei pirmiausia atsikratysite vilties ir baimės, nuliūdinsite tirono pyktį.",
-    "Niekas nėra apgailėtina, išskyrus tai, kas taip galvojama, ir atvirkščiai, kiekviena būklė yra laiminga, jei tas, kuris ją nešioja, yra patenkintas.",
-    "Kokia vieta gali likti atsitiktiniam veiksmui, kai Dievas viską priverčia tvarkyti?",
-    "Jei tikitės, kad gydytojas jums padės, turite atidengti savo žaizdą.",
-    "Jei kiekvienam duotumėte, ko jis nusipelnė, tada mylėkite geruosius ir gailėkitės blogųjų.",
-    "Kas dorybingas, tas išmintingas; ir kas išmintingas, tas geras; ir kas geras, tas laimingas.",
-    "Nėra blogio, labiau galinčio jums pakenkti, nei draugas, tapęs priešu.",
-    "Asmuo yra individuali racionalios prigimties substancija.",
-    "Kieno laimė taip tvirtai įtvirtinta, kad jis neturi jokių nusiskundimų dėl savo gyvenimo būklės?",
-    "Meilė turi tris kilmės rūšis: kančią, draugystę ir meilę. Žmogiškoji meilė turi kūno ir intelektualinę kilmę.",
-    "Niekada nepasibaigdama, ji, atrodo, bando varžytis su tuo, ko niekada negali visiškai realizuoti savo būtyje.",
-    "Atgaukite tikrąją savitvardą.",
-    "Žmonės turi rasti bendrą pagrindą, jei mūsų mūšiai kada nors turi baigtis.",
-    "Kodėl mane persekioji savo kasdieniais skundais? Ką aš tau padariau blogo? Kokius tavo turtus aš iš tavęs atėmiau?",
-    "Jūs turite priežastį man padėkoti už tai, kad naudojotės ne savo; jūs neturite teisės skųstis, tarsi būtumėte praradę tai, kas buvo visiškai jūsų.",
-    "Nes kas geriau už protą, kuris paniekina likimo žalas ir laiko dorybę vieninteliu gėriu?",
-    "Fortūnos galia labiausiai jaučiama, kai atrodo, kad ji teikia malonumą.",
-    "Išmintingiesiems būdinga priešintis malonumams, o kvailiai į juos pasineria stačia galva.",
-    "Viso gėrio sėklos slypi mumyse.",
-    "Nuoširdžiai norėti būti tuo, kuo nesi, yra sugadinto proto ženklas.",
-    "Laimės viršūnė, galime daryti išvadą, yra tas gėris, kuris, pasiektas, nepalieka jokio tolesnio troškimo nepatenkinto.",
-    "Ar gali būti kas nors kvailesnio, nei ieškoti gėrio už savęs, kurį gali rasti savyje?",
-    "Nes tikrai praeities sielvarto prisiminimas pats savaime yra sielvartingas.",
-    "Bet dabartinis blogis slegia labiau nei tas, kuris praėjo.",
-    "Kintanti deivė [Fortūna] visada tokia: tiems, kurie jos mažiausiai verti, ji dovanoja savo dovanas.",
-    "Ir tuos, kuriuos ji pakėlė aukštai, ji nuleidžia žemai.",
-    "Nė vienas žmogus nėra toks visiškai palaimintas, kad neturėtų kokios nors pusės, atviros likimo smūgiams.",
-    "Ir niekas nėra toks visiškai vargšas, kad nepažintų paguodos akimirkų.",
-    "Nes kiekviename blogame likimo posūkyje kartiausia gėlė yra laimingesnių laikų prisiminimas.",
-    "Bet jei pasversite gėrį, kuriuo mėgavotės, prieš blogį, pamatysite, kad gėris vis dar viršija blogį.",
-    "Ir tai todėl, kad nežinote daiktų pabaigos ir tikslo, todėl manote, kad nedori ir nusikaltėliai turi galią ir laimę.",
-    "Nes nedorybė niekada negali pasiekti laimės, bet veržiasi tiesiai į nelaimę.",
-    "Gerieji visada stiprūs, blogieji visada silpni ir bejėgiai.",
-    "Kodėl gi tada jūs, mirtingieji, ieškote laimės už savęs, kuri yra viduje?",
-    "Klaida ir nežinojimas juos apgaubia, todėl jie negali matyti tikrosios gėrio šviesos.",
-    "Jie atsisako tikrojo malonumo ir pasiduoda karčiausiai vergystei, siekdami klaidingo ir trumpalaikio malonumo.",
-    "Nes ko gi dar siekia visi šie mirtingųjų žmonių neramumai, ko jie taip aistringai siekia, jei ne laimės pasiekimo?",
-    "Nors skirtingi keliai veda ten, vis dėlto mes visi siekiame pasiekti tą patį tikslą, kuris yra laimė.",
-    "Ir tai yra tas gėris, kuris, kaip mes apibrėžėme, yra laimė.",
-    "Kadangi taip yra, aišku, kad tobula laimė randama tobulame gėryje.",
-    "Bet kadangi, kaip parodyta, niekas nėra tikrai geras, išskyrus Dievą, iš to seka, kad vien Dievas turi tobulą laimę.",
-    "Ir taip mes darome išvadą, kad tikra laimė slypi vien tik Dieve.",
-    "Tad išmokite, mirtingieji, savo pranašumo prigimties.",
-    "Jūs esate dieviškosios būtybės.",
-    "Tik neatsisakykite savo prigimties prerogatyvos.",
-    "Nes būtent tada, kai atsisako dorybės, žmonės nusileidžia žemiau žmogiškumo lygio.",
-    "Tikriausią laimę turi tas, kuris mažiausiai priklauso nuo išorinių dalykų.",
-    "Kuo mažiau priklausote nuo likimo dovanų, tuo saugesnė jūsų laimė.",
-    "Nes ką likimas davė, tą likimas gali atimti.",
-    "Bet dorybė, kuri yra vidinis sielos turtas, lieka su mumis per visus gyvenimo pokyčius.",
-    "Ir kaip kūnas nedžiugina išorinių dalykų papuošimais, o savo sveikata, taip siela džiuginama ne svetimų gėrybių, o savo pačios dorybės.",
-    "Tvirtai laikykitės dorybės ir paniekinkite tuščius likimo pasirodymus.",
-    "Tie, kurie seka dorybe, kyla aukštyn, o tie, kurie pasiduoda ydai, grimzta žemyn.",
-    "Viskas, ką matote, viskas, ko nematote, yra Dievo darbas.",
-    "Nes iš nieko negali atsirasti niekas.",
-    "Ir niekas negali būti sumažintas iki nieko.",
-    "Visata valdoma proto, o ne atsitiktinumo.",
-    "Ir šis protas yra ne kas kita, kaip dieviškasis protas.",
-    "Todėl viskas linksta gėrio link, vadovaujamas proto.",
-    "Net tie dalykai, kurie atrodo painūs ir netvarkingi, yra nukreipiami į tam tikrą tvarką dieviškojo plano.",
-    "Nes dieviškajai apvaizdai būdinga išvesti gėrį iš blogio.",
-    "Ir net nelaimes paversti tarnaujančiomis savo galutiniams tikslams.",
-    "Neleiskite, kad jus nugalėtų blogis, bet nugalėkite blogį gėriu.",
-    "Dorybės atlygis yra pati dorybė.",
-    "Ir ydos bausmė yra jos pačios nuosmukis.",
-    "Galutinė visų dalykų priežastis yra gėris.",
-    "Ir kadangi Dievas yra tobulas gėris, iš to seka, kad viskas, ką jis sukuria, yra gėris.",
-    "Blogis, tada, nėra nieko pozityvaus; tai tiesiog gėrio nebuvimas.",
-    "Kaip tamsa yra šviesos nebuvimas, o šaltis – šilumos nebuvimas.",
-    "Todėl, matydami vyraujančią nedorybę ir ydas, nenusivilkite.",
-    "Nes šis paplitimas kyla ne dėl blogio stiprybės, o dėl gėrio silpnumo.",
-    "Nedorėliai niekada negali tikrai nugalėti gėrio, nes gėris galiausiai yra stipresnis už blogį.",
-    "Ir net tie, kurie daro bloga, kenkia sau labiau, nei kenkia kitiems.",
-    "Nes nedorybė sugadina sielą ir padaro ją nelaiminga.",
-    "Bet dorybė kilnina sielą ir daro ją laiminga.",
-    "Todėl visada siekite dorybės ir venkite ydos.",
-    "Nes dorybė yra vienintelė tikra ir ilgalaikė gėrybė.",
-    "Ir yda yra vienintelis tikras ir ilgalaikis blogis.",
-    "Neapsigaukite trumpalaikiais nuodėmės malonumais.",
-    "Nes šie malonumai tėra tikros laimės šešėlis.",
-    "Ir jie veda tik į sielvartą ir gailestį.",
-    "Bet dorybės malonumai yra tyri ir ilgalaikiai.",
-    "Ir jie atneša tikrą ir ilgalaikę laimę.",
-    "Todėl rinkitės dorybę ir atmeskite ydas.",
-    "Ir rasite tikrą ramybę ir džiaugsmą šiame gyvenime ir būsimame gyvenime.",
-    "Išmintingas žmogus žiūri į ketinimą, o ne į veiksmo rezultatą.",
-    "Nes ketinimas yra jo galioje, o rezultatas – likimo rankose.",
-    "Todėl jo netrikdo nelaimė, nei džiugina klestėjimas.",
-    "Nes jis žino, kad tikra laimė slypi jame pačiame.",
-    "Ir ji nepriklauso nuo išorinių aplinkybių.",
-    "Kvailys, kita vertus, savo laimę sieja su išoriniais dalykais.",
-    "Ir todėl jį nuolat blaško likimo bangos.",
-    "Jis laimingas, kai turi turtų ir garbės, ir apgailėtinas, kai jų netenka.",
-    "Bet išmintingas žmogus visada laimingas, nes išmoko rasti laimę savyje.",
-    "Ir šios laimės iš jo niekada negalima atimti.",
-    "Todėl ieškokite išminties labiau už viską.",
-    "Nes išmintis yra raktas į tikrąją laimę.",
-    "Ir ji ves jus per gyvenimo audras.",
-    "Ir nuves jus į amžinosios ramybės uostą.",
-    "Apsvarstykite, kokie trumpalaikiai ir praeinantys yra žemiškieji dalykai.",
-    "Ir kaip tuščia yra dėti į juos savo širdį.",
-    "Nes šiandien jie yra čia, o rytoj jų nebėra.",
-    "Bet dvasios dalykai yra amžini.",
-    "Ir jie išliks amžinai.",
-    "Todėl dėkite savo širdį į tai, kas aukščiau.",
-    "Ir ieškokite tų lobių, kurių nei kandys, nei rūdys negali sunaikinti.",
-    "Ir kurių joks vagis negali pavogti.",
-    "Nes kur jūsų lobis, ten bus ir jūsų širdis.",
-    "Nesijaudinkite dėl ateities.",
-    "Nes ateitis yra Dievo rankose.",
-    "Ir jis pasirūpins tais, kurie Juo pasitiki.",
-    "Pakanka dienos blogio.",
-    "Todėl gyvenkite kiekvieną dieną, kaip ji ateina.",
-    "Ir nesijaudinkite, ką atneš rytojus.",
-    "Nes Dievas geras, ir jis niekada nepaliks tų, kurie Jį myli.",
+    "Aš nesiekiu suprasti, kad tikėčiau, bet tikiu, kad suprasčiau. Nes ir tai tikiu, kad jei netikėsiu, nesuprasiu.",
+    "Tikėjimas ieško, supratimas randa.",
+    "Tikėti – tai niekas kitas, kaip mąstyti su sutikimu.",
+    "Teisingas tikėjimas eina prieš racionalų supratimą.",
+    "Teisingo proto tvarka reikalauja, kad krikščioniškojo tikėjimo gilius dalykus tikėtume, kol imsimės juos aptarti protu.",
+    "Dievas yra tai, už ką nieko didesnio negalima sugalvoti.",
+    "Viena yra objektui būti supratime, o kita – suprasti, kad objektas iš tikrųjų egzistuoja.",
+    "Net kvailys, kuris savo širdyje sako „Dievo nėra“, supranta, ką neigia.",
+    "Tai, už ką negalima sugalvoti nieko didesnio, negali egzistuoti tik supratime; nes jei tai egzistuoja tik supratime, galima sugalvoti, kad tai egzistuoja realybėje, o tai yra didesnis.",
+    "Todėl, jei tai, už ką negalima sugalvoti nieko didesnio, egzistuoja tik supratime, tai tai, už ką negalima sugalvoti nieko didesnio, yra tai, už ką galima sugalvoti kažką didesnio. Tačiau tai akivaizdžiai prieštarauja. Todėl nėra abejonių, kad tai, už ką negalima sugalvoti nieko didesnio, egzistuoja tiek supratime, tiek realybėje.",
+    "Dievas yra tai, kas yra visiškai paprasta ir viena.",
+    "Dievas yra pati tiesa.",
+    "Dievas yra nepaprastai geras, todėl neįmanoma sugalvoti nieko geresnio.",
+    "Dievas yra nekintamas.",
+    "Dievas yra amžinas, be pradžios ir pabaigos.",
+    "Dievas yra visur ir niekur konkrečiai.",
+    "Dievas yra visagalis, galintis daryti viską, ko nori.",
+    "Dievas yra visažinis, suvokiantis viską.",
+    "Dievas yra teisingas ir gailestingas.",
+    "Dievo būtis yra jo supratimas, jo išmintis, jo valia, jo galia, jo teisingumas, jo gailestingumas, jo tiesa ir t. t.; nes jis yra visiškai paprastas.",
+    "Būtina, kad žmogaus nuodėmė būtų atpirkta Dievo-žmogaus.",
+    "Žmogus nusidėjo, ir Dievas buvo įžeistas. Už įžeidimą Dievui turi būti atlyginta.",
+    "Nuodėmės skola yra tokia didelė, kad tik Dievas gali ją apmokėti, tačiau tai žmogus yra skolingas.",
+    "Todėl buvo būtina, kad Dievas taptų žmogumi, kad žmogus galėtų atlyginti Dievui.",
+    "Kristus, būdamas ir Dievas, ir žmogus, galėjo pasiūlyti ir pakankamą, ir tinkamą atlyginimą.",
+    "Kristaus mirtis buvo savanoriška auka, pasiūlyta Dievo teisingumui patenkinti.",
+    "Per atpirkimą žmonija susitaikė su Dievu.",
+    "Dievo įsikūnijimas žmogumi buvo vienintelis būdas atkurti nutrūkusį Dievo ir žmonijos santykį.",
+    "Kristaus paklusnumas iki mirties pelnė išganymą žmonijai.",
+    "Kristaus pasiūlytas atlyginimas buvo didesnis už nuodėmės įžeidimą.",
+    "Valia, kai ji visiškai atitinka Dievo valią, yra laisva.",
+    "Nuodėmė yra niekas kitas, kaip neatidavimas Dievui to, kas jam priklauso.",
+    "Velnias neegzistuoja pats savaime, bet kaip Dievo kūrinijos iškrypimas.",
+    "Viltis yra niekas kitas, kaip būsimos laimės laukimas.",
+    "Meilė yra tam tikra draugystė su Dievu.",
+    "Visatos grožis yra Dievo grožio atspindys.",
+    "Tiesa yra gėris, kurį gali turėti tik protas.",
+    "Teisingumas yra valios teisingumas, stebimas dėl paties savęs.",
+    "Gailestingumas yra atjauta, jaučiama mūsų širdyse dėl kito nelaimės, nelaimės, kuri mus verčia jam padėti, jei galime.",
+    "Nuolankumas yra savęs pažinimas, kuris priverčia žmogų niekinti save lyginant su Dievu.",
+    "Dievo meilė yra visų gėrybių šaltinis.",
+    "Turėtume labiau už viską trokšti matyti Dievą.",
+    "Dangaus palaimingumas susideda iš Dievo regėjimo.",
+    "Mūsų širdys nerimsta, kol jos neatsiranda tavyje, Viešpatie.",
+    "Tiesa yra tam tikra tiesumas, suvokiama tik protui.",
+    "Kaip protas trokšta pažinti tiesą, taip valia trokšta gėrio.",
+    "Dievas yra aukščiausia tiesa ir aukščiausias gėris, visos kitos tiesos ir gėrio šaltinis.",
+    "Nusigręžti nuo tiesos reiškia nusigręžti nuo Dievo.",
+    "Valia yra iš tiesų laisva, kai ji pasirenka tai, kas gera ir teisinga, pagal Dievo valią.",
+    "Galimybė nusidėti nėra laisvė, o laisvės trūkumas.",
+    "Tikroji laisvė yra gebėjimas norėti to, kas teisinga.",
+    "Valia yra judinama to, ką intelektas suvokia kaip gėrį.",
+    "Kai valia visiškai atitinka Dievo valią, ji yra visiškai laisva.",
+    "Valios polinkis į laimę yra įgimtas jos prigimčiai.",
+    "Velnio valia yra visiškai iškrypusi, trokštanti tik to, kas prieštarauja Dievo valiai.",
+    "Blogis nėra substancija, bet gėrio trūkumas.",
+    "Velnio galia yra apribota Dievo suverenumu.",
+    "Velnio gundymas veikia apgaudinėdamas intelektą ir viliodamas valią.",
+    "Velnio nugalėjimas buvo pasiektas per Kristaus nuolankumą ir paklusnumą.",
+    "Dievo meilė yra ugnis, kuri sunaikina viską, kas yra nešvaru, ir traukia mus prie savęs.",
+    "Mes turime mylėti Dievą ne dėl savo naudos, bet dėl Jo paties.",
+    "Dievo meilės didybė yra virš žmogaus supratimo.",
+    "Mūsų meilė Dievui turėtų būti pagrindinis mūsų gyvenimo principas.",
+    "Supratimas yra tikėjimo atlygis.",
+    "Mes turėtume kreiptis į tikėjimo paslaptis su nuolankumu ir pagarba.",
+    "Abejonės gali būti paskata gilesniam tyrimui ir supratimui.",
+    "Tikras tikėjimas nėra aklas sutikimas, bet pagrįstas pasitikėjimas Dievo Žodžiu.",
+    "Proto šviesa gali apšviesti tikėjimo tiesas.",
+    "Dievo kontempliavimas yra aukščiausia žmogaus sielos laimė.",
+    "Mes buvome sukurti Dievui, ir mūsų širdys neras ramybės, kol jos neatsiranda Jame.",
+    "Mūsų gyvenimas turėtų būti nuolatinis siekis giliau pažinti ir mylėti Dievą.",
+    "Tegul mūsų tikėjimas auga iki tobulo regėjimo būsimame gyvenime.",
+    "Teisingumas yra valios teisingumas, stebimas dėl paties savęs.",
+    "Dievo teisingumas yra neatskiriamas nuo jo gėrio ir gailestingumo.",
+    "Teisumas yra atitikimas Dievo valiai.",
+    "Nuodėmė yra nukrypimas nuo valios teisingumo.",
+    "Tikras teisingumas reikalauja, kad nuodėmė būtų atpirkta.",
+    "Malda yra proto pakėlimas į Dievą, nuolanki malda už Jo malonę.",
+    "Per maldą mes bendraujame su Dievu ir atsiveriame Jo valiai.",
+    "Nuolanki malda kyla iš širdies, kuri tiki ir pasitiki Dievo gerumu.",
+    "Mes turėtume melstis už save ir už kitus, ypač už nuodėmių atleidimą.",
+    "Maldos veiksmingumas priklauso nuo Dievo valios ir mūsų tikėjimo.",
+    "Aukščiausia žmonijos palaima slypi tiesioginiame Dievo regėjime danguje.",
+    "Šis regėjimas pranoksta visus žemiškus džiaugsmus ir patenkina giliausius žmogaus širdies troškimus.",
+    "Dievo šlovės šviesa apšvies palaimintųjų protus.",
+    "Palaimingosios vizijos metu mes pažinsime Dievą tokį, koks jis yra, veidas į veidą.",
+    "Ši tobula sąjunga su Dievu yra galutinis tikinčiųjų tikslas ir atlygis.",
+    "Įsikūnijimas demonstruoja didžiulę Dievo meilę žmonijai.",
+    "Tapęs žmogumi, Kristus sujungė žmoniją su dieviškumu.",
+    "Dievo nuolankumas, priimant žmogiškąjį pavidalą, yra gili paslaptis.",
+    "Per įsikūnijimą Kristus tapo tarpininku tarp Dievo ir žmonijos.",
+    "Kristaus gyvenimas yra tobulas paklusnumo ir meilės pavyzdys.",
+    "Stengiamės giliau pažinti Dievą ir karščiau Jį mylėti.",
+    "Tegul mūsų tikėjimas stiprėja ir supratimas gilėja Jo malonės dėka.",
+    "Gyvenkime laukdami amžinojo džiaugsmo, regėdami Jo šlovę.",
+    "Tegul mūsų valia visada atitinka Jo šventąją valią.",
+    "Jam tebūnie šlovė ir garbė per amžius. Amen.",
+    "Amžinybė yra vienas, vienalaikis ir tobulas nesibaigiančio gyvenimo turėjimas.",
+    "Laikas yra nuoseklus ir netobulas egzistencijos būdas, pažymėtas prieš ir po.",
+    "Dievas, būdamas amžinas, egzistuoja už laiko ribų.",
+    "Visa kūrinija egzistuoja laike ir priklauso nuo Dievo amžinosios būties.",
+    "Laiko pradžia ir pabaiga apima Dievo nesenstantį dabarties momentą.",
+    "Šventieji angelai yra palaimintos dvasios, kurios mato Dievo veidą.",
+    "Jie yra tarnaujantys dvasios, pasiųstos tarnauti tiems, kurie paveldės išganymą.",
+    "Angelai turi didelę išmintį ir galią, tačiau jie yra Dievo valios tarnai.",
+    "Piktųjų angelų nuopuolis įvyko dėl jų puikybės ir maišto prieš Dievą.",
+    "Gerieji angelai išlieka tvirti savo meilėje ir paklusnume Dievui.",
+    "Kūno prisikėlimas yra būtina Kristaus prisikėlimo pasekmė.",
+    "Mūsų mirtingieji kūnai bus paversti nemirtingais ir šlovingais kūnais.",
+    "Šis prisikėlimas įvyks laiko pabaigoje, kai Kristus grįš šlovėje.",
+    "Prisikėlęs kūnas bus tobulai pritaikytas amžinajam gyvenimui su Dievu.",
+    "Ši prisikėlimo viltis palaiko tikinčiuosius per žemiškojo gyvenimo išbandymus.",
+    "Nuodėmė yra savanoriškas nusigręžimas nuo Dievo, aukščiausiojo gėrio.",
+    "Tai maištas prieš Dievo šventąją valią ir Jo įstatymo pažeidimas.",
+    "Net, atrodo, mažos nuodėmės turi amžinas pasekmes, nes jos įžeidžia begalinį Dievą.",
+    "Visų nuodėmių šaknis yra puikybė ir savivalė.",
+    "Per Dievo malonę ir atleidimą nuodėmės dėmė gali būti nuplauta.",
+    "Gyvenkime kaip ateiviai ir piligrimai šioje žemėje, ieškodami savo tikrųjų namų danguje.",
+    "Tegul mūsų gyvenimas bus Dievo meilės ir malonės liudijimas.",
+    "Neškime savo kryžius kantriai, žinodami, kad jie veda į amžinąją šlovę.",
+    "Tegul mūsų širdys visada būna nukreiptos į neregimas amžinosios karalystės realijas.",
+    "Dievui, viso būties, išminties ir gėrio šaltiniui, tebūnie visa garbė ir šlovė per amžius. Amen."
   ],
 },
 
@@ -21278,231 +21074,103 @@ Ir kai jis mirė būdamas 39 metų, pasaulis prarado mokslininką, filosofą ir 
 },
 
 {
-    name: "Diogenes of Sinope",
-    years: "(c. 412 or 404 – 323 BC)",
-    quote: "The sun also shines on the wicked.",
-    about: "Diogenes of Sinope was a Cynic philosopher in ancient Greece who challenged societal norms and values. He famously lived in a large jar or tub, rejecting material possessions and social conventions. Diogenes advocated for a life of virtue lived in accordance with nature, rejecting hypocrisy and artificiality.",
-    img: diogenesImg,
-    id: 59,
-    country: "Greece",
-    geographicalOrder: "Greece",
-    ChronologicalOrder: "Ancient",
-    IdeologicalOrder: "Cynicism",
-    biography: `Diogenes of Sinope (c. 404–323 BCE) was a Greek philosopher and one of the most prominent figures of the Cynic movement. Renowned for his ascetic lifestyle and sharp wit, he became a legendary figure whose life and teachings have been recounted through various anecdotes in both antiquity and later cultural traditions.
-Early Life and Exile
-Born in Sinope, a Greek colony on the Black Sea, Diogenes was the son of Hicesias, a banker. According to some accounts, he was exiled from Sinope for defacing the currency, either by his own actions or those of his father. Following his exile, Diogenes moved to Athens, where he became associated with Antisthenes, a student of Socrates and a proponent of asceticism. Although Antisthenes reportedly did not accept disciples, Diogenes persisted and eventually became his follower. ​
-Philosophy and Way of Life
-Diogenes is best known for embodying the principles of Cynicism, which emphasized living in accordance with nature, rejecting conventional desires for wealth, power, and fame, and embracing a life of virtue and self-sufficiency. He believed that societal conventions were artificial and that true happiness could be achieved through simplicity and freedom from material possessions. ​
-He lived in a large ceramic jar (often referred to as a "barrel") in Athens and owned very few possessions. One famous anecdote describes how he discarded his only bowl after seeing a boy drink water from his hands, realizing he did not need even that. ​
-Notable Anecdotes
-Searching for an Honest Man: Diogenes famously walked around Athens during the day with a lantern, claiming to be looking for an honest man but never finding one. 
-Encounter with Alexander the Great: When Alexander the Great visited Diogenes and offered to grant him any wish, Diogenes replied, "Stand out of my sunlight." This response impressed Alexander, who reportedly said, "If I were not Alexander, I would wish to be Diogenes." ​
-Public Acts: Diogenes was known for performing actions in public that were considered shameless, such as eating, sleeping, and even masturbating, to demonstrate the Cynic belief that one should not be ashamed of natural behaviors. ​
-Death and Legacy
-Diogenes died in Corinth around 323 BCE. Accounts of his death vary, with some suggesting he died from holding his breath, others from an illness, and some from a dog bite. 
-His legacy endures as a symbol of Cynic philosophy and as a critic of social norms and pretensions. Diogenes' life and teachings influenced later philosophical movements, including Stoicism. His emphasis on virtue, self-control, and living in harmony with nature continues to be studied and admired. `,
-    shortStory: `"The Lantern Seeker"
-In the busy marketplace of ancient Athens, where merchants shouted and philosophers debated, a strange figure wandered, barefoot and ragged, carrying nothing but a simple cloak, a wooden bowl, and a battered lantern. His name was Diogenes of Sinope, and he was on a quest—not for gold, not for fame, but for an honest man.
-He had once been the son of a banker in Sinope, but scandal and exile had stripped him of all his wealth and status. Yet, Diogenes did not mourn. Instead, he smiled at his freedom, seeing it as a chance to live purely, without the chains of society. He chose a life of deliberate poverty, claiming that happiness came not from possessions, but from self-sufficiency.
-Living in a large ceramic jar near the Athenian gymnasium, he slept under the stars and begged for food, showing by example that true freedom was needing nothing. With sharp wit and fearless words, he challenged the great thinkers of his time. When Plato defined man as a "featherless biped," Diogenes famously plucked a chicken and marched into the academy, declaring, "Here is Plato’s man!"
-He carried his lantern even in broad daylight, peering into faces and muttering, “I am looking for an honest man,” mocking the hypocrisy he saw all around him.
-When Alexander the Great visited him, the young conqueror asked if he could do anything for him. Diogenes, lying lazily in the sun, simply replied, "Yes, stand out of my sunlight." Amazed by his spirit, Alexander is said to have murmured, "If I were not Alexander, I would wish to be Diogenes."
-Diogenes laughed at kings, scorned luxury, and lived as nature intended—wild and free. Though he owned almost nothing, his spirit was rich with independence and fierce honesty.
-When he died, no grand tomb was built for him. His life had been his message: Freedom comes not from what we have, but from what we can live without.`,
-    quotes: ["I have nothing to ask of fortune but that she should cease to persecute me.",
-"Away with him to the cross! (Said when Plato defined man as a featherless biped.)",
-"It is the privilege of the gods to want nothing, and of godlike men to want little.",
-"Why not whip the slave who ran away with your cloak, instead of bewailing your loss?",
-"(When asked what was the most beautiful thing) - Freedom of speech.",
-"Other dogs bite their enemies, I bite my friends in order to save them.",
-"I am looking for an honest man. - (Said while walking through the marketplace with a lantern in broad daylight.)",
-"The art of being a slave is to rule one's master.",
-"He has the most who is most content with the least.",
-"I threw my cup away when I saw a child drinking from his hands at the trough.",
-"Civilization is a disease.",
-"What is the benefit of fine clothing if base actions lie beneath them?",
-"The only way to гасить the огонь of desire is to наслаждаться им.",
-"Blushing is the color of virtue.",
-"Bad men live that they may eat and drink, whereas good men eat and drink that they may live.",
-"When asked what wine he liked best, he replied, 'That which belongs to another.'",
-"I would rather be Diogenes than Alexander. - (When Alexander the Great offered him anything he wished.)",
-"Practice virtue instead of idleness.",
-"To philosophize is to learn how to die.",
-"I know that I know nothing. Often associated with Socrates, Diogenes embodied this spirit of questioning.)",
-"It takes a wise man to discover a wise man.",
-"The end of life is to live according to nature.",
-"(When asked why philosophers followed the rich but not the poor) - Because they know their own wants and not those of the rich.",
-"(Seeing a youth extravagantly adorned) -  Are you not ashamed to carry your estate on your person?",
-"(To a man who had stinking breath) - Tell me, are you accustomed to fart with your mouth?",
-"(Seeing officials leading away someone who had stolen a bowl) - The great thieves are leading away the little one.",
-"(When someone pointed out the elaborate tombs) Why this expense? Will the good rest better, or the bad worse, for it?",
-"(When asked what was proper to man) To laugh.",
-"(When someone said life was зло)  - Not life itself, but living ill.",
-"(Seeing a woman hanging herself on a tree) I wish all trees bore such fruit.",
-"(When Plato called him a mad Socrates) And I call him a mad Plato.",
-"The most valuable possession is a good friend.",
-"I live as a fish without a house.",
-"I am a citizen of the world.",
-"Fear not death, but rather the unlived life.",
-],
-
-  quote_lt: "Mūsų širdys nerimsta, kol neatranda atilsio Tavyje.",
- 
-  biography_lt: `## Apžvalga
-Hipono Augustinas, dar žinomas kaip Šventasis Augustinas, buvo Šiaurės Afrikos krikščionių vyskupas, filosofas ir teologas, kurio raštai apibrėžė ankstyvąją krikščioniškąją doktriną ir padėjo Vakarų krikščionybės intelektualinius pamatus. Du jo garsiausi darbai – „Išpažinimai“ ir „Dievo miestas“ – nagrinėja nuodėmę ir malonę, laisvą valią, tikėjimą ir žmogiškąjį Dievo ilgesį. Jis laikomas vienu iš keturių didžiųjų Vakarų Bažnyčios daktarų, kartu su Ambrozijumi, Jeronimu ir Grigaliumi Didžiuoju.
-
----
-
-## Ankstyvasis gyvenimas ir aplinka
-**Gimė:** 354 m. lapkričio 13 d. Tagastėje (dabartinė Suk Ahrasas, Alžyras).
-**Tėvai:** Patricijus, romėnų pareigūnas ir pagonis. Monika, dievobaiminga krikščionė (vėliau kanonizuota kaip Šv. Monika).
-Augustinas augo dvikalbėje aplinkoje ir gavo elitinį išsilavinimą gramatikos, retorikos ir lotynų literatūros srityse. Jo ankstyvuosius metus lydėjo nerimas, intelektualinis smalsumas ir pasaulietiški troškimai.
-
----
-
-## Jaunatvės maištas ir tiesos ieškojimas
-Paauglystės pabaigoje Augustinas persikėlė į Kartaginą studijuoti retorikos. Ten jis siekė malonumų ir užmezgė lytinius santykius, galiausiai susilaukė sūnaus Adeodato su sugulove. Nors buvo auklėtas krikščioniškai, Augustinas nusisuko nuo Bažnyčios ir tyrinėjo įvairias filosofijas:
-* **Manicheizmą** (dualistinę šviesos ir tamsos religiją).
-* **Skepticizmą** (įtakotą Akademijos).
-* Galiausiai **neoplatonizmą** (ypač Plotino raštus).
-Nepaisant intelektualinio genialumo, Augustinas nerado ramybės. Vėliau jis rašė: „Mūsų širdys nerimsta, kol neatranda atilsio Tavyje, Viešpatie.“
-
----
-
-## Atsivertimas į krikščionybę
-Augustinas persikėlė į Milaną 384 m. po Kr. dėstyti retorikos. Ten jis susipažino su vyskupu Ambrozijumi, kurio išmintis ir alegorinis Šventojo Rašto aiškinimas jį giliai sužavėjo. 386 m., po vidinės sumaišties, jis išgirdo vaiko balsą sakantį: „Imk ir skaityk.“ Jis atidarė Bibliją ir perskaitė iš Romiečiams 13:13–14 – raginimą atsisakyti geismo ir nuodėmės.
-Šis momentas pažymėjo jo atsivertimą. Jis buvo pakrikštytas Ambrozijaus 387 m., kartu su savo sūnumi Adeodatu. Netrukus po to mirė ir jo motina, ir sūnus. Sielvartaujantis ir pasikeitęs, Augustinas grįžo į Šiaurės Afriką, kad pradėtų naują studijų, maldos ir tarnystės gyvenimą.
-
----
-
-## Gyvenimas vienuoliu, kunigu ir vyskupu
-391 m. jis buvo įšventintas kunigu Hipo Regijuje (dabartinė Anaba, Alžyras).
-395 m. jis tapo Hipono vyskupu – pareigas, kurias ėjo visą likusį gyvenimą. Jis įkūrė vienuolyną, reguliariai pamokslavo ir daug rašė.
-Būdamas vyskupas, Augustinas užsiėmė pastoracine veikla, filosofinėmis diskusijomis ir teologiniais ginčais – ypač prieš:
-* **Manichejus** (jo buvusią sektą).
-* **Donatistus** (kurie atmetė dvasininkus, nupuolusius per persekiojimus).
-* **Pelagiečius** (kurie neigė gimtąją nuodėmę ir malonės poreikį).
-
----
-
-## Svarbiausi darbai
-1.  **„Išpažinimai“ (apie 397–400):**
-    * Dvasinė autobiografija, nepanaši į nieką, kas buvo parašyta anksčiau.
-    * Sujungia atsiminimus, maldą ir filosofinius apmąstymus.
-    * Tyrinėja jo nuodėmingą jaunystę, motinos maldas ir dramatišką atsivertimą.
-    * Garsioji citata: „Vėlai tave pamilau, o Amžina ir vis nauja Grože! Vėlai tave pamilau!“
-2.  **„Dievo miestas“ (apie 413–426):**
-    * Parašyta po Romos nusiaubimo 410 m.
-    * Kontrastuoja „Žmogaus miestą“ (paremtą puikybe ir žemiška šlove) su „Dievo miestu“ (paremtu meile ir amžina tiesa).
-    * Siūlo krikščionišką istorijos, visuomenės ir išganymo filosofiją.
-
-**Kiti svarbūs darbai:**
-* „Apie krikščioniškąjį mokymą“ – gairės Šventojo Rašto aiškinimui.
-* „Apie Trejybę“ – gilūs teologiniai Dievo prigimties tyrinėjimai.
-* „Apie laisvą valios pasirinkimą“ – suderina dieviškąją visąžinystę su žmogaus laisve.
-* „Atsižadėjimai“ – paties Augustino ankstesnių darbų peržiūra ir pataisos.
-
----
-
-## Filosofija ir teologija
-Augustino idėjos suformavo tiek katalikų, tiek protestantų mintį. Pagrindinės temos apima:
-* **Gimtoji nuodėmė:** Visi žmonės paveldi nuodėmę iš Adomo ir Ievos.
-* **Malonė:** Tik Dievo malonė gali mus išlaisvinti iš nuodėmės ir įgalinti išganymą.
-* **Laisva valia:** Mes laisvai renkamės nuodėmę, bet mums reikia dieviškos pagalbos, kad pasirinktume gėrį.
-* **Predestinacija:** Dievas iš anksto žino ir malone pasirenka išrinktuosius.
-* **Tikėjimas ieškantis supratimo:** Tikėjimas ateina pirmas, tada protas jį gilina.
-* **Vidinis gyvenimas:** Tikroji tiesa randama ne pasaulyje, o sieloje.
-
----
-
-## Mirtis ir palikimas
-**Mirė:** 430 m. rugpjūčio 28 d. Hipo mieste, miesto apgulties metu, kurią vykdė vandalai.
-Mirties metu jis buvo gerbiamas kaip šventasis, vyskupas ir dvasios tėvas.
-Kanonizuotas populiariu pritarimu; jo šventės diena yra rugpjūčio 28 d.
-Paskelbtas Bažnyčios daktaru už jo teologinį genialumą.
-
-**Įtaka:**
-Augustinas tapo įtakingiausiu krikščionių mąstytoju po Pauliaus. Jo idėjos suformavo:
-* Viduramžių teologiją ir scholastiką (ypač Tomą Akvinietį).
-* Protestantų reformaciją (ypač Martyną Liuterį ir Joną Kalviną).
-* Šiuolaikinę filosofiją ir psichologiją (ypač introspekciją, valią ir tapatybę).
-Jis laikomas tiltu tarp klasikinės filosofijos ir krikščionių teologijos, ir vidinio gyvenimo meistru.
-
-**Garsios citatos:**
-* „Tu mus sukūrei sau, o Viešpatie, ir mūsų širdys nerimsta, kol neatranda atilsio Tavyje.“
-* „Tikėjimas yra tikėti tuo, ko nematai; šio tikėjimo atlygis yra pamatyti tai, kuo tiki.“
-* „Mylėk ir daryk, ką nori.“
-* „Dievas yra intymesnis man, nei aš pats sau.“
-`,
-
-  shortStory_lt: `## Šventojo Augustino istorija
-**Širdis, kuri nerimo**
-Romos miesto Šiaurės Afrikoje, berniukas vardu Augustinas užaugo su krikščione motina ir pagonimi tėvu. Jo motina, Monika, kasnakt meldėsi už jo sielą. Bet Augustinas? Jis norėjo malonumų, šlovės, genialumo – tik ne Dievo. Jis išvyko į Kartaginą, sužavėtas knygų, moterų, retorikos. Kartą jis meldėsi: „Viešpatie, padaryk mane tyru… bet dar ne dabar.“ Jaunas tapo tėvu. Siekė sėkmės. Sekė keistais mokymais. Ieškojo tiesos žvaigždėse, kūne, prote – bet niekur nerado ramybės.
-
-Tada Milane jis susitiko Ambrozijų, vyskupą, kuris kalbėjo ne kaip kunigas, o kaip filosofas. Ir pirmą kartą Augustinas įsiklausė. Vis dėlto, viduje jis kovojo. Jis negalėjo pakeisti savęs. Vieną dieną, sode, apimtas jausmų, jis palūžo ir pravirko. Tada išgirdo vaiko balsą sakantį: „Imk ir skaityk.“ Jis atidarė Bibliją ir perskaitė eilutę, kuri persmelkė jį. Tą akimirką jo grandinės nukrito. Jis paliko savo seną gyvenimą. Jis buvo pakrikštytas.
-
-Jo genialus sūnus mirė netrukus po to. Jo motina, Monika, taip pat mirė – bet šypsodamasi, sakydama: „Mano maldos išklausytos.“
-
-Augustinas grįžo į Afriką ir tapo vyskupu, tada Bažnyčios balsu, pamokslaudamas, rašydamas, vadovaudamas, net kai barbarai artinosi prie jo miesto. Prieš mirtį jis parašė: „Mūsų širdys nerimsta, kol neatranda atilsio Tavyje.“ Ir toks buvo jo gyvenimas. Žmogus, kuris vijosi viską, kol surado Tą, kuris jį vijosi visą laiką.`,
-
-  quotes_lt: [
-    "Pasaulis yra knyga, o tie, kurie nekeliauja, perskaito tik vieną puslapį.",
-    "Tu mus sukūrei sau, o Viešpatie, ir mūsų širdis nerimsta, kol neatranda atilsio Tavyje.",
-    "Įsimylėti Dievą yra didžiausia romantika; Jo ieškoti – didžiausias nuotykis; Jį rasti – didžiausias žmogaus pasiekimas.",
-    "Teisingumas yra teisingas, net jei niekas jo nedaro; blogis yra blogas, net jei visi jį daro.",
-    "Viltis turi dvi gražias dukras; jų vardai yra Pyktis ir Drąsa. Pyktis dėl to, kaip yra, ir Drąsa, kad taip neliktų.",
-    "Nėra šventojo be praeities, nėra nusidėjėlio be ateities.",
-    "Jei tiki tuo, kas patinka evangelijose, ir atmeti tai, kas nepatinka, tai tiki ne evangelija, o savimi.",
-    "Meilės matas – mylėti be mato.",
-    "Tiesa yra kaip liūtas; tau nereikia jos ginti. Paleisk ją; ji apgins save.",
-    "Norėdami atrasti žmonių charakterį, turime tik stebėti, ką jie myli.",
-    "Dievas pažadėjo atleisti už tavo atgailą, bet Jis nepažadėjo ryto tavo atidėliojimui.",
-    "Protas įsako kūnui ir iš karto yra paklūstamas. Protas įsako sau ir susiduria su pasipriešinimu.",
-    "Meilė prasideda šypsena, auga bučiniu ir baigiasi ašara.",
-    "Kantrybė yra išminties palydovė.",
-    "Dievas visada stengiasi duoti mums gerų dalykų, bet mūsų rankos per pilnos, kad juos priimtume.",
-    "Pasaulis yra knyga, o tie, kurie niekada neišvyksta iš namų, perskaito tik vieną puslapį.",
-    "Tu mus sukūrei sau, o Viešpatie, ir mūsų širdis nerimsta, kol neatranda atilsio Tavyje.",
-    "Įsimylėti Dievą yra didžiausia romantika; Jo ieškoti – didžiausias nuotykis; Jį rasti – didžiausias žmogaus pasiekimas.",
-    "Teisingumas yra teisingas, net jei niekas jo nedaro; blogis yra blogas, net jei visi jį daro.",
-    "Viltis turi dvi gražias dukras; jų vardai yra Pyktis ir Drąsa. Pyktis dėl to, kaip yra, ir Drąsa, kad taip neliktų.",
-    "Nėra šventojo be praeities, nėra nusidėjėlio be ateities.",
-    "Jei tiki tuo, kas patinka evangelijose, ir atmeti tai, kas nepatinka, tai tiki ne evangelija, o savimi.",
-    "Meilės matas – mylėti be mato.",
-    "Tiesa yra kaip liūtas; tau nereikia jos ginti. Paleisk ją; ji apgins save.",
-    "Norėdami atrasti žmonių charakterį, turime tik stebėti, ką jie myli.",
-    "Dievas pažadėjo atleisti už tavo atgailą, bet Jis nepažadėjo ryto tavo atidėliojimui.",
-    "Protas įsako kūnui ir iš karto yra paklūstamas. Protas įsako sau ir susiduria su pasipriešinimu.",
-    "Meilė prasideda šypsena, auga bučiniu ir baigiasi ašara.",
-    "Kantrybė yra išminties palydovė.",
-    "Dievas visada stengiasi duoti mums gerų dalykų, bet mūsų rankos per pilnos, kad juos priimtume.",
-    "Dievas suteikia vėją, bet žmogus turi pakelti bures.",
-    "Puikybė angelus pavertė velniais; nuolankumas žmones daro angelais.",
-    "Meilės matas – mylėti be mato.",
-    "Kas dainuoja, tas meldžiasi du kartus.",
-    "Nori pakilti? Pradėk nusileidimu. Planuoji bokštą, kuris perskros debesis? Pirmiausia padėk nuolankumo pagrindus.",
-    "Nesiek suprasti, kad patikėtum, bet tikėk, kad suprastum.",
-    "Blogų darbų išpažinimas yra pirmoji gerų darbų pradžia.",
-    "Stebuklai neprieštarauja gamtai, o tik tam, ką žinome apie gamtą.",
-    "Kas pilnas meilės, tas pilnas paties Dievo.",
-    "Vėlai tave pamilau, o Amžina ir vis nauja Grože! Vėlai tave pamilau!",
-    "Kaip atrodo meilė? Ji turi rankas padėti kitiems. Ji turi kojas skubėti pas vargšus ir stokojančius. Ji turi akis pamatyti kančią ir nepriteklių. Ji turi ausis išgirsti vyrų atodūsius ir sielvartą. Štai kaip atrodo meilė.",
-    "Mylėk nusidėjėlį ir nekęsk nuodėmės.",
-    "Kaip siela yra kūno gyvenimas, taip Dievas yra sielos gyvenimas. Todėl, kaip kūnas žūsta, kai siela jį palieka, taip ir siela miršta, kai Dievas nuo jos pasitraukia.",
-    "Pasaulis yra didelė knyga, kurios tie, kurie niekada neišeina iš namų, perskaito tik puslapį.",
-    "Pyktis yra piktžolė; neapykanta yra medis.",
-    "Sakramento dvasinė dorybė yra kaip šviesa – nors ji praeina tarp nešvarių, ji nėra užteršta.",
-    "Tas, kuris pavydi, nėra įsimylėjęs.",
-    "Tai yra paties žmogaus tobulumas – atrasti savo paties netobulumus.",
-    "Grožis auga tavyje tiek, kiek auga meilė, nes pati labdara yra sielos grožis.",
-    "Dievas myli kiekvieną iš mūsų taip, tarsi būtų tik vienas iš mūsų.",
+  name: "Sinopi Diogenus",
+  years: "(BC 404 – 323)",
+  quote: "The sun also shines on the wicked.",
+  
+  img: diogenesImg,
+  id: 59,
+  country: "Greece",
+  geographicalOrder: "Greece",
+  ChronologicalOrder: "Ancient",
+  IdeologicalOrder: "Cynicism",
+  biography: "Diogenes of Sinope (c. 404–323 BCE) was a Greek philosopher and one of the most prominent figures of the Cynic movement. Renowned for his ascetic lifestyle and sharp wit, he became a legendary figure whose life and teachings have been recounted through various anecdotes in both antiquity and later cultural traditions.\n\nEarly Life and Exile\nBorn in Sinope, a Greek colony on the Black Sea, Diogenes was the son of Hicesias, a banker. According to some accounts, he was exiled from Sinope for defacing the currency, either by his own actions or those of his father. Following his exile, Diogenes moved to Athens, where he became associated with Antisthenes, a student of Socrates and a proponent of asceticism. Although Antisthenes reportedly did not accept disciples, Diogenes persisted and eventually became his follower.\n\nPhilosophy and Way of Life\nDiogenes is best known for embodying the principles of Cynicism, which emphasized living in accordance with nature, rejecting conventional desires for wealth, power, and fame, and embracing a life of virtue and self-sufficiency. He believed that societal conventions were artificial and that true happiness could be achieved through simplicity and freedom from material possessions.\n\nHe lived in a large ceramic jar (often referred to as a \"barrel\") in Athens and owned very few possessions. One famous anecdote describes how he discarded his only bowl after seeing a boy drink water from his hands, realizing he did not need even that.\n\nNotable Anecdotes\nSearching for an Honest Man: Diogenes famously walked around Athens during the day with a lantern, claiming to be looking for an honest man but never finding one.\nEncounter with Alexander the Great: When Alexander the Great visited Diogenes and offered to grant him any wish, Diogenes replied, \"Stand out of my sunlight.\" This response impressed Alexander, who reportedly said, \"If I were not Alexander, I would wish to be Diogenes.\"\nPublic Acts: Diogenes was known for performing actions in public that were considered shameless, such as eating, sleeping, and even masturbating, to demonstrate the Cynic belief that one should not be ashamed of natural behaviors.\n\nDeath and Legacy\nDiogenes died in Corinth around 323 BCE. Accounts of his death vary, with some suggesting he died from holding his breath, others from an illness, and some from a dog bite.\nHis legacy endures as a symbol of Cynic philosophy and as a critic of social norms and pretensions. Diogenes's life and teachings influenced later philosophical movements, including Stoicism. His emphasis on virtue, self-control, and living in harmony with nature continues to be studied and admired.",
+  shortStory: "\"The Lantern Seeker\"\nIn the busy marketplace of ancient Athens, where merchants shouted and philosophers debated, a strange figure wandered, barefoot and ragged, carrying nothing but a simple cloak, a wooden bowl, and a battered lantern. His name was Diogenes of Sinope, and he was on a quest—not for gold, not for fame, but for an honest man.\n\nHe had once been the son of a banker in Sinope, but scandal and exile had stripped him of all his wealth and status. Yet, Diogenes did not mourn. Instead, he smiled at his freedom, seeing it as a chance to live purely, without the chains of society. He chose a life of deliberate poverty, claiming that happiness came not from possessions, but from self-sufficiency.\n\nLiving in a large ceramic jar near the Athenian gymnasium, he slept under the stars and begged for food, showing by example that true freedom was needing nothing. With sharp wit and fearless words, he challenged the great thinkers of his time. When Plato defined man as a \"featherless biped,\" Diogenes famously plucked a chicken and marched into the academy, declaring, \"Here is Plato’s man!\"\n\nHe carried his lantern even in broad daylight, peering into faces and muttering, “I am looking for an honest man,” mocking the hypocrisy he saw all around him.\n\nWhen Alexander the Great visited him, the young conqueror asked if he could do anything for him. Diogenes, lying lazily in the sun, simply replied, \"Yes, stand out of my sunlight.\" Amazed by his spirit, Alexander is said to have murmured, \"If I were not Alexander, I would wish to be Diogenes.\"\n\nDiogenes laughed at kings, scorned luxury, and lived as nature intended—wild and free. Though he owned almost nothing, his spirit was rich with independence and fierce honesty.\n\nWhen he died, no grand tomb was built for him. His life had been his message: Freedom comes not from what we have, but from what we can live without.",
+  quotes: [
+    "I have nothing to ask of fortune but that she should cease to persecute me.",
+    "Away with him to the cross! (Said when Plato defined man as a featherless biped.)",
+    "It is the privilege of the gods to want nothing, and of godlike men to want little.",
+    "Why not whip the slave who ran away with your cloak, instead of bewailing your loss?",
+    "(When asked what was the most beautiful thing) - Freedom of speech.",
+    "Other dogs bite their enemies, I bite my friends in order to save them.",
+    "I am looking for an honest man. - (Said while walking through the marketplace with a lantern in broad daylight.)",
+    "The art of being a slave is to rule one's master.",
+    "He has the most who is most content with the least.",
+    "I threw my cup away when I saw a child drinking from his hands at the trough.",
+    "Civilization is a disease.",
+    "What is the benefit of fine clothing if base actions lie beneath them?",
+    "Blushing is the color of virtue.",
+    "Bad men live that they may eat and drink, whereas good men eat and drink that they may live.",
+    "When asked what wine he liked best, he replied, 'That which belongs to another.'",
+    "I would rather be Diogenes than Alexander. - (When Alexander the Great offered him anything he wished.)",
+    "Practice virtue instead of idleness.",
+    "To philosophize is to learn how to die.",
+    "I know that I know nothing. (Often associated with Socrates, Diogenes embodied this spirit of questioning.)",
+    "It takes a wise man to discover a wise man.",
+    "The end of life is to live according to nature.",
+    "(When asked why philosophers followed the rich but not the poor) - Because they know their own wants and not those of the rich.",
+    "(Seeing a youth extravagantly adorned) - Are you not ashamed to carry your estate on your person?",
+    "(To a man who had stinking breath) - Tell me, are you accustomed to fart with your mouth?",
+    "(Seeing officials leading away someone who had stolen a bowl) - The great thieves are leading away the little one.",
+    "(When someone pointed out the elaborate tombs) Why this expense? Will the good rest better, or the bad worse, for it?",
+    "(When asked what was proper to man) To laugh.",
+    "(When someone said life was evil) - Not life itself, but living ill.",
+    "(Seeing a woman hanging herself on a tree) I wish all trees bore such fruit.",
+    "(When Plato called him a mad Socrates) And I call him a mad Plato.",
+    "The most valuable possession is a good friend.",
+    "I live as a fish without a house.",
+    "I am a citizen of the world.",
+    "Fear not death, but rather the unlived life."
   ],
-
+  quote_lt: "Saulė šviečia ir nedorėliams.",
+  about_lt: "Sinopės Diogenas buvo kinikas filosofas Senovės Graikijoje, kuris metė iššūkį visuomenės normoms ir vertybėms. Jis garsėjo tuo, kad gyveno dideliame inde ar kubile, atmesdamas materialias gėrybes ir socialines konvencijas. Diogenas pasisakė už dorybingą gyvenimą, atitinkantį gamtą, atmesdamas veidmainystę ir dirbtinumą.",
+  biography_lt: "Sinopės Diogenas (apie 404–323 m. pr. Kr.) buvo graikų filosofas ir viena ryškiausių kinikų judėjimo figūrų. Garsus savo asketišku gyvenimo būdu ir aštriu sąmoju, jis tapo legendine figūra, kurios gyvenimas ir mokymai buvo pasakojami per įvairius anekdotus tiek antikoje, tiek vėlesnėse kultūrinėse tradicijose.\n\nAnkstyvasis gyvenimas ir tremtis\nGimęs Sinopėje, graikų kolonijoje prie Juodosios jūros, Diogenas buvo bankininko Hicesiaso sūnus. Kai kuriais duomenimis, jis buvo ištremtas iš Sinopės už valiutos išniekinimą – tai padarė arba jis pats, arba jo tėvas. Po tremties Diogenas persikėlė į Atėnus, kur susipažino su Antistenu, Sokrato mokiniu ir asketizmo šalininku. Nors Antistenas, kaip pranešama, nepriėmė mokinių, Diogenas atkakliai siekė ir galiausiai tapo jo pasekėju.\n\nFilosofija ir gyvenimo būdas\nDiogenas geriausiai žinomas dėl kinizmo principų įkūnijimo, kurie pabrėžė gyvenimą pagal gamtą, atmetant įprastus turto, galios ir šlovės troškimus bei apimančią dorybės ir savarankiškumo gyvenimo būdą. Jis tikėjo, kad visuomenės konvencijos yra dirbtinės ir kad tikra laimė gali būti pasiekta per paprastumą ir laisvę nuo materialinių gėrybių.\n\nJis gyveno dideliame keramikiniame inde (dažnai vadinamame „statinėje“) Atėnuose ir turėjo labai mažai turto. Vienas garsus anekdotas aprašo, kaip jis išmetė savo vienintelį dubenį, pamatęs berniuką, geriantį vandenį iš rankų, suprasdamas, kad jam nereikia net to.\n\nŽymūs anekdotai\nIeškant sąžiningo žmogaus: Diogenas garsiai vaikščiojo po Atėnus dieną su žibintu, teigdamas, kad ieško sąžiningo žmogaus, bet niekada jo nerado.\nSusitikimas su Aleksandru Didžiuoju: Kai Aleksandras Didysis aplankė Diogeną ir pasiūlė jam išpildyti bet kokį norą, Diogenas atsakė: „Atsistok man nuo saulės“. Šis atsakymas sužavėjo Aleksandrą, kuris, kaip pranešama, pasakė: „Jei nebūčiau Aleksandras, norėčiau būti Diogenas.“\nViešieji veiksmai: Diogenas buvo žinomas dėl viešų veiksmų, kurie buvo laikomi begėdiškais, tokių kaip valgymas, miegas ir net masturbacija, siekiant pademonstruoti kinikų įsitikinimą, kad nereikia gėdytis natūralaus elgesio.\n\nMirtis ir palikimas\nDiogenas mirė Korinte apie 323 m. pr. Kr. Jo mirties aplinkybės skiriasi: kai kurie teigia, kad jis mirė uždusus, kiti – nuo ligos, o kai kurie – nuo šuns įkandimo.\nJo palikimas išlieka kaip kinikų filosofijos ir socialinių normų bei pretenzijų kritikos simbolis. Diogeno gyvenimas ir mokymai paveikė vėlesnius filosofinius judėjimus, įskaitant stoicizmą. Jo pabrėžimas dorybei, savikontrolei ir gyvenimui harmonijoje su gamta tebėra studijuojamas ir žavimasi.",
+  shortStory_lt: "„Žibinto ieškotojas“ Senovės Atėnų šurmuliuojančioje turgavietėje, kur šaukė pirkliai ir ginčijosi filosofai, klajojo keista figūra – basas ir skarmaluotas, nešinas tik paprastu apsiaustu, mediniu dubenėliu ir aptriušusiu žibintu. Jo vardas buvo Sinopės Diogenas, ir jis leidosi į ieškojimą – ne aukso, ne šlovės, o sąžiningo žmogaus.\n\n Kadaise jis buvo bankininko sūnus Sinopėje, tačiau skandalas ir tremtis atėmė iš jo visą turtą ir statusą. Vis dėlto Diogenas nesielvartavo. Vietoj to, jis šypsojosi savo laisvei, matydamas joje galimybę gyventi grynai, be visuomenės grandinių. Jis pasirinko sąmoningo skurdo gyvenimą, teigdamas, kad laimė kyla ne iš turto, o iš savarankiškumo.\n\nGyvendamas dideliame keramikiniame inde prie Atėnų gimnazijos, jis miegojo po žvaigždėmis ir prašė maisto, pavyzdžiu parodydamas, kad tikra laisvė yra nieko nereikėjimas. Aštriu sąmoju ir bebaimiais žodžiais jis metė iššūkį didiesiems savo laikų mąstytojams. Kai Platonas apibrėžė žmogų kaip „beplunksnį dvikojį“, Diogenas garsiai nuplėšė vištai plunksnas ir įžengė į akademiją, pareikšdamas: „Štai Platono žmogus!“\n\nJis nešiojo savo žibintą net dieną, žvelgdamas į veidus ir murmėdamas: „Aš ieškau sąžiningo žmogaus“, šaipydamasis iš veidmainystės, kurią matė aplink save.\n\nKai Aleksandras Didysis jį aplankė, jaunasis užkariautojas paklausė, ar gali ką nors jam padaryti. Diogenas, tingiai gulėdamas saulėje, tiesiog atsakė: „Taip, pasitrauk iš mano saulės.“ Nustebintas jo dvasios, Aleksandras, kaip teigiama, sumurmėjo: „Jei nebūčiau Aleksandras, norėčiau būti Diogenas.“\n\nDiogenas juokėsi iš karalių, niekino prabangą ir gyveno taip, kaip gamta nurodė – laisvai ir laisvai. Nors jis beveik nieko neturėjo, jo dvasia buvo turtinga nepriklausomybės ir aršaus sąžiningumo.\n\nKai jis mirė, jam nebuvo pastatytas joks didingas kapas. Jo gyvenimas buvo jo žinia: laisvė kyla ne iš to, ką turime, o iš to, be ko galime gyventi.",
+  quotes_lt: [
+    "Neturiu ko prašyti iš likimo, tik kad jis nustotų mane persekioti.",
+    "Šalin jį prie kryžiaus! (Sakė, kai Platonas apibrėžė žmogų kaip beplunksnį dvikojį.)",
+    "Dievų privilegija yra nieko nenorėti, o dieviškų žmonių – norėti mažai.",
+    "Kodėl gi nenubaudus vergo, kuris pabėgo su tavo apsiaustu, užuot sielvartavus dėl praradimo?",
+    "(Paklaustas, kas yra gražiausia) – Žodžio laisvė.",
+    "Kiti šunys kandžioja savo priešus, aš kandžioju savo draugus, kad juos išgelbėčiau.",
+    "Aš ieškau sąžiningo žmogaus. – (Sakė vaikščiodamas turgavietėje su žibintu vidury dienos.)",
+    "Vergo menas yra valdyti savo šeimininką.",
+    "Daugiausia turi tas, kas labiausiai patenkintas mažiausiu.",
+    "Išmečiau savo puodelį, kai pamačiau vaiką, geriantį iš rankų prie lovio.",
+    "Civilizacija yra liga.",
+    "Kokia nauda iš puikių drabužių, jei po jais slypi nedori veiksmai?",
+    "Vienintelis būdas užgesinti geismo ugnį yra juo mėgautis.",
+    "Paraudimas yra dorybės spalva.",
+    "Blogi žmonės gyvena tam, kad valgytų ir gertų, o geri žmonės valgo ir geria tam, kad gyventų.",
+    "Paklaustas, kokį vyną mėgsta labiausiai, atsakė: „Tą, kuris priklauso kitam.“",
+    "Aš mieliau būčiau Diogenas nei Aleksandras. – (Kai Aleksandras Didysis jam pasiūlė viską, ko tik panorėjo.)",
+    "Praktikuokite dorybę, o ne dykinėjimą.",
+    "Filosofuoti – tai išmokti mirti.",
+    "Žinau, kad nieko nežinau. (Dažnai siejamas su Sokratu, Diogenas įkūnijo šią klausinėjimo dvasią.)",
+    "Reikia išmintingo žmogaus, kad atrastų išmintingą žmogų.",
+    "Gyvenimo tikslas – gyventi pagal gamtą.",
+    "(Paklaustas, kodėl filosofai sekė turtinguosius, o ne vargšus) – Nes jie žino savo poreikius, o ne turtingųjų.",
+    "(Pamatęs ekstravagantiškai pasipuošusį jaunuolį) – Ar tau ne gėda nešioti savo turtą ant savęs?",
+    "(Žmogui, kuriam dvokė iš burnos) – Sakyk, ar esi įpratęs šikti su burna?",
+    "(Pamatęs pareigūnus, vedančius tolyn kažką, kas pavogė dubenį) – Didieji vagys veda tolyn mažąjį.",
+    "(Kai kas nors atkreipė dėmesį į sudėtingus kapus) Kam tokios išlaidos? Ar geri geriau ilsėsis, ar blogi blogiau?",
+    "(Paklaustas, kas tinka žmogui) Juoktis.",
+    "(Kai kas nors pasakė, kad gyvenimas yra blogis) – Ne pats gyvenimas, o blogas gyvenimas.",
+    "(Pamatęs moterį, besikabančią ant medžio) Norėčiau, kad visi medžiai duotų tokių vaisių.",
+    "(Kai Platonas pavadino jį bepročiu Sokratu) Ir aš jį vadinu bepročiu Platonu.",
+    "Vertingiausias turtas yra geras draugas.",
+    "Gyvenu kaip žuvis be namų.",
+    "Esu pasaulio pilietis.",
+    "Nebijok mirties, o labiau negyvento gyvenimo."
+  ],
 },
+
+ 
+   
 
   {
       name: "Zeno of Citium",
-      years: "(c. 334 – c. 262 BC)",
+      years: "(BC 334 – 262 )",
       quote: "Well-being is attained by little and little, and nevertheless is no little thing itself.",
       about: "Zeno of Citium was the founder of the Stoic school of philosophy in Athens. Stoicism emphasized virtue, reason, and living in accordance with nature. Zeno taught that true happiness comes from inner peace and self-control, not from external circumstances.",
       img: zenoImg,
@@ -21898,9 +21566,6 @@ And now, when a woman speaks freely, when a student dares to ask why, when a phi
 "The struggle for liberation is a continuous one, requiring constant vigilance and action.",
 "The ultimate goal is a society where all individuals are free to realize their full human potential, regardless of sex or any other arbitrary category.",
 ],
-  },
-
-  {
     
     quote_lt: "Moterimi ne gimstama, o tampama.",
     biography_lt: `## Apžvalga
@@ -22033,7 +21698,7 @@ Ir dabar, kai moteris kalba laisvai, kai studentas drįsta paklausti, kodėl, ka
         "Turime siekti ateities, kurioje „vyro“ ir „moters“ kategorijos nebediktuos žmogaus galimybių.",
         "Išsivadavimo kova yra nuolatinė, reikalaujanti nuolatinio budrumo ir veiksmų.",
         "Galutinis tikslas yra visuomenė, kurioje visi asmenys gali laisvai realizuoti visą savo žmogiškąjį potencialą, nepriklausomai nuo lyties ar kitos savavališkos kategorijos."
-    ]
+    ],
 },
   {
     name: "Jean-Paul Sartre",
