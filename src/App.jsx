@@ -17,6 +17,7 @@ import BackToTopButton from "./pages/BackToTopButton.jsx";
 // Pridėta: importuojame PrivacyPolicy ir CookieConsent
 import PrivacyPolicy from "./pages/PrivacyPolicy.jsx"; //
 import CookieConsent from "./components/CookieConsent.jsx"; //
+import { Analytics } from '@vercel/analytics/react';
 
 // Duomenų ir Enum importai
 import { philosophers } from "./data.js";
@@ -331,6 +332,7 @@ export default function App() {
           <Route path="/privacy-policy" element={<PrivacyPolicy />} /> {/* */}
 
           <Route path="/philosopher/:id" element={<PhilosopherPage />} />
+       
         </Routes>
       </main>
 
@@ -341,6 +343,7 @@ export default function App() {
           onClose={() => setModalContent({ philosopher: null, contentType: null })}
         />
       )}
+      <Analytics />
       <Footer />
       <BackToTopButton />
       {/* Pridėtas CookieConsent komponentas, jei slapukai dar nėra nei priimti, nei atmesti */}
