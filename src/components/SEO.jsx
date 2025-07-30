@@ -1,6 +1,6 @@
 // src/components/SEO.jsx
 import React from 'react';
-import { Helmet } from 'react-helmet-async'; // Svarbu: ar teisingai importuota?
+import { Helmet } from 'react-helmet-async'; // Helmet manages document head tags
 
 export default function SEO({ title, description, name = 'DuSofi', type = 'website' }) {
   return (
