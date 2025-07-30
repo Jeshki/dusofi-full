@@ -58,8 +58,11 @@
     "geographical_region": "Geografinis regionas",
     "all_regions": "Visi regionai",
     "sort_by": "Rūšiuoti pagal",
+    "name_a_z": "Vardas (A–Ž)",
     "oldest_first": "Seniausi pirmi (gimimo metai)",
     "youngest_first": "Jauniausi pirmi (gimimo metai)",
+    "newest_by_death": "Naujausi pagal mirties metus",
+    "chronological_order": "Chronologinė tvarka",
     "all_periods": "Visi periodai",
     "reset_all": "Atstatyti viską"
   },
