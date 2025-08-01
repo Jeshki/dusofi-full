@@ -56,7 +56,10 @@ export default function IdeologiesPage() {
                   <img
                     src={ideology.image}
                     alt={getLocalizedContent(ideology, 'name')}
+                    title={getLocalizedContent(ideology, 'name')}
                     className="w-full h-56 object-contain rounded-md mb-2 border border-gray-300 dark:border-gray-600"
+                    loading="lazy"
+                    decoding="async"
                   />
                 )}
                 <span className="flex-grow pt-1">{getLocalizedContent(ideology, 'name')}</span>

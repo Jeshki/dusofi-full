@@ -16,20 +16,46 @@ export default function Footer() {
 
         {/* Socialinių tinklų ikonos - mb-2 mobiliesiems, sm:mb-0 stacionariems */}
         <div className="flex justify-center gap-6 text-2xl text-gray-500 dark:text-gray-400 mb-2 sm:mb-0 sm:order-2">
-          <a href="https://github.com/jeshki" target="_blank" rel="noopener noreferrer" className="hover:text-rose-900 dark:hover:text-rose-700 transition-colors" aria-label="GitHub">
+          <a
+            href="https://github.com/jeshki"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-rose-900 dark:hover:text-rose-700 transition-colors"
+            aria-label="GitHub"
+            title="Jeshki on GitHub"
+          >
             <FaGithub />
           </a>
-          <a href="https://linkedin.com/in/karolis-cibiras" target="_blank" rel="noopener noreferrer" className="hover:text-rose-900 dark:hover:text-rose-700 transition-colors" aria-label="LinkedIn">
+          <a
+            href="https://linkedin.com/in/karolis-cibiras"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-rose-900 dark:hover:text-rose-700 transition-colors"
+            aria-label="LinkedIn"
+            title="Karolis Cibiras on LinkedIn"
+          >
             <FaLinkedin />
           </a>
-          <a href="mailto:karoliscibiras@gmail.com" target="_blank" rel="noopener noreferrer" className="hover:text-rose-900 dark:hover:text-rose-700 transition-colors" aria-label="Email">
+          <a
+            href="mailto:karoliscibiras@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-rose-900 dark:hover:text-rose-700 transition-colors"
+            aria-label="Email"
+            title="Send email to Karolis Cibiras"
+          >
             <FaEnvelope />
           </a>
         </div>
 
         {/* Privatumo politikos nuoroda - be jokio margin bottom */}
         <div className="sm:order-3">
-          <Link to="/privacy-policy" className="text-rose-900 dark:text-rose-700 hover:underline text-sm font-medium">
+          <Link
+            to="/privacy-policy"
+            className="text-rose-900 dark:text-rose-700 hover:underline text-sm font-medium"
+            title={t('footer.privacy_policy')}
+            aria-label={t('footer.privacy_policy')}
+          >
             {t('footer.privacy_policy')}
           </Link>
         </div>

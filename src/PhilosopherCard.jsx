@@ -33,6 +33,7 @@ export default function PhilosopherCard({ philosopher, onClick, linkToDetail = f
           className="w-full h-full object-contain p-2 transition-transform duration-300 group-hover:scale-105"
           alt={philosopher.name}
           loading="lazy"
+          decoding="async"
           onError={(e) => { e.target.onerror = null; e.target.src = '/placeholder-image.jpg'; }}
         />
       </div>

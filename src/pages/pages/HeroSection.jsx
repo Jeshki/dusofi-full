@@ -17,9 +17,11 @@ export default function HeroSection() {
         </div>
         <img
           src={whiteLogo}
-          alt="2Philosophers Logo"
+          alt="DuSofi Philosophy Logo"
+          title="DuSofi Philosophy Logo"
           className="w-48 h-48 sm:w-80 sm:h-80 lg:w-96 lg:h-96 object-contain"
           loading="lazy"
+          decoding="async"
         />
       </div>
     </section>

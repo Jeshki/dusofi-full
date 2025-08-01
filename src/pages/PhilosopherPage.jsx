@@ -69,6 +69,7 @@ export default function PhilosopherPage() {
           alt={philosopher.name}
           className="w-[300px] h-[300px] sm:w-[400px] sm:h-[400px] lg:w-[512px] lg:h-[512px] object-cover rounded-xl shadow-lg border border-gray-200 dark:border-gray-700"
           loading="lazy"
+          decoding="async"
         />
       </div>
 
