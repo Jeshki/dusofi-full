@@ -84,6 +84,16 @@
     "view_details": "Peržiūrėti detales",
     "no_quote_available": "(Citatų nėra)"
   },
+  "donate": {
+    "button_label": "Aukoti",
+    "dropdown_label": "Aukojimo parinktys",
+    "copy_button": "Kopijuoti adresą",
+    "copied_button": "Nukopijuota!",
+    "copy_address_label": "Kopijuoti {currency} adresą",
+    "paypal_label": "Aukoti per PayPal",
+    "paypal_description": "Atidaryti PayPal aukojimo puslapį",
+    "copy_failed_message": "Nepavyko nukopijuoti adreso. Bandykite dar kartą."
+  },
   "geographical_regions": {
     "GREECE": "Graikija",
     "ROME": "Roma",

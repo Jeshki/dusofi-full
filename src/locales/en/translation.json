@@ -84,6 +84,16 @@
     "view_details": "View Details",
     "no_quote_available": "(No quote available)"
   },
+  "donate": {
+    "button_label": "Donate",
+    "dropdown_label": "Donation options",
+    "copy_button": "Copy address",
+    "copied_button": "Copied!",
+    "copy_address_label": "Copy {currency} address",
+    "paypal_label": "Donate with PayPal",
+    "paypal_description": "Open PayPal donation page",
+    "copy_failed_message": "Failed to copy address. Please try again."
+  },
   "geographical_regions": {
     "GREECE": "Greece",
     "ROME": "Rome",
