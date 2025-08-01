@@ -191,7 +191,7 @@ export default function App() {
   const [darkMode, setDarkMode] = useState(() => localStorage.getItem('darkMode') === 'true');
   const [selectedGroup, setSelectedGroup] = useState('');
   const [selectedRegion, setSelectedRegion] = useState('');
-  const [sortBy, setSortBy] = useState('oldest_first'); // Pakeista numatytoji reikšmė
+  const [sortBy, setSortBy] = useState('youngest_first'); // Default to youngest first
   const [selectedChronologicalOrder, setSelectedChronologicalOrder] = useState('');
   const [modalContent, setModalContent] = useState({ philosopher: null, contentType: null });
   // Pridėta: slapukų būsena
@@ -220,12 +220,12 @@ export default function App() {
       }
       setSelectedRegion('');
       setSelectedChronologicalOrder('');
-      setSortBy('oldest_first'); // Pakeista numatytoji reikšmė
+      setSortBy('youngest_first'); // Default sorting when navigating with group param
     } else if (location.pathname !== '/philosophers') {
       setSelectedGroup('');
       setSelectedRegion('');
       setSelectedChronologicalOrder('');
-      setSortBy('oldest_first'); // Pakeista numatytoji reikšmė, kad atitiktų
+      setSortBy('youngest_first'); // Default sorting when leaving philosophers page
     }
   }, [location.search, location.pathname]);
 
@@ -270,7 +270,7 @@ export default function App() {
     setSelectedGroup('');
     setSelectedRegion('');
     setSelectedChronologicalOrder('');
-    setSortBy('oldest_first'); // Pakeista numatytoji reikšmė
+    setSortBy('youngest_first'); // Reset sorting to youngest first
   }, []);
 
   // Funkcija slapukų sutikimui
