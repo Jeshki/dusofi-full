@@ -25,7 +25,7 @@ export default function SEO({
   // Enhanced default values
   const defaultTitle = 'DuSofi - Explore Philosophy & Wisdom | Ancient & Modern Philosophical Insights';
   const defaultDescription = 'Discover philosophical wisdom from history\'s greatest thinkers. Explore 500+ philosophers, ideologies, and 10,000+ timeless quotes that shape our understanding of life, ethics, and existence.';
-  const defaultImage = `${baseUrl}/images/og-dusofi-philosophy.jpg`;
+  const defaultImage = `${baseUrl}/images/og-dusofi-philosophy.png`;
   const defaultKeywords = 'philosophy, philosophers, wisdom, quotes, ideologies, ancient philosophy, modern philosophy, ethics, metaphysics, existentialism, stoicism, aristotle, plato, socrates, kant, nietzsche';
 
   const seoTitle = title || defaultTitle;
