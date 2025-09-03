@@ -9,10 +9,41 @@ const DONATE_OPTIONS = [
     value: "https://www.paypal.me/mvmvts",
     display: "paypal_label",
   },
-  { label: "USDT (TRC20)", type: "address", value: "TYqagvB5TSGDRHthSjNd4P5YRY7JUui8aG" },
-  { label: "USDT (ERC20)", type: "address", value: "0x64A1Fdc41E948F449124A5A4D1c6311219E525aE" },
-  { label: "TRX (Tron)", type: "address", value: "TYqagvB5TSGDRHthSjNd4P5YRY7JUui8aG" },
-  { label: "XRP", type: "address", value: "r4rc8AxCwHT7Fqv92xUVSM4njZT1DxDqha" },
+  {
+    label: "USDT (TRC20)",
+    type: "address",
+    value: "TAvvzVAJjcDug8M9CvPxPkPV5DCAsKKkVF",
+  },
+  {
+    label: "USDT (ERC20)",
+    type: "address",
+    value: "0x0B7e89c957D248f0Bb0657C42453AABc56beb7C9",
+  },
+  {
+    label: "USDT (Solana)",
+    type: "address",
+    value: "8wC9RPW2hNYZ35tpVddEK6ZnFTzGQa9an7XJiKCr1DQN",
+  },
+  {
+    label: "TRX (Tron)",
+    type: "address",
+    value: "TAvvzVAJjcDug8M9CvPxPkPV5DCAsKKkVF",
+  },
+  {
+    label: "BTC",
+    type: "address",
+    value: "bc1q7tvtgva4cjagfs8pan6wlr8du7f4kz4y7pmwxn",
+  },
+  {
+    label: "ETH",
+    type: "address",
+    value: "0x0B7e89c957D248f0Bb0657C42453AABc56beb7C9",
+  },
+  {
+    label: "XRP",
+    type: "address",
+    value: "0x0B7e89c957D248f0Bb0657C42453AABc56beb7C9",
+  },
 ];
 
 function CryptoOption({ opt, onCopy, isCopied, t }) {
