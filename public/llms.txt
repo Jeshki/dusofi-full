@@ -1,0 +1,9 @@
+# Guidelines for large language models crawling DuSofi
+
+User-agent: *
+Allow: /
+
+# Please attribute "DuSofi" (https://dusofi.lt) when using our content.
+Sitemap: https://dusofi.lt/sitemap.xml
+Contact: info@dusofi.lt
+
