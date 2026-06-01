@@ -1,0 +1,205 @@
+{
+  "header": {
+    "home": "Inicio",
+    "philosophers": "Filósofos",
+    "ideologies": "Filosofías",
+    "quotes": "Citas",
+    "about": "Acerca de",
+    "open_menu": "Abrir menú",
+    "close_menu": "Cerrar menú",
+    "main_nav": "Navegación principal",
+    "main_nav_mobile": "Navegación principal (móvil)",
+    "activate_light_mode": "Activar modo claro",
+    "activate_dark_mode": "Activar modo oscuro",
+    "change_lang_en": "Cambiar idioma a inglés",
+    "change_lang_lt": "Cambiar idioma a lituano",
+    "change_lang_fr": "Cambiar idioma a francés",
+    "change_lang_de": "Cambiar idioma a alemán",
+    "change_lang_es": "Cambiar idioma a español",
+    "change_lang_it": "Cambiar idioma a italiano",
+    "language": "Idioma"
+  },
+  "footer": {
+    "all_rights_reserved": "Todos los derechos reservados.",
+    "privacy_policy": "Política de privacidad"
+  },
+  "hero_section": {
+    "title": "Descubre citas<br />de las figuras<br />influyentes de la filosofía",
+    "subtitle": "Desbloquea sabiduría e inspiración"
+  },
+  "intro_section": {
+    "title": "Idea de este sitio web",
+    "p1": "Este sitio web se creó con el deseo de compartir sabiduría atemporal — palabras que inspiran, invitan a la reflexión y ofrecen nuevas perspectivas.",
+    "p2": "En el corazón de este viaje está Sócrates, uno de los grandes filósofos de la historia, cuya famosa cita «Solo sé que no sé nada» captura la esencia de la humildad y el aprendizaje para toda la vida.",
+    "p3": "Esta plataforma reúne las voces de pensadores influyentes, del pasado y del presente, ofreciendo un espacio donde sus ideas pueden inspirarnos y guiarnos."
+  },
+  "home_page": {
+    "philosophers_title": "Filósofos",
+    "no_philosophers_found": "No se encontraron filósofos que coincidan con tus criterios."
+  },
+  "philosophers_list_page": {
+    "title": "Explorar filósofos",
+    "no_philosophers_found": "No se encontraron filósofos que coincidan con tus criterios."
+  },
+  "philosopher_page": {
+    "philosopher_not_found": "Filósofo no encontrado.",
+    "biography": "Biografía",
+    "short_story": "Historia corta",
+    "quotes": "Citas",
+    "no_detailed_biography_available": "No hay biografía detallada disponible.",
+    "no_short_story_available": "No hay historia corta disponible.",
+    "no_quotes_available": "No hay citas disponibles."
+  },
+  "quotes_page": {
+    "title": "Citas filosóficas",
+    "subtitle": "Explora sabiduría atemporal de pensadores influyentes a lo largo de la historia, o encuentra inspiración al azar.",
+    "search_placeholder": "Buscar citas o autores…",
+    "show_random_quote": "Mostrar cita aleatoria",
+    "clear_all_filters": "Borrar todos los filtros",
+    "no_quotes_found": "No se encontraron citas que coincidan con tus criterios.",
+    "page": "Página",
+    "of": "de",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "copied": "¡Copiado!"
+  },
+  "filters": {
+    "ideological_group": "Grupo ideológico",
+    "all_groups": "Todos los grupos",
+    "geographical_region": "Región geográfica",
+    "all_regions": "Todas las regiones",
+    "sort_by": "Ordenar por",
+    "name_a_z": "Nombre (A–Z)",
+    "oldest_first": "Más antiguos primero (año de nacimiento)",
+    "youngest_first": "Más jóvenes primero (año de nacimiento)",
+    "newest_by_death": "Más recientes primero (año de fallecimiento)",
+    "chronological_order": "Periodo cronológico",
+    "all_periods": "Todos los periodos",
+    "reset_all": "Restablecer"
+  },
+  "ideologies_page": {
+    "title": "Ideologías filosóficas",
+    "view_philosophers_in_this_group": "Ver filósofos de este grupo",
+    "page_description": "Esta página ofrece una descripción de las principales ideologías filosóficas. Para saber más sobre filósofos asociados a estas ideologías, explora la sección de la lista de filósofos.",
+    "back_to_top": "Volver arriba"
+  },
+  "about_page": {
+    "title": "Mi sitio web de portafolio",
+    "p1": "Hace un tiempo, surgió una idea en mi mente: crear un sitio web de portafolio personal. El comienzo fue humilde y sencillo, pero poco a poco esta visión se convirtió en un proyecto mucho más sólido. Me alegra presentar un sitio web construido con las últimas tecnologías, donde espero que encuentres mucha información útil.",
+    "p2": "Aquí descubrirás una gran cantidad de citas inspiradoras y biografías de personalidades famosas. Creo que los visitantes encontrarán ideas sobre cómo la filosofía y los pensamientos de grandes pensadores influyen en nuestras vidas. Al fin y al cabo, crecimos rodeados de innumerables citas, y ahora las ideas de muchos autores se han convertido en una parte integral de nuestra forma de pensar.",
+    "p3": "Este proyecto nació de forma inesperada, durante una rehabilitación en un sanatorio. Decidí aprovechar los momentos libres, que normalmente serían para descansar, de manera significativa y hacer realidad un viejo sueño.",
+    "p4": "Quiero agradecer sinceramente a las personas queridas sin las cuales este proyecto no habría visto la luz. En primer lugar, un gran GRACIAS a mi pareja por su apoyo invaluable, fortaleza, sabiduría y creatividad. Gracias a mi hijo por la inspiración diaria. Y, por supuesto, gracias a mi madre y a mi abuela por su cuidado y cariño infinitos.",
+    "p5": "Si crees que mi trabajo merece reconocimiento y te gustaría contribuir a la realización de futuros proyectos, te estaré sinceramente agradecido por tu apoyo. ¡Aún tengo muchas ideas y planes que no puedo esperar a convertir en realidad!"
+  },
+  "philosopher_card": {
+    "view_details": "Ver detalles",
+    "no_quote_available": "(No hay cita disponible)"
+  },
+  "geographical_regions": {
+    "GREECE": "Grecia",
+    "ROME": "Roma",
+    "GERMANY": "Alemania",
+    "FRANCE": "Francia",
+    "ITALY": "Italia",
+    "BRITISH_ISLES": "Islas Británicas",
+    "EUROPE": "Europa",
+    "NORTH_AMERICA": "América del Norte",
+    "NORTH_AFRICA": "África",
+    "INDIA": "India",
+    "EAST": "Oriente"
+  },
+  "chronological_periods": {
+    "ANCIENT": "Antigüedad",
+    "CLASSICAL": "Clásico",
+    "MEDIEVAL": "Medieval",
+    "RENAISSANCE": "Renacimiento",
+    "EARLY_MODERN": "Edad moderna temprana",
+    "MODERN": "Moderno",
+    "CONTEMPORARY": "Contemporáneo"
+  },
+  "ideological_groups_display": {
+    "Christian Philosophy": "Filosofía cristiana",
+    "Materialists": "Materialistas",
+    "Idealist": "Idealistas",
+    "Empiricism/Realism": "Empirismo/Realismo",
+    "Rationalism/Dualism": "Racionalismo/Dualismo",
+    "Critical/Existentialism/Phenomenology": "Filosofía crítica/Existencialismo/Fenomenología",
+    "Islamic Philosophy": "Filosofía islámica",
+    "Hinduism": "Hinduismo",
+    "Buddhism": "Budismo",
+    "Spirituality": "Espiritualidad",
+    "Ethics/Politics": "Ética/Política",
+    "Stoics": "Estoicos",
+    "Pessimism": "Pesimismo"
+  },
+  "privacy_policy": {
+    "title": "Política de privacidad",
+    "intro": "Esta Política de Privacidad describe cómo se recopilan, usan y comparten tus datos personales cuando visitas o utilizas este sitio web.",
+    "data_collection": {
+      "title": "Información que recopilamos",
+      "p1": "No recopilamos directamente información personal identificable de nuestros visitantes. Este sitio web está diseñado para ser puramente informativo y no tiene funciones que requieran introducir datos personales (por ejemplo, cuentas de usuario, formularios de contacto, secciones de comentarios).",
+      "list1": "No usamos herramientas de analítica (como Google Analytics) que rastreen tu comportamiento.",
+      "list2": "No recopilamos tu dirección IP ni otra información de red identificable.",
+      "list3": "No recopilamos información sobre tu navegador, dispositivo o sistema operativo.",
+      "p2": "Cualquier dato procesado por servicios de terceros (si los hubiera implícitamente usados, como registros del proveedor de hosting) está fuera de nuestro control directo y no se recopila ni gestiona activamente con fines analíticos o de marketing."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "p1": "Este sitio web utiliza solo cookies esenciales para su funcionalidad básica, específicamente para gestionar tu preferencia de modo oscuro y tu elección de consentimiento de cookies.",
+      "p2": "Estas cookies no recopilan datos personales y son necesarias para que el sitio web funcione como se espera. No usamos cookies publicitarias o de seguimiento de terceros.",
+      "p3": "Al continuar usando este sitio web, aceptas el uso de estas cookies esenciales. Tu preferencia de modo oscuro se almacena localmente en tu dispositivo para tu comodidad."
+    },
+    "data_security": {
+      "title": "Seguridad de los datos",
+      "p1": "Dado que no recopilamos datos personales, el riesgo de brechas de datos se minimiza. Nos esforzamos por mantener la seguridad de nuestro sitio web y protegerlo contra accesos no autorizados."
+    },
+    "your_rights": {
+      "title": "Tus derechos",
+      "p1": "Según el RGPD (Reglamento General de Protección de Datos), tienes ciertos derechos respecto a tus datos personales. Como no recopilamos datos personales, la mayoría de estos derechos no aplican. Sin embargo, garantizamos transparencia sobre el tratamiento de datos:",
+      "list1": "Derecho a la información: tienes derecho a saber qué datos recopilamos (en nuestro caso, ninguno).",
+      "list2": "Derecho de supresión («derecho al olvido»): como no almacenamos tus datos personales, no hay datos que borrar.",
+      "list3": "Derecho de oposición: puedes oponerte al uso de cookies mediante la configuración de tu navegador o rechazando nuestro consentimiento de cookies.",
+      "list4": "Derecho de acceso: puedes revisar nuestro código abierto para verificar nuestras prácticas de datos.",
+      "p2": "Para cualquier inquietud relacionada con la privacidad, puedes ajustar la configuración de tu navegador o simplemente dejar de usar el sitio web."
+    },
+    "changes": {
+      "title": "Cambios en esta Política de Privacidad",
+      "p1": "Podemos actualizar esta Política de Privacidad de vez en cuando para reflejar cambios en nuestras prácticas o por otras razones operativas, legales o regulatorias. Cualquier cambio se publicará en esta página."
+    },
+    "contact": {
+      "title": "Contacto",
+      "p1": "Si tienes alguna pregunta sobre esta Política de Privacidad o tus datos, contáctanos por correo electrónico.",
+      "p2": "Correo: karoliscibiras@gmail.com"
+    },
+    "back_to_home": "Volver a inicio"
+  },
+  "cookie_consent": {
+    "text": "Usamos cookies esenciales para garantizar la funcionalidad básica del sitio web. No se recopilan datos personales. Al hacer clic en «Aceptar» o continuar usando el sitio, aceptas nuestro uso de estas cookies. Lee nuestra",
+    "privacy_policy": "Política de privacidad",
+    "accept": "Aceptar",
+    "decline": "Rechazar"
+  },
+  "seo": {
+    "home_page_title": "Descubre citas de filosofía | DuSofi",
+    "home_page_description": "Explora sabiduría atemporal y citas inspiradoras de filósofos influyentes a lo largo de la historia en DuSofi.",
+    "philosophers_page_title": "Explorar filósofos | DuSofi",
+    "philosophers_page_description": "Descubre una lista completa de filósofos, sus biografías e ideas principales en DuSofi.",
+    "philosopher_page_title_dynamic": "{philosopherName} | Perfil de filósofo | DuSofi",
+    "philosopher_page_description_dynamic": "Conoce la vida, la filosofía y las citas de {philosopherName} ({years}) en DuSofi.",
+    "quotes_page_title": "Citas filosóficas | DuSofi",
+    "quotes_page_description": "Encuentra citas filosóficas inspiradoras de pensadores famosos. Busca, filtra y descubre sabiduría atemporal en DuSofi.",
+    "ideologies_page_title": "Ideologías filosóficas | DuSofi",
+    "ideologies_page_description": "Explora las principales ideologías filosóficas, sus conceptos y pensadores asociados en DuSofi.",
+    "about_page_title": "Acerca de DuSofi | Mi sitio web de portafolio",
+    "about_page_description": "Conoce la creación y el propósito de DuSofi, un proyecto personal de portafolio que muestra filosofía y sabiduría.",
+    "privacy_policy_title": "Política de privacidad | DuSofi",
+    "privacy_policy_description": "Lee nuestra Política de Privacidad para entender cómo DuSofi gestiona tus datos y preferencias de cookies. Priorizamos tu privacidad.",
+    "philosopher_not_found_title": "Filósofo no encontrado | DuSofi",
+    "philosopher_not_found_description": "No se encontró el filósofo solicitado. Explora nuestra lista de filósofos disponibles en DuSofi."
+  },
+  "not_found": {
+    "title": "Página no encontrada",
+    "description": "Lo sentimos, esta página no existe o se ha movido.",
+    "cta": "Ir al inicio"
+  }
+}

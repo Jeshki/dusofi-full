@@ -1,0 +1,205 @@
+{
+  "header": {
+    "home": "Accueil",
+    "philosophers": "Philosophes",
+    "ideologies": "Philosophies",
+    "quotes": "Citations",
+    "about": "À propos",
+    "open_menu": "Ouvrir le menu",
+    "close_menu": "Fermer le menu",
+    "main_nav": "Navigation principale",
+    "main_nav_mobile": "Navigation principale (mobile)",
+    "activate_light_mode": "Activer le mode clair",
+    "activate_dark_mode": "Activer le mode sombre",
+    "change_lang_en": "Passer à l’anglais",
+    "change_lang_lt": "Passer au lituanien",
+    "change_lang_fr": "Passer au français",
+    "change_lang_de": "Passer à l’allemand",
+    "change_lang_es": "Passer à l’espagnol",
+    "change_lang_it": "Passer à l’italien",
+    "language": "Langue"
+  },
+  "footer": {
+    "all_rights_reserved": "Tous droits réservés.",
+    "privacy_policy": "Politique de confidentialité"
+  },
+  "hero_section": {
+    "title": "Découvrez des citations<br />des figures<br />influentes de la philosophie",
+    "subtitle": "Accédez à la sagesse et à l’inspiration"
+  },
+  "intro_section": {
+    "title": "Idée de ce site",
+    "p1": "Ce site a été créé avec le désir de partager une sagesse intemporelle — des mots qui inspirent, invitent à la réflexion et offrent de nouvelles perspectives.",
+    "p2": "Au cœur de ce voyage se trouve Socrate, l’un des plus grands philosophes de l’histoire, dont la célèbre citation « Je sais que je ne sais rien » résume l’humilité et l’apprentissage tout au long de la vie.",
+    "p3": "Cette plateforme réunit les voix de penseurs influents, passés et présents, offrant un espace où leurs idées peuvent susciter l’inspiration et nous guider."
+  },
+  "home_page": {
+    "philosophers_title": "Philosophes",
+    "no_philosophers_found": "Aucun philosophe ne correspond à vos critères."
+  },
+  "philosophers_list_page": {
+    "title": "Explorer les philosophes",
+    "no_philosophers_found": "Aucun philosophe ne correspond à vos critères."
+  },
+  "philosopher_page": {
+    "philosopher_not_found": "Philosophe introuvable.",
+    "biography": "Biographie",
+    "short_story": "Histoire courte",
+    "quotes": "Citations",
+    "no_detailed_biography_available": "Aucune biographie détaillée disponible.",
+    "no_short_story_available": "Aucune histoire courte disponible.",
+    "no_quotes_available": "Aucune citation disponible."
+  },
+  "quotes_page": {
+    "title": "Citations philosophiques",
+    "subtitle": "Explorez une sagesse intemporelle de penseurs influents à travers l’histoire, ou trouvez une inspiration au hasard.",
+    "search_placeholder": "Rechercher des citations ou des auteurs…",
+    "show_random_quote": "Afficher une citation au hasard",
+    "clear_all_filters": "Effacer tous les filtres",
+    "no_quotes_found": "Aucune citation ne correspond à vos critères.",
+    "page": "Page",
+    "of": "sur",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "copied": "Copié !"
+  },
+  "filters": {
+    "ideological_group": "Groupe idéologique",
+    "all_groups": "Tous les groupes",
+    "geographical_region": "Région géographique",
+    "all_regions": "Toutes les régions",
+    "sort_by": "Trier par",
+    "name_a_z": "Nom (A–Z)",
+    "oldest_first": "Les plus anciens d’abord (année de naissance)",
+    "youngest_first": "Les plus jeunes d’abord (année de naissance)",
+    "newest_by_death": "Les plus récents d’abord (année de décès)",
+    "chronological_order": "Période chronologique",
+    "all_periods": "Toutes les périodes",
+    "reset_all": "Réinitialiser"
+  },
+  "ideologies_page": {
+    "title": "Idéologies philosophiques",
+    "view_philosophers_in_this_group": "Voir les philosophes de ce groupe",
+    "page_description": "Cette page présente une description des principales idéologies philosophiques. Pour en savoir plus sur les philosophes associés à ces idéologies, explorez la liste des philosophes.",
+    "back_to_top": "Retour en haut"
+  },
+  "about_page": {
+    "title": "Mon site portfolio",
+    "p1": "Il y a quelque temps, une idée m’est venue — créer un site portfolio personnel. Le début était humble et simple, mais peu à peu, cette vision s’est transformée en un projet bien plus conséquent. Je suis ravi de présenter un site construit avec les dernières technologies, où j’espère que vous trouverez beaucoup d’informations utiles.",
+    "p2": "Ici, vous découvrirez de nombreuses citations inspirantes et des biographies de personnalités célèbres. Je pense que les visiteurs y trouveront des éclairages sur la manière dont la philosophie et les pensées des grands penseurs influencent nos vies. Après tout, nous avons grandi entourés d’innombrables citations, et aujourd’hui les idées de nombreux auteurs sont devenues partie intégrante de notre façon de penser.",
+    "p3": "Ce projet est né de façon inattendue — lors d’une rééducation dans un sanatorium. J’ai décidé d’utiliser les moments libres, qui seraient normalement consacrés au repos, de manière utile et de réaliser un vieux rêve.",
+    "p4": "Je tiens sincèrement à remercier les personnes chères sans lesquelles ce projet n’aurait pas vu le jour. Avant tout, un grand MERCI à ma moitié pour son soutien inestimable, sa force, sa sagesse et sa créativité. Merci à mon fils pour son inspiration quotidienne. Et, bien sûr, merci à ma mère et à ma grand-mère pour leur soin et leur attention sans fin.",
+    "p5": "Si vous pensez que mon travail mérite d’être apprécié et que vous souhaitez contribuer à la réalisation de futurs projets, je vous serais très reconnaissant pour votre soutien. J’ai encore beaucoup d’idées et de projets que j’ai hâte de concrétiser !"
+  },
+  "philosopher_card": {
+    "view_details": "Voir les détails",
+    "no_quote_available": "(Aucune citation disponible)"
+  },
+  "geographical_regions": {
+    "GREECE": "Grèce",
+    "ROME": "Rome",
+    "GERMANY": "Allemagne",
+    "FRANCE": "France",
+    "ITALY": "Italie",
+    "BRITISH_ISLES": "Îles Britanniques",
+    "EUROPE": "Europe",
+    "NORTH_AMERICA": "Amérique du Nord",
+    "NORTH_AFRICA": "Afrique",
+    "INDIA": "Inde",
+    "EAST": "Orient"
+  },
+  "chronological_periods": {
+    "ANCIENT": "Antiquité",
+    "CLASSICAL": "Classique",
+    "MEDIEVAL": "Médiéval",
+    "RENAISSANCE": "Renaissance",
+    "EARLY_MODERN": "Début de l’époque moderne",
+    "MODERN": "Moderne",
+    "CONTEMPORARY": "Contemporain"
+  },
+  "ideological_groups_display": {
+    "Christian Philosophy": "Philosophie chrétienne",
+    "Materialists": "Matérialistes",
+    "Idealist": "Idéalistes",
+    "Empiricism/Realism": "Empirisme/Réalisme",
+    "Rationalism/Dualism": "Rationalisme/Dualisme",
+    "Critical/Existentialism/Phenomenology": "Philosophie critique/Existentialisme/Phénoménologie",
+    "Islamic Philosophy": "Philosophie islamique",
+    "Hinduism": "Hindouisme",
+    "Buddhism": "Bouddhisme",
+    "Spirituality": "Spiritualité",
+    "Ethics/Politics": "Éthique/Politique",
+    "Stoics": "Stoïciens",
+    "Pessimism": "Pessimisme"
+  },
+  "privacy_policy": {
+    "title": "Politique de confidentialité",
+    "intro": "Cette politique de confidentialité décrit comment vos données personnelles sont collectées, utilisées et partagées lorsque vous visitez ou utilisez ce site.",
+    "data_collection": {
+      "title": "Informations que nous collectons",
+      "p1": "Nous ne collectons pas directement d’informations personnelles identifiables auprès de nos visiteurs. Ce site est purement informatif et ne propose pas de fonctionnalités nécessitant la saisie de données personnelles (par exemple, comptes utilisateurs, formulaires de contact, commentaires).",
+      "list1": "Nous n’utilisons pas d’outils d’analyse (comme Google Analytics) qui suivent votre comportement.",
+      "list2": "Nous ne collectons pas votre adresse IP ni d’autres informations réseau identifiantes.",
+      "list3": "Nous ne collectons pas d’informations sur votre navigateur, votre appareil ou votre système d’exploitation.",
+      "p2": "Toute donnée traitée par des services tiers (le cas échéant, comme les journaux du fournisseur d’hébergement) est hors de notre contrôle direct et n’est pas activement collectée ou gérée à des fins d’analyse ou de marketing."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "p1": "Ce site utilise uniquement des cookies essentiels à son fonctionnement de base, notamment pour gérer votre préférence de mode sombre et votre choix de consentement aux cookies.",
+      "p2": "Ces cookies ne collectent aucune donnée personnelle et sont nécessaires pour que le site fonctionne comme prévu. Nous n’utilisons pas de cookies publicitaires ou de suivi de tiers.",
+      "p3": "En continuant à utiliser ce site, vous consentez à l’utilisation de ces cookies essentiels. Votre préférence de mode sombre est stockée localement sur votre appareil pour votre confort."
+    },
+    "data_security": {
+      "title": "Sécurité des données",
+      "p1": "Étant donné que nous ne collectons pas de données personnelles, le risque de violation de données est minimisé. Nous nous efforçons de maintenir la sécurité de notre site et de le protéger contre tout accès non autorisé."
+    },
+    "your_rights": {
+      "title": "Vos droits",
+      "p1": "Selon le RGPD (Règlement général sur la protection des données), vous disposez de certains droits concernant vos données personnelles. Comme nous ne collectons pas de données personnelles, la plupart de ces droits ne s’appliquent pas. Toutefois, nous assurons la transparence concernant le traitement des données :",
+      "list1": "Droit à l’information : vous avez le droit de savoir quelles données nous collectons (dans notre cas, aucune).",
+      "list2": "Droit à l’effacement (« droit à l’oubli ») : comme nous ne stockons pas vos données personnelles, il n’y a aucune donnée à effacer.",
+      "list3": "Droit d’opposition : vous pouvez vous opposer à l’utilisation des cookies via les paramètres de votre navigateur ou en refusant notre consentement aux cookies.",
+      "list4": "Droit d’accès : vous pouvez consulter notre code open source pour vérifier nos pratiques en matière de données.",
+      "p2": "Pour toute préoccupation liée à la confidentialité, vous pouvez ajuster les paramètres de votre navigateur ou simplement cesser d’utiliser le site."
+    },
+    "changes": {
+      "title": "Modifications de cette politique de confidentialité",
+      "p1": "Nous pouvons mettre à jour cette politique de confidentialité de temps à autre pour refléter des changements dans nos pratiques ou pour d’autres raisons opérationnelles, légales ou réglementaires. Toute modification sera publiée sur cette page."
+    },
+    "contact": {
+      "title": "Nous contacter",
+      "p1": "Si vous avez des questions concernant cette politique de confidentialité ou vos données, veuillez nous contacter par e-mail.",
+      "p2": "E-mail : karoliscibiras@gmail.com"
+    },
+    "back_to_home": "Retour à l’accueil"
+  },
+  "cookie_consent": {
+    "text": "Nous utilisons des cookies essentiels pour assurer le fonctionnement de base du site. Aucune donnée personnelle n’est collectée. En cliquant sur « Accepter » ou en continuant à utiliser le site, vous acceptez l’utilisation de ces cookies. Lisez notre",
+    "privacy_policy": "Politique de confidentialité",
+    "accept": "Accepter",
+    "decline": "Refuser"
+  },
+  "seo": {
+    "home_page_title": "Découvrir des citations de philosophie | DuSofi",
+    "home_page_description": "Explorez une sagesse intemporelle et des citations inspirantes de philosophes influents à travers l’histoire sur DuSofi.",
+    "philosophers_page_title": "Explorer les philosophes | DuSofi",
+    "philosophers_page_description": "Découvrez une liste complète de philosophes, leurs biographies et leurs idées centrales sur DuSofi.",
+    "philosopher_page_title_dynamic": "{philosopherName} | Profil de philosophe | DuSofi",
+    "philosopher_page_description_dynamic": "Découvrez la vie, la philosophie et les citations de {philosopherName} ({years}) sur DuSofi.",
+    "quotes_page_title": "Citations philosophiques | DuSofi",
+    "quotes_page_description": "Trouvez des citations philosophiques inspirantes de penseurs célèbres. Recherchez, filtrez et découvrez une sagesse intemporelle sur DuSofi.",
+    "ideologies_page_title": "Idéologies philosophiques | DuSofi",
+    "ideologies_page_description": "Explorez les principales idéologies philosophiques, leurs concepts et les penseurs associés sur DuSofi.",
+    "about_page_title": "À propos de DuSofi | Mon site portfolio",
+    "about_page_description": "Découvrez la création et l’objectif de DuSofi, un projet portfolio personnel mettant en avant la philosophie et la sagesse.",
+    "privacy_policy_title": "Politique de confidentialité | DuSofi",
+    "privacy_policy_description": "Lisez notre politique de confidentialité pour comprendre comment DuSofi gère vos données et vos préférences de cookies. Nous privilégions votre confidentialité.",
+    "philosopher_not_found_title": "Philosophe introuvable | DuSofi",
+    "philosopher_not_found_description": "Le philosophe demandé est introuvable. Explorez notre liste de philosophes disponibles sur DuSofi."
+  },
+  "not_found": {
+    "title": "Page introuvable",
+    "description": "Désolé, cette page n'existe pas ou a été déplacée.",
+    "cta": "Accueil"
+  }
+}

@@ -4,31 +4,37 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "clean": "node ./scripts/clean-legacy-next-dist.mjs --all",
+    "dev": "node ./scripts/clean-legacy-next-dist.mjs && next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "audit:seo": "node ./scripts/audit-seo.mjs",
+    "audit:translations": "node ./scripts/audit-translations.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "dependencies": {
     "@google/genai": "^0.9.0",
     "@heroicons/react": "^2.2.0",
     "@vercel/analytics": "^1.5.0",
-    "i18next": "^25.2.1",
-    "i18next-browser-languagedetector": "^8.1.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-helmet-async": "^2.0.5",
-    "react-i18next": "^15.5.2",
-    "react-icons": "^5.5.0",
-    "react-router-dom": "^6.21.2"
+    "next": "^15.5.15",
+    "next-intl": "^4.9.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.5.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
-    "@vitejs/plugin-react": "^4.1.0",
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
     "autoprefixer": "^10.4.16",
     "eslint": "^9.25.0",
+    "eslint-config-next": "15.5.15",
     "postcss": "^8.4.33",
     "prettier": "3.5.3",
     "tailwindcss": "^3.4.1",
-    "vite": "^6.3.2"
+    "typescript": "5.6.3"
   }
 }
